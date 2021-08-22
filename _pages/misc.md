@@ -29,10 +29,12 @@ redirect_from:
 - [**LSH Algorithm and Implementation**, *Alexandr Andoni*](http://www.cs.columbia.edu/~andoni/LSH/)
 - [**High Speed Hashing for Integers and Strings**, *Mikkel Thorup*](https://arxiv.org/pdf/1504.06804.pdf)
 - [**Papers on Graph Analytics**, *Julian Shun*.](https://people.csail.mit.edu/jshun/graph.shtml)
-- [**CS Conference Ranking List**](https://perso.crans.org/~genest/conf.html)
-- [**Best Paper Awards in CS**](https://jeffhuang.com/best_paper_awards.html)
-- [**CCF Conferences DDL**](https://ccfddl.github.io)
 
+## Useful Links
+- [**Computer Science Conference Ranking List**](https://perso.crans.org/~genest/conf.html)
+- [**Best Paper Awards in Computer Science**](https://jeffhuang.com/best_paper_awards.html)
+- [**CCF Conference Deadlines**](https://ccfddl.github.io)
+- [**Top Computer Science Institutions Around the World**](http://csrankings.org)
 
 ## Conferences of Interest
 <iframe src="https://confsearch.ethz.ch/confsearch/faces/pages/staticresults.jsp?query=sigmod%20vldb%20kdd%20icde%20www%20wsdm%20cikm%20edbt%20icdm%20icdt%20cidr%20icml%20NeurIPS%20ijcai%20aaai&sortMode=1&graphicView=0" width="800" height="760" frameborder="0" scrolling="no"></iframe>
