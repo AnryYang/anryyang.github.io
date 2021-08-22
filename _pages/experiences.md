@@ -1,18 +1,11 @@
 ---
 layout: archive
-title: "Curriculum Vitae"
+title: ""
 permalink: /experiences/
 author_profile: true
 redirect_from:
   - /experiences
 ---
-
-<object data="https://anryyang.github.io/files/CV.pdf" type="application/pdf" width="500px" height="400px">
-    <embed src="https://anryyang.github.io/files/CV.pdf">
-        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="https://anryyang.github.io/files/CV.pdf">Download PDF</a>.</p>
-    </embed>
-</object>
-
 
 Academic Services
 ======
@@ -27,3 +20,14 @@ Selected Hornors
 - [Best Research Paper Award](https://vldb.org/2021/?conference-awards), VLDB 2021
 - [10th Prize of KDD Cup 2020 AutoGraph](https://www.4paradigm.com/competition/kddcup2020), KDD Cup 2020
 - [SIGMOD 2019 Travel Award](https://sigmod2019.org/grants), ACM SIGMOD
+
+
+Curriculum Vitae
+======
+<object data="https://anryyang.github.io/files/CV.pdf" type="application/pdf" width="400px" height="300px">
+    <embed src="https://anryyang.github.io/files/CV.pdf">
+        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="https://anryyang.github.io/files/CV.pdf">Download PDF</a>.</p>
+    </embed>
+</object>
+
+
