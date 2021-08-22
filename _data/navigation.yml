@@ -13,12 +13,12 @@ main:
     
   # - title: "Portfolio"
   #   url: /portfolio/
-        
-  # - title: "Blog Posts"
-  #   url: /year-archive/
 
   - title: "Datasets"
     url: /datasets/
+
+  - title: "Blog Posts"
+    url: /year-archive/
 
   - title: "Misc"
     url: /misc/
