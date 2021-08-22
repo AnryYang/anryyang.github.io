@@ -1,11 +1,13 @@
 ---
 layout: archive
-title: "Experiences"
+title: "Curriculum Vitae"
 permalink: /experiences/
 author_profile: true
 redirect_from:
   - /experiences
 ---
+
+[CV](https://anryyang.github.io/files/CV.pdf)
 
 Education
 ======
