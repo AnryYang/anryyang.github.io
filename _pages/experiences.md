@@ -7,16 +7,11 @@ redirect_from:
   - /experiences
 ---
 
-<object data="https://anryyang.github.io/files/CV.pdf" type="application/pdf" width="700px" height="700px">
+<object data="https://anryyang.github.io/files/CV.pdf" type="application/pdf" width="500px" height="400px">
     <embed src="https://anryyang.github.io/files/CV.pdf">
         <p>This browser does not support PDFs. Please download the PDF to view it: <a href="https://anryyang.github.io/files/CV.pdf">Download PDF</a>.</p>
     </embed>
 </object>
-
-Education
-======
-- Doctor of Philosophy, Nanyang Technological University, 2016-2020
-- Bachelor of Engineering, Beijing University of Posts and Telecommunications, 2011-2015
 
 
 Academic Services
