@@ -24,11 +24,6 @@ Research Interests
 - Graph mining and learning
 - Parallel and distributed computing
 
-Education
-======
-- Doctor of Philosophy, [Nanyang Technological University](https://www.ntu.edu.sg), 2016-2020
-- Bachelor of Engineering, [Beijing University of Posts and Telecommunications](https://english.bupt.edu.cn), 2011-2015
-
 Doctoral Thesis
 ======
 [Efficient and Scalable Techniques for PageRank-based Graph Analytics](https://hdl.handle.net/10356/145185), Renchi Yang, Digital Repository of NTU

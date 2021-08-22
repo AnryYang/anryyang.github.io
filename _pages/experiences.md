@@ -15,6 +15,10 @@ Work Experiences
 - Software Engineer, [Tencent, Inc.](https://www.tencent.com), Jul 2015 to Jun 2016
 - Software Engineer Intern, [Baidu, Inc.](https://ir.baidu.com), Nov 2014 to Apr 2015
 
+Education
+======
+- Doctor of Philosophy, [Nanyang Technological University](https://www.ntu.edu.sg), 2016-2020
+- Bachelor of Engineering, [Beijing University of Posts and Telecommunications](https://english.bupt.edu.cn), 2011-2015
 
 Academic Services
 ======
