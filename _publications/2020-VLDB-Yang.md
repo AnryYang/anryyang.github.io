@@ -10,6 +10,6 @@ featured: false
 venue: "Proceedings of the VLDB Endowment (PVLDB)"
 pdf: "http://www.vldb.org/pvldb/vol13/p670-yang.pdf"
 github: "https://github.com/AnryYang/NRP-code"
-slides: "https://www.dropbox.com/s/ipiw2qpzani1r6p/NRP.pptx?dl=0"
+slides: "https://renchi.ac.cn/files/NRP-slides.pptx"
 doi: "10.14778/3377369.3377376"
 ---

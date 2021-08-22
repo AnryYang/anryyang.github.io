@@ -10,7 +10,7 @@ featured: false
 venue: "Proceedings of the International Conference on Management of Data (SIGMOD)"
 pdf: "https://doi.org/10.1145/3299869.3319886"
 github: "https://github.com/AnryYang/tea"
-poster: "https://www.dropbox.com/s/k1ud15whurcr0ah/SIGMOD%202019-poster-Yang%20Renchi.pptx?dl=0"
-slides: "https://www.dropbox.com/s/n2q5370ilkge1rb/SIGMOD%202019-slides.pptx?dl=0"
+poster: "https://renchi.ac.cn/files/TEA-poster.pptx"
+slides: "https://renchi.ac.cn/files/TEA-slides.pptx"
 doi: "10.1145/3299869.3319886"
 ---
