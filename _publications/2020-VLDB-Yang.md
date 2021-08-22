@@ -3,7 +3,7 @@ title: "Homogeneous Network Embedding for Massive Graphs via Reweighted Personal
 collection: publications
 date: 2020-01-01
 publishDate: 2020-10-17T14:59:13.218484Z
-authors: ["Renchi Yang*", "Jieming Shi", "Xiaokui Xiao", "Yin Yang", "Sourav S. Bhowmick"]
+authors: "Renchi Yang, Jieming Shi, Xiaokui Xiao, Yin Yang, Sourav S. Bhowmick"
 publication_types: ["2"]
 abstract: ""
 featured: false

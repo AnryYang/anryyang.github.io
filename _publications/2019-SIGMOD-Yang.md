@@ -3,7 +3,7 @@ title: "Efficient Estimation of Heat Kernel PageRank for Local Clustering"
 collection: publications
 date: 2019-01-01
 publishDate: 2020-10-17T14:59:13.219242Z
-authors: ["Renchi Yang*", "Xiaokui Xiao", "Zhewei Wei", "Sourav S. Bhowmick", "Jun Zhao", "Rong-Hua Li"]
+authors: "Renchi Yang, Xiaokui Xiao, Zhewei Wei, Sourav S. Bhowmick, Jun Zhao, Rong-Hua Li"
 publication_types: ["1"]
 abstract: ""
 featured: false
