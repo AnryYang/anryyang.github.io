@@ -24,10 +24,6 @@ Selected Hornors
 
 Curriculum Vitae
 ======
-<object data="https://anryyang.github.io/files/CV.pdf" type="application/pdf" width="400px" height="300px">
-    <embed src="https://anryyang.github.io/files/CV.pdf">
-        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="https://anryyang.github.io/files/CV.pdf">Download PDF</a>.</p>
-    </embed>
-</object>
+<iframe src="https://anryyang.github.io/files/CV.pdf" width="100%" height="500" frameborder="no" border="0" marginwidth="0" marginheight="0"></iframe>
 
 
