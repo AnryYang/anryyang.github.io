@@ -7,6 +7,6 @@ publication_types: ["2"]
 abstract: ""
 featured: false
 venue: "Proceedings of the VLDB Endowment (PVLDB)"
-link: "http://vldb.org/pvldb/vol14/p1756-jin.pdf"
+paperurl: "http://vldb.org/pvldb/vol14/p1756-jin.pdf"
 doi: "10.14778/3467861.3467866"
 ---

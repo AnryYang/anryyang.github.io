@@ -7,7 +7,7 @@ publication_types: ["2"]
 abstract: ""
 featured: false
 venue: "Proceedings of the VLDB Endowment (PVLDB)"
-link: "http://www.vldb.org/pvldb/vol13/p15-shi.pdf"
+paperurl: "http://www.vldb.org/pvldb/vol13/p15-shi.pdf"
 code: "https://github.com/jmshi123/kPAR"
 doi: "10.14778/3357377.3357379"
 ---
