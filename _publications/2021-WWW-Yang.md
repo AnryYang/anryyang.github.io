@@ -10,5 +10,6 @@ featured: false
 venue: "Proceedings of The Web Conference (WWW)"
 pdf: "https://doi.org/10.1145/3442381.3449875"
 github: "https://github.com/AnryYang/ACMin"
+slides: "https://renchi.ac.cn/files/ACMin-slides.pptx"
 doi: "10.1145/3442381.3449875"
 ---
