@@ -1,5 +1,6 @@
 ---
 title: "Unconstrained Submodular Maximization with Modular Costs: Tight Approximation and Application to Profit Maximization"
+collection: publications
 date: 2021-01-01
 publishDate: 2021-05-18T05:06:32.794162Z
 authors: ["Tianyuan Jin", "Yu Yang", "Renchi Yang*", "Jieming Shi", "Keke Huang", "Xiaokui Xiao"]

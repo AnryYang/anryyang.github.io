@@ -1,5 +1,6 @@
 ---
 title: "Efficient Algorithms for Approximate Single-Source Personalized PageRank Queries"
+collection: publications
 date: 2019-01-01
 publishDate: 2020-10-17T14:59:13.219059Z
 authors: ["Sibo Wang", "Renchi Yang*", "Runhui Wang", "Xiaokui Xiao", "Zhewei Wei", "Wenqing Lin", "Yin Yang", "Nan Tang"]

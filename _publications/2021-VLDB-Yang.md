@@ -1,5 +1,6 @@
 ---
 title: "Scaling Attributed Network Embedding to Massive Graphs"
+collection: publications
 date: 2021-01-01
 publishDate: 2020-10-17T14:59:13.218163Z
 authors: ["Renchi Yang*", "Jieming Shi", "Xiaokui Xiao", "Yin Yang", "Juncheng Liu", "Sourav S. Bhowmick"]
