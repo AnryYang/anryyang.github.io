@@ -13,5 +13,5 @@ github: "https://github.com/AnryYang/PANE"
 poster: "https://renchi.ac.cn/files/PANE-poster.pptx"
 slides: "https://renchi.ac.cn/files/PANE-slides.pptx"
 doi: "10.14778/3421424.3421430"
-flag: **Best Research Paper Award**
+flag: "Best Research Paper Award"
 ---
