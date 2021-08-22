@@ -6,8 +6,8 @@ authors: ["Sibo Wang", "Renchi Yang*", "Runhui Wang", "Xiaokui Xiao", "Zhewei We
 publication_types: ["2"]
 abstract: ""
 featured: false
-publication: "*ACM Transaction on Database Systems*"
-url_pdf: "https://doi.org/10.1145/3360902"
+venue: "*ACM Transaction on Database Systems*"
+paperurl: "https://doi.org/10.1145/3360902"
 url_code: "https://github.com/wangsibovictor/fora"
 doi: "10.1145/3360902"
 ---
