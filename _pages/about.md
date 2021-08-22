@@ -29,6 +29,6 @@ Education
 - Doctor of Philosophy, Nanyang Technological University, 2016-2020
 - Bachelor of Engineering, Beijing University of Posts and Telecommunications, 2011-2015
 
-Thesis
+Doctoral Thesis
 ======
-[Efficient and Scalable Techniques for PageRank-based Graph Analytics](https://hdl.handle.net/10356/145185), Renchi Yang, Doctoral thesis, Digital Repository of NTU
+[Efficient and Scalable Techniques for PageRank-based Graph Analytics](https://hdl.handle.net/10356/145185), Renchi Yang, Digital Repository of NTU
