@@ -14,7 +14,7 @@ News
 ======
 - Aug 09, 2021: Our paper titled "Scaling Attributed Network Embedding to Massive Graphs" was selected as the best research paper in VLDB 2021
 - May 15, 2021: One paper "Unconstrained Submodular Maximization with Modular Costs: Tight Approximation and Application to Profit Maximization" has been accepted by VLDB 2021
-- Jan 16, 2021: One paper "Effective and Scalable Clustering on Massive Attributed Graphs" has been accepted by TheWebConf(WWW) 2021
+- Jan 16, 2021: One paper "Effective and Scalable Clustering on Massive Attributed Graphs" has been accepted by TheWebConf 2021
 
 Research Interests
 ======
