@@ -9,6 +9,6 @@ abstract: ""
 featured: false
 venue: "Proceedings of The Web Conference (WWW)"
 paperurl: "https://doi.org/10.1145/3442381.3449875"
-code: "https://github.com/AnryYang/ACMin"
+github: "https://github.com/AnryYang/ACMin"
 doi: "10.1145/3442381.3449875"
 ---
