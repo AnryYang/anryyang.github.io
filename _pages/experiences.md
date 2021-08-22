@@ -7,7 +7,9 @@ redirect_from:
   - /experiences
 ---
 
-[CV](https://anryyang.github.io/files/CV.pdf)
+```{r, out.width="0.3\\linewidth", include=TRUE, fig.align="center", fig.cap=c("My Curriculum Vitae"), echo=FALSE}
+knitr::include_graphics("https://anryyang.github.io/files/CV.pdf")
+```
 
 Education
 ======
