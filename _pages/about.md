@@ -26,8 +26,8 @@ Research Interests
 
 Education
 ======
-- Doctor of Philosophy, Nanyang Technological University, 2016-2020
-- Bachelor of Engineering, Beijing University of Posts and Telecommunications, 2011-2015
+- Doctor of Philosophy, [Nanyang Technological University](https://www.ntu.edu.sg), 2016-2020
+- Bachelor of Engineering, [Beijing University of Posts and Telecommunications](https://english.bupt.edu.cn), 2011-2015
 
 Doctoral Thesis
 ======
