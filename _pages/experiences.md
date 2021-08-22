@@ -7,6 +7,15 @@ redirect_from:
   - /experiences
 ---
 
+Work Experiences
+======
+- Research Fellow, National University of Singapore, Singapore, May 2021 to Present
+- Research Assistant, Hamad Bin Khalifa University, Doha, Qatar, Feb 2021 to May 2021
+- Research Assistant, Nanyang Technological University, Singapore, Jun 2016 to Feb 2021
+- Software Engineer, Tencent, Inc., Shenzhen, China, Jul 2015 to Jun 2016
+- Software Engineer Intern, Baidu, Inc., Beijing, China, Nov 2014 to Apr 2015
+
+
 Academic Services
 ======
 - Journal reviewer of TKDE 2021.
@@ -22,8 +31,8 @@ Selected Hornors
 - [SIGMOD 2019 Travel Award](https://sigmod2019.org/grants), ACM SIGMOD
 
 
-Curriculum Vitae
+<!-- Curriculum Vitae
 ======
-<iframe src="https://renchi.ac.cn/files/CV.pdf" width="100%" height="500" frameborder="no" border="0" marginwidth="0" marginheight="0"></iframe>
+<iframe src="https://renchi.ac.cn/files/CV.pdf" width="100%" height="500" frameborder="no" border="0" marginwidth="0" marginheight="0"></iframe> -->
 
 
