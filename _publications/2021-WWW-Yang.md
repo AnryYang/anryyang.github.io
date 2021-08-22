@@ -8,7 +8,7 @@ publication_types: ["2"]
 abstract: ""
 featured: false
 venue: "Proceedings of The Web Conference (WWW)"
-paperurl: "https://doi.org/10.1145/3442381.3449875"
+pdf: "https://doi.org/10.1145/3442381.3449875"
 github: "https://github.com/AnryYang/ACMin"
 doi: "10.1145/3442381.3449875"
 ---

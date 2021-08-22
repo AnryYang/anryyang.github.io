@@ -45,17 +45,27 @@
     {% elsif post.collection == 'publications' %}
       <p> {{ post.authors }}, <i>{{ post.venue }}</i>, {{ post.date | default: "1900-01-01" | date: "%Y" }} </p>
       <!-- citation and icon code -->
+      <p>
       {% if post.link %}
         <a href="{{ post.link }}"><i class="fas fa-fw fa-link zoom" aria-hidden="true"></i></a>
       {% endif %}
       {% if post.paperurl %}
-        <a href="{{ post.paperurl }}"><i class="fas fa-fw fa-file-pdf zoom" aria-hidden="true"></i></a>
+        <a href="{{ post.pdf }}"><i class="fas fa-fw fa-file-pdf zoom" aria-hidden="true"></i></a>
       {% endif %}
       {% if post.code %}
         <a href="{{ post.code }}"><i class="fas fa-fw fa-code zoom" aria-hidden="true"></i></a>
       {% endif %}
       {% if post.github %}
         <a href="{{ post.github }}"><i class="fab fa-fw fa-github zoom" aria-hidden="true"></i></a>
+      {% endif %}
+      {% if post.slides %}
+        <a href="{{ post.slides }}"><i class="fas fa-fw fa-file-powerpoint zoom" aria-hidden="true"></i></a>
+      {% endif %}
+      {% if post.video %}
+        <a href="{{ post.video }}"><i class="fas fa-fw fa-video zoom" aria-hidden="true"></i></a>
+      {% endif %}
+      {% if post.poster %}
+        <a href="{{ post.poster }}"><i class="fas fa-fw fa-file-image zoom" aria-hidden="true"></i></a>
       {% endif %}
       </p>
     {% elsif post.collection == 'posts' and post.date %}

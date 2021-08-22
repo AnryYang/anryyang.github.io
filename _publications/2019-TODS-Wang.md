@@ -8,7 +8,7 @@ publication_types: ["2"]
 abstract: ""
 featured: false
 venue: "ACM Transaction on Database Systems (TODS)"
-paperurl: "https://doi.org/10.1145/3360902"
+pdf: "https://doi.org/10.1145/3360902"
 github: "https://github.com/wangsibovictor/fora"
 doi: "10.1145/3360902"
 ---

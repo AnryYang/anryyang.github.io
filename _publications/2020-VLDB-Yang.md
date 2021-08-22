@@ -8,7 +8,7 @@ publication_types: ["2"]
 abstract: ""
 featured: false
 venue: "Proceedings of the VLDB Endowment (PVLDB)"
-paperurl: "http://www.vldb.org/pvldb/vol13/p670-yang.pdf"
+pdf: "http://www.vldb.org/pvldb/vol13/p670-yang.pdf"
 github: "https://github.com/AnryYang/NRP-code"
 slides: "https://www.dropbox.com/s/ipiw2qpzani1r6p/NRP.pptx?dl=0"
 doi: "10.14778/3377369.3377376"
