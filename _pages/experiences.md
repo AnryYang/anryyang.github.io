@@ -7,9 +7,11 @@ redirect_from:
   - /experiences
 ---
 
-```{r, out.width="0.3\\linewidth", include=TRUE, fig.align="center", fig.cap=c("My Curriculum Vitae"), echo=FALSE}
-knitr::include_graphics("https://anryyang.github.io/files/CV.pdf")
-```
+<object data="https://anryyang.github.io/files/CV.pdf" type="application/pdf" width="700px" height="700px">
+    <embed src="https://anryyang.github.io/files/CV.pdf">
+        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="https://anryyang.github.io/files/CV.pdf">Download PDF</a>.</p>
+    </embed>
+</object>
 
 Education
 ======
