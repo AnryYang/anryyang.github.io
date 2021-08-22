@@ -6,7 +6,7 @@ authors: ["Renchi Yang*", "Jieming Shi", "Yin Yang", "Keke Huang", "Shiqi Zhang"
 publication_types: ["2"]
 abstract: ""
 featured: false
-venue: "Proceedings of The Web Conference 2021"
+venue: "Proceedings of The Web Conference (WWW)"
 paperurl: "https://doi.org/10.1145/3442381.3449875"
 url_code: "https://github.com/AnryYang/ACMin"
 doi: "10.1145/3442381.3449875"

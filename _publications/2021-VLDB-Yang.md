@@ -6,7 +6,7 @@ authors: ["Renchi Yang*", "Jieming Shi", "Xiaokui Xiao", "Yin Yang", "Juncheng L
 publication_types: ["2"]
 abstract: ""
 featured: false
-venue: "Proceedings of the VLDB Endowment"
+venue: "Proceedings of the VLDB Endowment (PVLDB)"
 paperurl: "http://vldb.org/pvldb/vol14/p37-yang.pdf"
 url_code: "https://github.com/AnryYang/PANE"
 doi: "10.14778/3421424.3421430"
