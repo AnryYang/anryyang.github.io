@@ -1,7 +1,7 @@
 ---
 title: "Effective and Scalable Clustering on Massive Attributed Graphs"
 collection: publications
-date: 2021-01-01
+date: 2021-01-16
 publishDate: 2021-02-18T02:27:05.032596Z
 authors: "Renchi Yang, Jieming Shi, Yin Yang, Keke Huang, Shiqi Zhang, Xiaokui Xiao"
 publication_types: ["2"]
