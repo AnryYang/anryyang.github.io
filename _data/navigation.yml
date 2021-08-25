@@ -20,8 +20,11 @@ main:
   # - title: "Blog Posts"
   #   url: /year-archive/
 
-  - title: "Misc"
+  - title: "Resources"
     url: /misc/
+
+  - title: "Visitors"
+    url: /visitors/
     
   # - title: "Guide"
   #   url: /markdown/
