@@ -32,3 +32,5 @@ redirect_from:
 |[CAISS](https://github.com/ChunelFeng/caiss)                  |Similarity Search  |Python                 |ChunelFeng             |- |
 |[Annoy](https://github.com/spotify/annoy)                     |Similarity Search  |Python                 |Spotify                |[paper](https://arxiv.org/pdf/1610.02455.pdf) |
 |[HNSW](https://github.com/nmslib/nmslib)                      |Similarity Search  |C++/Python             |Leonid Boytsov, etc.   |[paper](https://arxiv.org/pdf/1603.09320.pdf) |
+|[Cuckoo Filter](https://github.com/efficient/cuckoofilter)    |Bloom filter       |C++                    |CMU                    |[paper](http://www.cs.cmu.edu/~binfan/papers/conext14_cuckoofilter.pdf)|
+|[InfoMap](https://www.mapequation.org/)                       |Graph Clustering   |C++/Python             |Martin Rosvall, etc.   |[paper](https://arxiv.org/pdf/0707.0609.pdf)|
