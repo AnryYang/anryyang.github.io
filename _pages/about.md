@@ -25,4 +25,4 @@ Research Interests
 Doctoral Thesis
 ======
 [Efficient and Scalable Techniques for PageRank-based Graph Analytics](https://hdl.handle.net/10356/145185), Renchi Yang\\
-Thesis Committee: [James Cheng](https://www.cse.cuhk.edu.hk/~jcheng) [George Fletcher](https://www.win.tue.nl/~gfletche) [Ying Zhang](https://profiles.uts.edu.au/ying.zhang)
+Thesis Committee: [James Cheng](https://www.cse.cuhk.edu.hk/~jcheng), [George Fletcher](https://www.win.tue.nl/~gfletche) and [Ying Zhang](https://profiles.uts.edu.au/ying.zhang)
