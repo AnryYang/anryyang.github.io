@@ -49,7 +49,7 @@ redirect_from:
 - [Quals Reading List in Databases](https://db.cs.washington.edu/internals.html)
 - [Paper Reading List by Luna](https://lunadong.com/resources.htm#paper)
 
-## Institutes, Conferences & Paper Awards
+## Institutions, Conferences & Paper Awards
 - [**Computer Science Conference Ranking List**](https://perso.crans.org/~genest/conf.html)
 - [**Best Paper Awards in Computer Science**](https://jeffhuang.com/best_paper_awards.html)
 - [**CCF Conference Deadlines**](https://ccfddl.github.io)
