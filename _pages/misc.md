@@ -7,7 +7,9 @@ redirect_from:
   - /misc
 ---
 
+
 ## Recommended Courses
+- [Teach Yourself Computer Science](https://teachyourselfcs.com)
 - CMU [Database Systems (15-445/645)](https://15445.courses.cs.cmu.edu/fall2019/schedule.html) by Andy Pavlo
 - CMU [Advanced Database Systems (15-721)](https://15721.courses.cs.cmu.edu/spring2020/schedule.html) by Andy Pavlo
 - UCR [Algorithm Engineering (CS 260)](https://www.cs.ucr.edu/~ygu/teaching/algeng/algeng.html) by Yan Gu
