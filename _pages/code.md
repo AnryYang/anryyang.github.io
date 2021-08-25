@@ -50,3 +50,5 @@ Please find them in [this page](https://renchi.ac.cn/publications).
 |[LGC](https://github.com/kfoynt/LocalGraphClustering)                           |Local Graph Clustering|Python                 |Kimon Fountoulakis, etc.|- |
 |[LFR-Benchmark](https://github.com/eXascaleInfolab/LFR-Benchmark_UndirWeightOvp)|Graph Clustering      |C++                    |Artem Lutov             |[paper](https://arxiv.org/pdf/0805.4770.pdf)|
 |[SOSD](https://github.com/learnedsystems/SOSD)                                  |Learned Indexex       |C++                    |MIT & TUM               |[paper](https://vldb.org/pvldb/vol14/p1-marcus.pdf)|
+|[Clustering Benchmarks](https://github.com/gagolews/clustering_benchmarks_v1)   |Data Clustering       |Python                 |Marek Gagolewski        |- |
+|[Community Detection](https://github.com/RapidsAtHKUST/CommunityDetectionCodes) |Graph Clustering      |C++                    |Yulin Che               |- |
