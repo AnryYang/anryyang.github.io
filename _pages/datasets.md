@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Datasets"
+title: ""
 permalink: /datasets/
 author_profile: true
 redirect_from:
@@ -8,6 +8,34 @@ redirect_from:
 ---
 
 {% include base_path %}
+
+
+## Dataset Repositories
+
+| Name                                                                                       | Type                                   | Collected by             |
+|--------------------------------------------------------------------------------------------|----------------------------------------|--------------------------|
+|[SNAP](http://snap.stanford.edu/data/index.html)                                            |Graphs & Networks                       | Stanford                 |
+|[LAW](http://law.di.unimi.it/datasets.php)                                                  |Graphs & Networks                       | UNIMI                    |
+|[BioSNAP](http://snap.stanford.edu/biodata/index.html)                                      |Biomedical Networks                     | Stanford                 |
+|[KONECT](http://konect.cc/networks/)                                                        |Graphs & Networks                       | Jérôme Kunegis           |
+|[Aminer](https://www.aminer.cn/data/)                                                       |Academic Networks                       | AMiner                   |
+|[Open Academic Graph](https://www.microsoft.com/en-us/research/project/open-academic-graph/)|Academic Networks                       | Microsoft                |
+|[Open Graph Benchmark](https://ogb.stanford.edu/)                                           |Graphs & Networks                       | Stanford                 |
+|[TuDatasets](https://chrsmrrs.github.io/datasets/)                                          |Graphs & Networks                       | Christopher Morris, etc. |
+|[StreamingGraphs](https://eecs.wsu.edu/~yyao/StreamingGraphs.html)                          |Streaming Graphs                        | Yibo Yao                 |
+|[ARB](https://www.cs.cornell.edu/~arb/data/)                                                |Graphs & Networks                       | Austin R. Benson         |
+|[SuiteSparse Matrix Collection](https://sparse.tamu.edu/)                                   |Matrix/Graphs                           | TAMU                     |
+|[Web Data Commons](http://webdatacommons.org/)                                              |Hyperlink Graphs/Web Tables/RDFa        | University of Mannheim   |
+|[Yahoo Webscope Datasets](https://webscope.sandbox.yahoo.com/#datasets)                     |Graphs/Ratings/Languages/Advertising    | Yahoo                    |
+|[UCI Machine Learning Repository](https://archive.ics.uci.edu/ml/datasets.php)              |Multivariate/Text/Time-Series           | UCI                      |
+|[Yelp Open Dataset](https://www.yelp.com/dataset)                                           |businesses/reviews/user data            | Yelp                     |
+|[Recommender Systems Datasets](https://cseweb.ucsd.edu/~jmcauley/datasets.html)             |graphs/interactions/reviews/ratings     | UCSD                     |
+|[MIcrosoft News Dataset](https://msnews.github.io/)                                         |user behavior logs                      | Microsoft                |
+|[Search Query Logs](https://jeffhuang.com/search_query_logs/)                               |query logs                              | Jeff Huang               |
+|[AOL DS](http://www.ccc.ipt.pt/~ricardo/experiments/AOL_DS.html)                            |query logs                              | Ricardo Campos           |
+
+
+## Datasets Used in My Research
 
 #### Plain Graphs
 
