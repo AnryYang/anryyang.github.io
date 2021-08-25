@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 ## Codes for My Papers
-Please see [this page](https://renchi.ac.cn/publications).
+Please find them in [this page](https://renchi.ac.cn/publications).
 
 ## Code Repositories
 
