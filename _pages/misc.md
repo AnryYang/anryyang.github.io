@@ -57,7 +57,3 @@ redirect_from:
 
 <!-- ## Conferences of Interest
 <iframe src="https://confsearch.ethz.ch/confsearch/faces/pages/staticresults.jsp?query=sigmod%20vldb%20kdd%20icde%20www%20wsdm%20cikm%20edbt%20icdm%20icdt%20cidr%20icml%20NeurIPS%20ijcai%20aaai&sortMode=1&graphicView=0" width="800" height="760" frameborder="0" scrolling="no"></iframe> -->
-
-## My Visitors
-<!--<script type="text/javascript" id="clustrmaps" src="//cdn.clustrmaps.com/map_v2.js?d=_vDAl6NNji3jHcrqIYgoW0uVfCkZFC6vPje5hNvQDZA&cl=ffffff&w=a"></script>-->
-<script type="text/javascript" src="//rf.revolvermaps.com/0/0/7.js?i=5cpb2kiuh86&amp;m=0&amp;c=ff0000&amp;cr1=ffffff&amp;sx=0" async="async"></script>
