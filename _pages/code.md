@@ -24,6 +24,13 @@ redirect_from:
 |[GraphX](https://spark.apache.org/graphx/)                    |Graph Processing   |Python/Java/Scala      |Apache Spark           |[paper](https://www.usenix.org/system/files/conference/osdi14/osdi14-paper-gonzalez.pdf) |
 |[AliGraph](https://github.com/alibaba/graph-learn)            |Graph Learning     |Python                 |Alibaba                |[paper](http://www.vldb.org/pvldb/vol12/p2094-zhu.pdf) |
 |[Euler](https://github.com/alibaba/euler)                     |Graph Learning     |Python                 |Alibaba                |- |
+|[StellarGraph](https://github.com/stellargraph/stellargraph)  |Graph Learning     |Python                 |CSIRO's Data61         |- |
+|[PGL](https://github.com/PaddlePaddle/PGL)                    |Graph Learning     |Python                 |Baidu                  |- |
+|[DGL](https://github.com/dmlc/dgl)                            |Graph Learning     |Python                 |NYU, etc.              |[paper](https://arxiv.org/pdf/1909.01315.pdf)| 
+|[DIG](https://github.com/divelab/DIG)                         |Graph Learning     |Python                 |TAMU                   |[paper](https://arxiv.org/pdf/2103.12608.pdf)|
+|[PyG](https://github.com/rusty1s/pytorch_geometric)           |Graph Learning     |Python                 |TU Dortmund            |[paper](https://arxiv.org/pdf/1903.02428.pdf)|
+|[CogDL](https://github.com/THUDM/cogdl)                       |Graph Learning     |Python                 |THU, etc.              |[paper](https://arxiv.org/pdf/2103.00959.pdf)|
+|[AmpliGraph](https://github.com/Accenture/AmpliGraph)         |Graph Learning     |Python                 |Luca Costabello, etc.  |- |
 |[PBBS](https://www.cs.cmu.edu/~pbbs/index.html)               |Parallel Computing |C++                    |CMU                    |[paper](http://www.cs.cmu.edu/~guyb/papers/SBFG12.pdf) |
 |[Parlay](https://github.com/cmuparlay/parlaylib)              |Parallel Computing |C++                    |CMU                    |[paper](https://danielanderson.net/papers/spaa20-parlaylib.pdf) |
 |[PAM](https://www.cs.cmu.edu/~yihans/PAMweb/index.html)       |Parallel Computing |C++                    |CMU                    |[paper](https://www.cs.cmu.edu/~yihans/papers/pam.pdf) |
