@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-## Datasets Used in My Research
+## Datasets Used in My Papers
 
 ### Plain Graphs
 
