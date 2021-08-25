@@ -7,6 +7,9 @@ redirect_from:
   - /code
 ---
 
+## Codes for My Papers
+Please see [this page](https://renchi.ac.cn/publications).
+
 ## Code Repositories
 
 | Name                                                         | Type              | Programming Language  | Developed by          |Publication |
