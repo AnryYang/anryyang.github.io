@@ -20,11 +20,11 @@ main:
   # - title: "Blog Posts"
   #   url: /year-archive/
 
+  - title: "Codes"
+    url: /code/
+
   - title: "Resources"
     url: /misc/
-
-  - title: "Repositories"
-    url: /code/
 
   - title: "Visitors"
     url: /visitors/
