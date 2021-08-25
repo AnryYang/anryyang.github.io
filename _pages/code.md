@@ -49,3 +49,4 @@ Please find them in [this page](https://renchi.ac.cn/publications).
 |[InfoMap](https://www.mapequation.org/)                                         |Graph Clustering      |C++/Python             |Martin Rosvall, etc.    |[paper](https://arxiv.org/pdf/0707.0609.pdf)|
 |[LGC](https://github.com/kfoynt/LocalGraphClustering)                           |Local Graph Clustering|Python                 |Kimon Fountoulakis, etc.|- |
 |[LFR-Benchmark](https://github.com/eXascaleInfolab/LFR-Benchmark_UndirWeightOvp)|Graph Clustering      |C++                    |Artem Lutov             |[paper](https://arxiv.org/pdf/0805.4770.pdf)|
+|[SOSD](https://github.com/learnedsystems/SOSD)                                  |Learned Indexex       |C++                    |MIT & TUM               |[paper](https://vldb.org/pvldb/vol14/p1-marcus.pdf)|
