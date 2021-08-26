@@ -52,7 +52,7 @@ redirect_from:
 - [Paper Reading List by Luna](https://lunadong.com/resources.htm#paper)
 
 ## Institutions, Conferences & Paper Awards
-- [**Computer Science Conference Ranking List**](https://perso.crans.org/~genest/conf.html)
+- [**CORE Conference Ranking**](http://portal.core.edu.au/conf-ranks/?search=&by=all&source=CORE2018&sort=arank&page=1)
 - [**Best Paper Awards in Computer Science**](https://jeffhuang.com/best_paper_awards.html)
 - [**CCF Conference Deadlines**](https://ccfddl.github.io)
 - [**Top Computer Science Institutions Around the World**](http://csrankings.org)
