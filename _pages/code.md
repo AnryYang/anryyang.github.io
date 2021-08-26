@@ -26,6 +26,7 @@ Please find them in [this page](https://renchi.ac.cn/publications).
 |[PowerGraph](https://github.com/jegonzal/PowerGraph)                            |Graph Processing      |C++                    |Turi                    |[paper](https://www.usenix.org/system/files/conference/osdi12/osdi12-final-167.pdf) |
 |[GraphX](https://spark.apache.org/graphx/)                                      |Graph Processing      |Python/Java/Scala      |Apache Spark            |[paper](https://www.usenix.org/system/files/conference/osdi14/osdi14-paper-gonzalez.pdf) |
 |[GAP](http://gap.cs.berkeley.edu/benchmark.html)                                |Graph Processing      |C++                    |Berkeley                |[paper](https://arxiv.org/pdf/1508.03619.pdf)|
+|[Plato](https://github.com/Tencent/plato)                                       |Graph Processing      |C++                    |Tencent                 |- |
 |[AliGraph](https://github.com/alibaba/graph-learn)                              |Graph Learning        |Python                 |Alibaba                 |[paper](http://www.vldb.org/pvldb/vol12/p2094-zhu.pdf) |
 |[Euler](https://github.com/alibaba/euler)                                       |Graph Learning        |Python                 |Alibaba                 |- |
 |[StellarGraph](https://github.com/stellargraph/stellargraph)                    |Graph Learning        |Python                 |CSIRO's Data61          |- |
