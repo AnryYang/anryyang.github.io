@@ -43,6 +43,8 @@ redirect_from:
 - [Linear Sketching and Data Stream Algorithms](https://people.cs.umass.edu/~mcgregor/book/book.html)
 - [Probabilistic Data Structures and Algorithms for Big Data Applications](https://pdsa.gakhov.com)
 - [Sketch Techniques for Approximate Query Processing](http://dimacs.rutgers.edu/~graham/pubs/papers/sk.pdf)
+- [Probabilistic Machine Learning: An Introduction](https://probml.github.io/pml-book/book1.html)
+- [Probabilistic Machine Learning: Advanced Topics](https://probml.github.io/pml-book/book2.html)
 
 ## Recommended Paper Lists
 - [DBMS Indexology](https://github.com/yingjunwu/DBMS-Indexology)
