@@ -29,6 +29,7 @@ Please find them in [this page](https://renchi.ac.cn/publications).
 |[Plato](https://github.com/Tencent/plato)                                       |Graph Processing      |C++                    |Tencent                 |- |
 |[AliGraph](https://github.com/alibaba/graph-learn)                              |Graph Learning        |Python                 |Alibaba                 |[paper](http://www.vldb.org/pvldb/vol12/p2094-zhu.pdf) |
 |[Euler](https://github.com/alibaba/euler)                                       |Graph Learning        |Python                 |Alibaba                 |- |
+|[Angel](https://github.com/Angel-ML/angel)                                      |Graph Learning        |Java & Scala           |Tencent                 |- |
 |[StellarGraph](https://github.com/stellargraph/stellargraph)                    |Graph Learning        |Python                 |CSIRO's Data61          |- |
 |[PGL](https://github.com/PaddlePaddle/PGL)                                      |Graph Learning        |Python                 |Baidu                   |- |
 |[DGL](https://github.com/dmlc/dgl)                                              |Graph Learning        |Python                 |NYU, etc.               |[paper](https://arxiv.org/pdf/1909.01315.pdf)| 
