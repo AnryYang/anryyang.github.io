@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Renchi Yang"
+title                    : "Home"
 title_separator          : "-"
 name                     : &name "Renchi Yang"
 description              : &description "Research Fellow at NUS"
