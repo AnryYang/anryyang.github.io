@@ -8,9 +8,6 @@ publication_types: ["2"]
 abstract: ""
 featured: false
 venue: "International Conference on Web Information Systems Engineering (WISE)"
-pdf: ""
-github: ""
-slides: ""
 doi: ""
 flag: "(Invited Paper)"
 ---
