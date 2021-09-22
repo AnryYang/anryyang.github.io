@@ -54,3 +54,4 @@ Please find them in [this page](https://renchi.ac.cn/publications).
 |[SOSD](https://github.com/learnedsystems/SOSD)                                  |Learned Indexex       |C++                    |MIT & TUM               |[paper](https://vldb.org/pvldb/vol14/p1-marcus.pdf)|
 |[Clustering Benchmarks](https://github.com/gagolews/clustering_benchmarks_v1)   |Data Clustering       |Python                 |Marek Gagolewski        |- |
 |[Community Detection](https://github.com/RapidsAtHKUST/CommunityDetectionCodes) |Graph Clustering      |C++                    |Yulin Che               |- |
+|[Benchmarking for Recommender Systems](https://openbenchmark.github.io/BARS/)   |Recommender System    |Python                 |Huawei, RUC, etc.       |- |
