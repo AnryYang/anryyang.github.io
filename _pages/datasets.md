@@ -53,27 +53,21 @@ Welcome to cite our paper if you publish results based on our preprocessed datas
 
 | Name  | Type      | #nodes    | #edges | #attributes  | #labels | URL       | 
 |-------  |---------  |---------  |---------|-----------  |---------  |---------  |
-|Wiki |directed|2405|17981|4973| 19| [[raw]](https://github.com/thunlp/TADW/tree/master/wiki) [[preprocessed]](https://entuedu-my.sharepoint.com/:u:/g/personal/yang0461_e_ntu_edu_sg/EU-n67xk9gFGuTbgbHswii0B3PjH9Xz4YFifnQ196iHtqg?e=42T6Zp)|
-|Cora | directed|2708|5429|1433| 7| [[raw]](https://linqs.soe.ucsc.edu/data) [[preprocessed]](https://entuedu-my.sharepoint.com/:u:/g/personal/yang0461_e_ntu_edu_sg/ER1cnb_VlYtPstBWirOoMoQB9fvY8RoTiBn_VZfjVrnI3g?e=O4DYWY)|
-|Citeseer| directed|3312|4660|3703| 6| [[raw]](https://linqs.soe.ucsc.edu/data) [[preprocessed]](https://entuedu-my.sharepoint.com/:u:/g/personal/yang0461_e_ntu_edu_sg/ERn9ynzUcfxGrWj2M_6EzqMBIA64TOUdF5uJOyQvTi2TFQ?e=pGIQHA)|
-|Pubmed| directed|19717|44338|500| 3| [[raw]](https://linqs.soe.ucsc.edu/data) [[preprocessed]](https://entuedu-my.sharepoint.com/:u:/g/personal/yang0461_e_ntu_edu_sg/EU13QlSlzXdAvCXUKEYq1BsB2pTkjyKK4IghJOSXuOFkzg?e=igl07Y)|
-|BlogCatalog| undirected|5196|343486| 8189| 6| [[raw]](https://github.com/mengzaiqiao/CAN/tree/master/data) [[preprocessed]](https://entuedu-my.sharepoint.com/:u:/g/personal/yang0461_e_ntu_edu_sg/Ed9XWHRIruRDikUse1D-D9IB4vEayDs5xuE4nJekLZA-rg?e=DUuI7e)|
-|PPI| undirected|56944|818716|50| 121| [[raw]](http://snap.stanford.edu/graphsage/) [[preprocessed]](https://entuedu-my.sharepoint.com/:u:/g/personal/yang0461_e_ntu_edu_sg/EYqj6SR_CGNMl0GBZ9BHZ10BcjeckqYS3nctG5HGw1ZeGA?e=4kTuLJ)|
-|Reddit| undirected|232965|11606919|300| 41| [[raw]](http://snap.stanford.edu/graphsage/) [[preprocessed]](https://entuedu-my.sharepoint.com/:u:/g/personal/yang0461_e_ntu_edu_sg/EcmYJmOofphJndh-yH94uNwBcyF64PBEvMilVkRpWmcoyQ?e=dJkZxW)|
-|Flickr| undirected|7575|479476|12047| 9| [[raw]](https://github.com/mengzaiqiao/CAN/tree/master/data) [[preprocessed]](https://entuedu-my.sharepoint.com/:u:/g/personal/yang0461_e_ntu_edu_sg/EXwv_B9irkdBjMz8VEYSfIMBP5mSTeB5KHHnwT-84hiLng?e=RLLjvV)|
-|Facebook| undirected|4039|88234|1283| 193| [[raw]](https://snap.stanford.edu/data/ego-Facebook.html) [[preprocessed]](https://entuedu-my.sharepoint.com/:u:/g/personal/yang0461_e_ntu_edu_sg/EQPjxHOD_kpLi5cwcg-2SCMBC31sErAvA-MsfUM9DZ_YeA?e=EBhEQf)|
-|Twitter| directed|81306|1768149|216839| 4065| [[raw]](https://snap.stanford.edu/data/ego-Twitter.html) [[preprocessed]](https://entuedu-my.sharepoint.com/:u:/g/personal/yang0461_e_ntu_edu_sg/EUagcO8-BfJMqH-DC7TNbFYBDlVytGf-DdsXuBi-pompdA?e=ZXEIJW)|
+|Wiki |directed|2405|17981|4973| 19| [[raw]](https://github.com/thunlp/TADW/tree/master/wiki) [[preprocessed]](https://drive.google.com/file/d/1EPhlbziZTQv19OsTrKrAJwsElbVPEbiV/view?usp=sharing)|
+|Cora | directed|2708|5429|1433| 7| [[raw]](https://linqs.soe.ucsc.edu/data) [[preprocessed]](https://drive.google.com/file/d/1FyVnpdsTT-lhkVPotUW8OVeuCi1vi3Ey/view?usp=sharing)|
+|Citeseer| directed|3312|4660|3703| 6| [[raw]](https://linqs.soe.ucsc.edu/data) [[preprocessed]](https://drive.google.com/file/d/1d3uQIpHiemWJPgLgTafi70RFYye7hoCp/view?usp=sharing)|
+|Pubmed| directed|19717|44338|500| 3| [[raw]](https://linqs.soe.ucsc.edu/data) [[preprocessed]](https://drive.google.com/file/d/1DOK3FfslyJoGXUSCSrK5lzdyLfIwOz6k/view?usp=sharing)|
+|BlogCatalog| undirected|5196|343486| 8189| 6| [[raw]](https://github.com/mengzaiqiao/CAN/tree/master/data) [[preprocessed]](https://drive.google.com/file/d/178PqGqh67RUYMMP6-SoRHDoIBh8ku5FS/view?usp=sharing)|
+|PPI| undirected|56944|818716|50| 121| [[raw]](http://snap.stanford.edu/graphsage/) [[preprocessed]](https://drive.google.com/file/d/1dvwRpPT4gGtOcNP_Q-G1TKl9NezYhtez/view?usp=sharing)|
+|Flickr| undirected|7575|479476|12047| 9| [[raw]](https://github.com/mengzaiqiao/CAN/tree/master/data) [[preprocessed]](https://drive.google.com/file/d/1tZp3EB20fAC27SYWwa-x66_8uGsuU62X/view?usp=sharing)|
+|Facebook| undirected|4039|88234|1283| 193| [[raw]](https://snap.stanford.edu/data/ego-Facebook.html) [[preprocessed]](https://drive.google.com/file/d/12aJWAGCM4IvdGI2fiydDNyWzViEOLZH8/view?usp=sharing)|
+|Twitter| directed|81306|1768149|216839| 4065| [[raw]](https://snap.stanford.edu/data/ego-Twitter.html) [[preprocessed]](https://drive.google.com/file/d/1fUYggzZlDrt9JsLsSdRUHiEzQRW1kSA4/view?usp=sharing)|
 |Google+| directed|107614|13673453|15907| 468| [[raw]](https://snap.stanford.edu/data/ego-Gplus.html) [[preprocessed]](https://entuedu-my.sharepoint.com/:u:/g/personal/yang0461_e_ntu_edu_sg/EQ_lIucwnGdPntVe99lMA2wBmw1SjG0kXimpshPk1XVODg?e=DGLU7T)|
-|TWeibo| directed| 2320895| 50655143| 1657| 8| [[raw]](https://www.kaggle.com/c/kddcup2012-track1) [[preprocessed]](https://entuedu-my.sharepoint.com/:u:/g/personal/yang0461_e_ntu_edu_sg/ESvFmWs048tBgxT9elyMM6oBWE1UIU96llcvnx7vpmJNaA?e=IOSGYJ)|
-|MAG| directed| 59249719| 978147253| 2000| 100| [[raw]](http://ma-graph.org/rdf-dumps/) [[preprocessed]](https://entuedu-my.sharepoint.com/:u:/g/personal/yang0461_e_ntu_edu_sg/Ed8ilrixkCdBmkUX0tpoK5sB5i6sApgbDcIB-ngGOJ16jg?e=PTweAn)|
+|TWeibo| directed| 2320895| 50655143| 1657| 8| [[raw]](https://www.kaggle.com/c/kddcup2012-track1) [[preprocessed]](https://drive.google.com/file/d/1-2xHDPFCsuBuFdQN_7GLleWa8R_t50qU/view?usp=sharing)|
+|MAG| directed| 59249719| 978147253| 2000| 100| [[raw]](http://ma-graph.org/rdf-dumps/) [[preprocessed]](https://drive.google.com/file/d/1ggraUMrQgdUyA3DjSRzzqMv0jFkU65V5/view?usp=sharing)|
 |MAG-SC| directed|10541560| 265219994 |2784240 | 8 | [[raw]](https://figshare.com/articles/dataset/mag_scholar/12696653) [[preprocessed]](https://entuedu-my.sharepoint.com/:u:/g/personal/yang0461_e_ntu_edu_sg/EclMYCsgJRpEsKP5mzKFksoBc4UlRtqn62tpCI65VcbaLA?e=ff2sYq)|
 
-Tips: node attributes in our preprocessed datasets are compressed as "attrs.pkl" file via cPickle package in Python 2.7 or "attrs.npz" file, which can be loaded as a sparse attribute matrix by using the following code
-```python
-import cPickle as pickle
-features = pickle.load(open("attrs.pkl"))
-```
-or
+Our datasets are also available in [Pytorch-Geometric](https://pytorch-geometric.readthedocs.io/en/latest/modules/datasets.html#torch_geometric.datasets.AttributedGraphDataset). Node-attribute matrices can be loaded as a sparse matrix using the following code
 ```python
 from scipy import sparse
 features = sparse.load_npz("attrs.npz")
