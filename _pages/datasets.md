@@ -67,7 +67,7 @@ Welcome to cite our paper if you publish results based on our preprocessed datas
 |MAG| directed| 59249719| 978147253| 2000| 100| [[raw]](http://ma-graph.org/rdf-dumps/) [[preprocessed]](https://drive.google.com/file/d/1ggraUMrQgdUyA3DjSRzzqMv0jFkU65V5/view?usp=sharing)|
 |MAG-SC| directed|10541560| 265219994 |2784240 | 8 | [[raw]](https://figshare.com/articles/dataset/mag_scholar/12696653) [[preprocessed]](https://entuedu-my.sharepoint.com/:u:/g/personal/yang0461_e_ntu_edu_sg/EclMYCsgJRpEsKP5mzKFksoBc4UlRtqn62tpCI65VcbaLA?e=ff2sYq)|
 
-Our datasets are also available in [Pytorch-Geometric](https://pytorch-geometric.readthedocs.io/en/latest/modules/datasets.html#torch_geometric.datasets.AttributedGraphDataset). Node-attribute matrices can be loaded as a sparse matrix using the following code
+Our datasets are also available in [Pytorch-Geometric](https://pytorch-geometric.readthedocs.io/en/latest/modules/datasets.html#torch_geometric.datasets.AttributedGraphDataset). Node attributes can be loaded as a sparse matrix using the following code
 ```python
 from scipy import sparse
 features = sparse.load_npz("attrs.npz")
