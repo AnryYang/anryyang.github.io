@@ -57,6 +57,7 @@ redirect_from:
 - [**CORE Conference Ranking**](http://portal.core.edu.au/conf-ranks/?search=&by=all&source=CORE2021&sort=arank&page=1)
 - [**Best Paper Awards in Computer Science**](https://jeffhuang.com/best_paper_awards.html)
 - [**CCF Conference Deadlines**](https://ccfddl.github.io)
+- [**Upcoming Conferences**](http://www.conferencelist.info/upcoming.html)
 - [**Top Computer Science Institutions Around the World**](http://csrankings.org)
 
 <!-- ## Conferences of Interest
