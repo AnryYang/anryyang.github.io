@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 
-## Recommended Courses
+## A curated list of computer science courses
 - [Teach Yourself Computer Science](https://teachyourselfcs.com)
 - CMU [Database Systems (15-445/645)](https://15445.courses.cs.cmu.edu/fall2019/schedule.html) by Andy Pavlo
 - CMU [Advanced Database Systems (15-721)](https://15721.courses.cs.cmu.edu/spring2020/schedule.html) by Andy Pavlo
@@ -27,7 +27,7 @@ redirect_from:
 - UCdavis [Big Data & High Performance Statistical Computing (STA 141C)](http://www.stat.ucdavis.edu/~chohsieh/teaching/STA141C_Spring2017/main.html) by Cho-Jui Hsieh
 - NTU, Taiwan [Machine Learning (2021,Spring)](https://speech.ee.ntu.edu.tw/~hylee/ml/2021-spring.html) by Hung-yi Lee
 
-## Recommended Books
+## A curated list of technical books
 - [Randomized Algorithms](https://www.cambridge.org/core/books/randomized-algorithms/6A3E5CD760B0DDBA3794A100EE2843E8)
 - [Sketching as a Tool for Numerical Linear Algebra](http://www.cs.cmu.edu/afs/cs/user/dwoodruf/www/wNow3.pdf)
 - [Introduction to Linear Algebra](http://math.mit.edu/~gs/linearalgebra/)
@@ -46,7 +46,7 @@ redirect_from:
 - [Probabilistic Machine Learning: An Introduction](https://probml.github.io/pml-book/book1.html)
 - [Probabilistic Machine Learning: Advanced Topics](https://probml.github.io/pml-book/book2.html)
 
-## Recommended Paper Lists
+## A curated list of data management papers
 - [DBMS Indexology](https://github.com/yingjunwu/DBMS-Indexology)
 - [Papers on Graph Analytics](https://people.csail.mit.edu/jshun/graph.shtml)
 - [Awesome Database Learning](https://github.com/pingcap/awesome-database-learning)
