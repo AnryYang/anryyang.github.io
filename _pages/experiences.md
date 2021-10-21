@@ -22,10 +22,9 @@ Education
 
 Academic Services
 ======
-- Journal reviewer of TKDE 2021.
-- External reviewer of WWW 2021, ICDM 2021.
-- External reviewer of ICDE 2020, VLDB 2020.
-- External reviewer of KDD 2019, IJCAI 2019, CIKM 2019.
+- Program committee member for the following conferences/workshops: TheWebConf 2022.
+- Invited reviewer for the following journals: TKDE.
+- External reviewer for TheWebConf 2022, ICDM 2021, KDD 2019, IJCAI 2019, CIKM 2019.
 
 
 Selected Hornors
