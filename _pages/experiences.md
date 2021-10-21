@@ -24,7 +24,7 @@ Academic Services
 ======
 - Program committee member for the following conferences/workshops: TheWebConf 2022.
 - Invited reviewer for the following journals: TKDE.
-- External reviewer for TheWebConf 2021, ICDM 2021, KDD 2019, IJCAI 2019, CIKM 2019.
+- External reviewer for TheWebConf 2021, ICDM 2021, ICDE 2020, VLDB 2020, KDD 2019, IJCAI 2019, CIKM 2019.
 
 
 Selected Hornors
