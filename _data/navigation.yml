@@ -26,8 +26,8 @@ main:
   - title: "Miscellaneous"
     url: /misc/
 
-  - title: "Visitors"
-    url: /visitors/
+  # - title: "Visitors"
+  #  url: /visitors/
     
   # - title: "Guide"
   #   url: /markdown/
