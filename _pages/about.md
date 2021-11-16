@@ -9,6 +9,7 @@ redirect_from:
 ---
 
 Renchi Yang (杨任驰) is currently a Research Fellow at NUS. He received his Ph.D. in computer science from NTU, advised by Prof. [Xiaokui XIAO](https://www.comp.nus.edu.sg/~xiaoxk/) and Prof. [Sourav Saha Bhowmick](https://personal.ntu.edu.sg/assourav/), and obtained his B.E. from BUPT. His research focuses on large-scale data management and analytics, with special interests in graph mining and learning.
+
 News
 ======
 - Aug 09, 2021: Our paper titled "Scaling Attributed Network Embedding to Massive Graphs" was selected as the best research paper in VLDB 2021
