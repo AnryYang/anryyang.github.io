@@ -3,7 +3,7 @@ title: "Realtime Index-Free Single Source SimRank Processing on Web-Scale Graphs
 collection: publications
 date: 2020-01-01
 publishDate: 2020-10-17T14:59:13.218688Z
-authors: "Jieming Shi, Tianyuan Jin, Renchi Yang, Xiaokui Xiao, Yin Yang"
+authors: "Jieming Shi*, Tianyuan Jin*, Renchi Yang, Xiaokui Xiao, Yin Yang"
 publication_types: ["2"]
 abstract: ""
 featured: false
