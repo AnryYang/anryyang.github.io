@@ -26,6 +26,7 @@ redirect_from:
 - UCdavis [Scalable Machine Learning (ECS 289G)](http://www.stat.ucdavis.edu/~chohsieh/teaching/ECS289G_Fall2016/main.html) by Cho-Jui Hsieh
 - UCdavis [Big Data & High Performance Statistical Computing (STA 141C)](http://www.stat.ucdavis.edu/~chohsieh/teaching/STA141C_Spring2017/main.html) by Cho-Jui Hsieh
 - NTU, Taiwan [Machine Learning (2021,Spring)](https://speech.ee.ntu.edu.tw/~hylee/ml/2021-spring.html) by Hung-yi Lee
+- ETH Zurich [Massively Parallel Algorithms (Spring 2019)](https://people.inf.ethz.ch/gmohsen/MPA19/) by Mohsen Ghaffari
 
 ## A curated list of technical books
 - [Randomized Algorithms](https://www.cambridge.org/core/books/randomized-algorithms/6A3E5CD760B0DDBA3794A100EE2843E8)
