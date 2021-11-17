@@ -9,6 +9,7 @@ abstract: ""
 featured: false
 venue: "Proceedings of the VLDB Endowment (PVLDB)"
 pdf: "http://vldb.org/pvldb/vol14/p37-yang.pdf"
+video: "https://youtu.be/ogyIzZ9zREY"
 github: "https://github.com/AnryYang/PANE"
 poster: "https://renchi.ac.cn/files/PANE-poster.pptx"
 slides: "https://renchi.ac.cn/files/PANE-slides.pptx"
