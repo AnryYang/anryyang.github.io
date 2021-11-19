@@ -3,7 +3,7 @@ title: "FORA: Simple and Effective Approximate Single-Source Personalized PageRa
 collection: publications
 date: 2017-01-01
 publishDate: 2020-10-17T14:59:13.219456Z
-authors: "Sibo Wang, Renchi Yang, Xiaokui Xiao, Zhewei Wei, Yin Yang"
+authors: "Sibo Wang, <b>Renchi Yang</b>, Xiaokui Xiao, Zhewei Wei, Yin Yang"
 publication_types: ["1"]
 abstract: ""
 featured: false
