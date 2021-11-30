@@ -96,6 +96,7 @@ Welcome to cite our paper if you publish results based on our preprocessed datas
 |[BioSNAP](http://snap.stanford.edu/biodata/index.html)                                      |Biomedical Networks                     | Stanford                 |
 |[KONECT](http://konect.cc/networks/)                                                        |Graphs & Networks                       | Jérôme Kunegis           |
 |[Aminer](https://www.aminer.cn/data/)                                                       |Academic Networks                       | AMiner                   |
+|[UCI Network Data Repository](https://networkdata.ics.uci.edu/)                             |Graphs & Networks                       | UCI Datalab               |
 |[Open Academic Graph](https://www.microsoft.com/en-us/research/project/open-academic-graph/)|Academic Networks                       | Microsoft                |
 |[Open Graph Benchmark](https://ogb.stanford.edu/)                                           |Graphs & Networks                       | Stanford                 |
 |[TuDatasets](https://chrsmrrs.github.io/datasets/)                                          |Graphs & Networks                       | Christopher Morris, etc. |
