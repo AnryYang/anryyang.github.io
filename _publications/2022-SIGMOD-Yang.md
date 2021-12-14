@@ -8,9 +8,4 @@ publication_types: ["1"]
 abstract: ""
 featured: false
 venue: "Proceedings of the International Conference on Management of Data (SIGMOD)"
-pdf: ""
-github: ""
-poster: ""
-slides: ""
-doi: ""
 ---
