@@ -12,6 +12,7 @@ I am currently a Research Fellow at the School of Computing, National University
 
 News
 ======
+- Dec 14, 2021: Our paper "Scalable and Effective Bipartite Network Embedding" has been accepted by SIGMOD 2022
 - Aug 09, 2021: Our paper titled "Scaling Attributed Network Embedding to Massive Graphs" was selected as the best research paper in VLDB 2021
 - May 15, 2021: One paper "Unconstrained Submodular Maximization with Modular Costs: Tight Approximation and Application to Profit Maximization" has been accepted by VLDB 2021
 - Jan 16, 2021: One paper "Effective and Scalable Clustering on Massive Attributed Graphs" has been accepted by TheWebConf 2021
