@@ -20,7 +20,7 @@ News
 Research Interests
 ======
 - Data management and analytics
-  - similarity search over graph data
+  - similarity search in graph data
 - Data mining and machine learning
   - clustering and network embedding
 
