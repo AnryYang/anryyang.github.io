@@ -19,9 +19,8 @@ News
 
 Research Interests
 ======
-- Data management and analytics
-- Graph mining and learning
-- Parallel and distributed computing
+- Data management and analytics: similarity search/queries over graph data
+- Data mining and machine learning: graph clustering and network embedding
 
 Doctoral Thesis
 ======
