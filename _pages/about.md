@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a Research Fellow at the School of Computing, National University of Singapore. I obtained my Ph.D. in computer science from Nanyang Technological University, advised by Prof. [Xiaokui XIAO](https://www.comp.nus.edu.sg/~xiaoxk/) and Prof. [Sourav Saha Bhowmick](https://personal.ntu.edu.sg/assourav/). I received my B.E. degree from Beijing University of Posts and Telecommunications. Broadly speaking, my research aims to develop efficient algorithms for big data using smapling, sketching and indexing techniques.
+I am currently a Research Fellow at the School of Computing, National University of Singapore. I obtained my Ph.D. in computer science from Nanyang Technological University, advised by Prof. [Xiaokui XIAO](https://www.comp.nus.edu.sg/~xiaoxk/) and Prof. [Sourav Saha Bhowmick](https://personal.ntu.edu.sg/assourav/). I received my B.E. degree from Beijing University of Posts and Telecommunications. Broadly speaking, my research aims to develop efficient algorithms for big data using smapling, sketching, and indexing techniques.
 
 News
 ======
