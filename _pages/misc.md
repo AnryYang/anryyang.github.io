@@ -29,7 +29,7 @@ redirect_from:
 - ETH Zurich [Massively Parallel Algorithms (Spring 2019)](https://people.inf.ethz.ch/gmohsen/MPA19/) by Mohsen Ghaffari
 
 ## A curated list of technical books
-#### Mathematics, Algorithms and Data Structures
+### Mathematics, Algorithms and Data Structures
 - [Mathematical Foundations for Data Analysis](https://mathfordata.github.io)
 - [Mathematics for Machine Learning](https://mml-book.com)
 - [Foundations of Data Science](http://www.cs.cornell.edu/jeh/book.pdf)
@@ -39,7 +39,7 @@ redirect_from:
 - [Lecture Notes on Randomized Linear Algebra](https://arxiv.org/pdf/1608.04481.pdf)
 - [Probabilistic Data Structures and Algorithms for Big Data Applications](https://pdsa.gakhov.com)
 
-#### Database, Data Management, Parallel and Distributed Computing
+### Database, Data Management, Parallel and Distributed Computing
 - [Designing Data-Intensive Applications](http://xfido.com/pdf/designing-data-intensive-applications.pdf)
 - [Shared-Memory Parallelism Can Be Simple, Fast, and Scalable](http://www.cs.cmu.edu/~jshun/thesis.pdf)
 - [Small Summaries for Big Data](http://dimacs.rutgers.edu/~graham/ssbd.html)
@@ -47,11 +47,11 @@ redirect_from:
 - [Linear Sketching and Data Stream Algorithms](https://people.cs.umass.edu/~mcgregor/book/book.html)
 - [Sketch Techniques for Approximate Query Processing](http://dimacs.rutgers.edu/~graham/pubs/papers/sk.pdf)
 
-#### Data Mining and Information Retrieval
+### Data Mining and Information Retrieval
 - [Mining of Massive Datasets](http://www.mmds.org)
 - [Learning to Rank for Information Retrieval](https://link.springer.com/book/10.1007/978-3-642-14267-3)
 
-#### Machine Learning
+### Machine Learning
 - [Foundations of Machine Learning](https://cs.nyu.edu/~mohri/mlbook/)
 - [Probabilistic Machine Learning: An Introduction](https://probml.github.io/pml-book/book1.html)
 - [Probabilistic Machine Learning: Advanced Topics](https://probml.github.io/pml-book/book2.html)
