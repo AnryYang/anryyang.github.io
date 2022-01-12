@@ -21,8 +21,8 @@ Research Interests
 ======
 - Data management and analytics
   - similarity search in graph data
-- Data mining and machine learning
-  - clustering and network embedding
+- Graph mining and learning
+  - community detection and network embedding
 
 Doctoral Thesis
 ======
