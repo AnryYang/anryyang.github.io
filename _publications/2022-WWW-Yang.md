@@ -8,9 +8,4 @@ publication_types: ["2"]
 abstract: ""
 featured: false
 venue: "Proceedings of The Web Conference (WWW)"
-pdf: ""
-github: ""
-video: ""
-slides: ""
-doi: ""
 ---
