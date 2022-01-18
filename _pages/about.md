@@ -23,6 +23,8 @@ Research Interests
 - Graph mining and learning
   - community detection and network embedding
 
+I welcome enquiries on potential collaborations on interesting topics. Note that, in the papers, every coauthor needs to make substantial contributions to qualify him/her for authorship and the order of authors in the byline reflects the magnitude of contribution.
+
 Doctoral Thesis
 ======
 [Efficient and Scalable Techniques for PageRank-based Graph Analytics](https://hdl.handle.net/10356/145185), Renchi Yang\\
