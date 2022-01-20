@@ -25,7 +25,20 @@ Research Interests
 
 I welcome enquiries on potential collaborations on interesting topics. Note that, in the papers, every coauthor needs to make substantial contributions to qualify him/her for authorship and the order of authors in the byline reflects the magnitude of contribution.
 
-Doctoral Thesis
+Selected Honors
+======
+- [Best Research Paper Award](https://vldb.org/2021/?conference-awards), VLDB 2021
+- [10th Prize of KDD Cup 2020 AutoGraph](https://www.4paradigm.com/competition/kddcup2020), KDD Cup 2020
+- [SIGMOD 2019 Travel Award](https://sigmod2019.org/grants), ACM SIGMOD
+
+Academic Services
+======
+- Program committee member for the following conferences/workshops: TheWebConf 2022, KDD 2022.
+- Invited reviewer for the following journals: TKDE, JSTAT.
+- External reviewer for TheWebConf 2021, ICDM 2021, ICDE 2020, VLDB 2020, KDD 2019, IJCAI 2019, CIKM 2019.
+
+
+<!-- Doctoral Thesis
 ======
 [Efficient and Scalable Techniques for PageRank-based Graph Analytics](https://hdl.handle.net/10356/145185), Renchi Yang\\
-Thesis Committee: [James Cheng](https://www.cse.cuhk.edu.hk/~jcheng), [George Fletcher](https://www.win.tue.nl/~gfletche) and [Ying Zhang](https://profiles.uts.edu.au/ying.zhang)
+Thesis Committee: [James Cheng](https://www.cse.cuhk.edu.hk/~jcheng), [George Fletcher](https://www.win.tue.nl/~gfletche) and [Ying Zhang](https://profiles.uts.edu.au/ying.zhang) -->
