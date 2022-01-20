@@ -7,7 +7,7 @@ redirect_from:
   - /experiences
 ---
 
-Selected Hornors
+Selected Honors
 ======
 - [Best Research Paper Award](https://vldb.org/2021/?conference-awards), VLDB 2021
 - [10th Prize of KDD Cup 2020 AutoGraph](https://www.4paradigm.com/competition/kddcup2020), KDD Cup 2020
