@@ -88,7 +88,7 @@ Welcome to cite our paper if you publish results based on our preprocessed datas
 
 ### Bipartite Graphs
 
-| Name    |     |U|   |    |V|    |   |E|   | URL       | 
+| Name    |     \|U\|   |    \|V\|    |   \|E\|   | URL       | 
 |-------  |---------  |---------  |---------|---------  |
 |  Avito  |  27736    |  16589    | 67029   |[[raw]](https://www.kaggle.com/c/avito-context-ad-clicks/data)  [[preprocessed]](https://entuedu-my.sharepoint.com/:u:/g/personal/yang0461_e_ntu_edu_sg/ESzORrCyDERHgjitPdzh5gMBgOAStCaFgRKMI0d2923Dkw?e=Ox5y4L)|
 |  AOL    |   4811647 |  1632788  | 10741954|[[raw]](http://www.ccc.ipt.pt/~ricardo/experiments/AOL_DS.html)  [[preprocessed]](https://entuedu-my.sharepoint.com/:u:/g/personal/yang0461_e_ntu_edu_sg/Eeny8B5ouwBDiOh6nR2_whYBlx5rWts8qFt3FXBGae10UA?e=t18er0)|
