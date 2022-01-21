@@ -86,6 +86,18 @@ Welcome to cite our paper if you publish results based on our preprocessed datas
 }
 ```
 
+### Bipartite Graphs
+
+| Name    |     |U|   |    |V|    |   |E|   | URL       | 
+|-------  |---------  |---------  |---------|---------  |
+|  Avito  |  27736    |  16589    | 67029   |[[raw]](https://www.kaggle.com/c/avito-context-ad-clicks/data)  [[preprocessed]](https://entuedu-my.sharepoint.com/:u:/g/personal/yang0461_e_ntu_edu_sg/ESzORrCyDERHgjitPdzh5gMBgOAStCaFgRKMI0d2923Dkw?e=Ox5y4L)|
+|  AOL    |   4811647 |  1632788  | 10741954|[[raw]](http://www.ccc.ipt.pt/~ricardo/experiments/AOL_DS.html)  [[preprocessed]](https://entuedu-my.sharepoint.com/:u:/g/personal/yang0461_e_ntu_edu_sg/Eeny8B5ouwBDiOh6nR2_whYBlx5rWts8qFt3FXBGae10UA?e=t18er0)|
+|  DBLP   |  6001     |  1524     |  29257  |[[raw]](https://github.com/clhchtcjj/BiNE/tree/master/data/dblp)  [[preprocessed]](https://entuedu-my.sharepoint.com/:u:/g/personal/yang0461_e_ntu_edu_sg/EVCUKm6_yXpAtodZN2GmhNgB50SkU26_62vjdITBZFIIzg?e=jLZAt0)|
+|  Movielens-1M  |   6040        |   3706        |  1000210 |[[raw]](https://grouplens.org/datasets/movielens/)  [[preprocessed]](https://entuedu-my.sharepoint.com/:u:/g/personal/yang0461_e_ntu_edu_sg/EQ6Mx1eIOWJBqDRsaHI8QM8B2JawxxLqN2pYG58yZcuDxA?e=1Bhk0y)|
+|  KDDCup2012  |  255170  | 1848114  | 2766394 |[[raw]](https://www.kaggle.com/c/kddcup2012-track2)  [[preprocessed]](https://entuedu-my.sharepoint.com/:u:/g/personal/yang0461_e_ntu_edu_sg/EeNTg1KpjA9OjsF_9D8dxKkByC0JhZ_5aB6nVSc0YMhbkw?e=SGxSfK)|
+|  Last.fm     | 359349  |  160168  | 17559531 |[[raw]](http://ocelma.net/MusicRecommendationDataset/lastfm-360K.html)  [[preprocessed]](https://entuedu-my.sharepoint.com/:u:/g/personal/yang0461_e_ntu_edu_sg/EQwF1sf3KcdGjhTVLN7g-tEBX3zwsFBUkUrLxzkyQH_IFA?e=VRC92o)|
+|  Amazon-games | 826767  |  50210 | 1324754 |[[raw]](http://deepyeti.ucsd.edu/jianmo/amazon/)  [[preprocessed]](https://entuedu-my.sharepoint.com/:u:/g/personal/yang0461_e_ntu_edu_sg/EdRNIgcCRL5Aqp8hq4c13ogBlcKfEXe_ZnPD1wker5dPxA?e=cXBaQf)|
+
 
 ## Dataset Repositories
 
