@@ -43,7 +43,7 @@
     {% if post.collection == 'teaching' %}
       <p> {{ post.type }}, <i>{{ post.venue }}</i>, {{ post.date | default: "1900-01-01" | date: "%Y" }} </p>
     {% elsif post.collection == 'publications' %}
-      <p> &#9679; <b> {{ title }} </b> <font color="#a51417">{{ post.flag | default: "" }}</font> <br> {{ post.authors }} <br> <i>{{ post.venue }}</i> (<b> {{ post.venueabbr }}</b>), {{ post.date | default: "1900-01-01" | date: "%Y" }} 
+      <p> &#9679; <b> {{ title }} </b> <font color="#a51417">{{ post.flag | default: "" }}</font> <br> {{ post.authors }} <br> <i>{{ post.venue }}</i> <b>{{ (post.venueabbr) | default: "" }}</b>, {{ post.date | default: "1900-01-01" | date: "%Y" }} 
       <!-- citation and icon code -->
       <br>
       {% if post.link %}
