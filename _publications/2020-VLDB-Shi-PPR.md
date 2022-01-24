@@ -9,6 +9,7 @@ abstract: ""
 featured: false
 venue: "Proceedings of the VLDB Endowment (PVLDB)"
 pdf: "http://www.vldb.org/pvldb/vol13/p15-shi.pdf"
+acm: "https://www.doi.org/10.14778/3357377.3357379"
 github: "https://github.com/jmshi123/kPAR"
 doi: "10.14778/3357377.3357379"
 ---
