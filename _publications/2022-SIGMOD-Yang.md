@@ -7,5 +7,6 @@ authors: "<b>Renchi Yang</b>, Jieming Shi, Keke Huang, Xiaokui Xiao"
 publication_types: ["1"]
 abstract: ""
 featured: false
-venue: "Proceedings of the International Conference on Management of Data (SIGMOD)"
+venue: "Proceedings of the International Conference on Management of Data"
+venueabbr: "SIGMOD"
 ---
