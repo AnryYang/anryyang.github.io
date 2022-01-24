@@ -7,7 +7,8 @@ authors: "<b>Renchi Yang</b>, Jieming Shi, Xiaokui Xiao, Yin Yang, Sourav S. Bho
 publication_types: ["2"]
 abstract: ""
 featured: false
-venue: "Proceedings of the VLDB Endowment (PVLDB)"
+venue: "Proceedings of the VLDB Endowment"
+venueabbr: "PVLDB"
 pdf: "http://www.vldb.org/pvldb/vol13/p670-yang.pdf"
 acm: "https://doi.org/10.14778/3377369.3377376"
 arxiv: "https://arxiv.org/abs/1906.06826"
