@@ -7,7 +7,8 @@ authors: "<b>Renchi Yang</b>, Jieming Shi, Yin Yang, Keke Huang, Shiqi Zhang, Xi
 publication_types: ["2"]
 abstract: ""
 featured: false
-venue: "Proceedings of The Web Conference (WWW)"
+venue: "Proceedings of The Web Conference"
+venueabbr: "WWW"
 acm: "https://doi.org/10.1145/3442381.3449875"
 arxiv: "https://arxiv.org/abs/2102.03826"
 github: "https://github.com/AnryYang/ACMin"
