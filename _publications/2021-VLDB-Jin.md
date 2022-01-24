@@ -9,6 +9,7 @@ abstract: ""
 featured: false
 venue: "Proceedings of the VLDB Endowment (PVLDB)"
 pdf: "http://vldb.org/pvldb/vol14/p1756-jin.pdf"
+acm: "https://doi.org/10.14778/3467861.3467866"
 video: "https://youtu.be/r2Tft1w8QH8"
 doi: "10.14778/3467861.3467866"
 flag: "(also presented at the SubSetML@ICML2021)"
