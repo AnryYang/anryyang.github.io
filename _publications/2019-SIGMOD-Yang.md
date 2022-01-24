@@ -8,7 +8,8 @@ publication_types: ["1"]
 abstract: ""
 featured: false
 venue: "Proceedings of the International Conference on Management of Data (SIGMOD)"
-pdf: "https://doi.org/10.1145/3299869.3319886"
+acm: "https://doi.org/10.1145/3299869.3319886"
+arxiv: "https://arxiv.org/abs/1904.02707"
 github: "https://github.com/AnryYang/tea"
 poster: "https://renchi.ac.cn/files/TEA-poster.pptx"
 slides: "https://renchi.ac.cn/files/TEA-slides.pptx"
