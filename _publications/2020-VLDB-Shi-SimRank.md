@@ -10,6 +10,7 @@ featured: false
 venue: "Proceedings of the VLDB Endowment (PVLDB)"
 pdf: "http://www.vldb.org/pvldb/vol13/p966-shi.pdf"
 acm: "https://doi.org/10.14778/3384345.3384347"
+arxiv: "https://arxiv.org/abs/2002.08082"
 github: "https://github.com/jmshi123/SimPush"
 doi: "10.14778/3384345.3384347"
 ---
