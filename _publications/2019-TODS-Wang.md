@@ -7,7 +7,8 @@ authors: "Sibo Wang, <b>Renchi Yang</b>, Runhui Wang, Xiaokui Xiao, Zhewei Wei, 
 publication_types: ["2"]
 abstract: ""
 featured: false
-venue: "ACM Transaction on Database Systems (TODS)"
+venue: "ACM Transaction on Database Systems"
+venueabbr: "TODS"
 acm: "https://doi.org/10.1145/3360902"
 arxiv: "https://arxiv.org/abs/1908.10583"
 github: "https://github.com/wangsibovictor/fora"
