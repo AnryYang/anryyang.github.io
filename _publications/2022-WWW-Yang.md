@@ -7,5 +7,6 @@ authors: "<b>Renchi Yang</b>"
 publication_types: ["2"]
 abstract: ""
 featured: false
-venue: "Proceedings of The Web Conference (WWW)"
+venue: "Proceedings of The Web Conference"
+venueabbr: "WWW"
 ---
