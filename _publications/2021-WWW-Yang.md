@@ -8,7 +8,8 @@ publication_types: ["2"]
 abstract: ""
 featured: false
 venue: "Proceedings of The Web Conference (WWW)"
-pdf: "https://doi.org/10.1145/3442381.3449875"
+acm: "https://doi.org/10.1145/3442381.3449875"
+arxiv: "https://arxiv.org/abs/2102.03826"
 github: "https://github.com/AnryYang/ACMin"
 video: "https://www.youtube.com/watch?v=LuWktXmS1bQ"
 slides: "https://renchi.ac.cn/files/ACMin-slides.pptx"
