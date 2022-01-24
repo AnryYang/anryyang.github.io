@@ -45,6 +45,7 @@
     {% elsif post.collection == 'publications' %}
       <p> &#9679; <b> {{ title }} </b> <font color="#a51417">{{ post.flag | default: "" }}</font> <br> {{ post.authors }}, <i>{{ post.venue }}</i>, {{ post.date | default: "1900-01-01" | date: "%Y" }} 
       <!-- citation and icon code -->
+      <br>
       {% if post.link %}
         <a href="{{ post.link }}"><i class="fas fa-fw fa-link zoom" aria-hidden="true"></i></a>
       {% endif %}
