@@ -9,6 +9,7 @@ abstract: ""
 featured: false
 venue: "ACM Transaction on Database Systems (TODS)"
 acm: "https://doi.org/10.1145/3360902"
+arxiv: "https://arxiv.org/abs/1908.10583"
 github: "https://github.com/wangsibovictor/fora"
 doi: "10.1145/3360902"
 ---
