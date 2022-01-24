@@ -7,7 +7,8 @@ authors: "<b>Renchi Yang</b>, Xiaokui Xiao, Zhewei Wei, Sourav Bhowmick, Jun Zha
 publication_types: ["1"]
 abstract: ""
 featured: false
-venue: "Proceedings of the International Conference on Management of Data (SIGMOD)"
+venue: "Proceedings of the International Conference on Management of Data"
+venueabbr: "SIGMOD"
 acm: "https://doi.org/10.1145/3299869.3319886"
 arxiv: "https://arxiv.org/abs/1904.02707"
 github: "https://github.com/AnryYang/tea"
