@@ -7,7 +7,8 @@ authors: "Tianyuan Jin, Yu Yang, <b>Renchi Yang</b>, Jieming Shi, Keke Huang, Xi
 publication_types: ["2"]
 abstract: ""
 featured: false
-venue: "Proceedings of the VLDB Endowment (PVLDB)"
+venue: "Proceedings of the VLDB Endowment"
+venueabbr: "PVLDB"
 pdf: "http://vldb.org/pvldb/vol14/p1756-jin.pdf"
 acm: "https://doi.org/10.14778/3467861.3467866"
 video: "https://youtu.be/r2Tft1w8QH8"
