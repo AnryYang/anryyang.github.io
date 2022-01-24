@@ -7,7 +7,7 @@ authors: "Sibo Wang, <b>Renchi Yang</b>, Xiaokui Xiao, Zhewei Wei, Yin Yang"
 publication_types: ["1"]
 abstract: ""
 featured: false
-venue: "Proceedings of the SIGKDD International Conference on Knowledge Discovery and Data Mining"
+venue: "Proceedings of the International Conference on Knowledge Discovery and Data Mining"
 venueabbr: "KDD"
 acm: "https://doi.org/10.1145/3097983.3098072"
 github: "https://github.com/wangsibovictor/fora"
