@@ -20,9 +20,9 @@ Research Interests
 ======
 - Databases and data management
   - graph queries and algorithms
-  - similarity search
+  - high-dimensional similarity search
 - Data mining and machine learning
-  - community detection/graph clustering
+  - clustering and community detection
   - network embedding and graph neural networks
 
 I welcome enquiries on potential collaborations on interesting topics. Note that, in the papers, every coauthor needs to make substantial contributions to qualify him/her for authorship and the order of authors in the byline reflects the magnitude of contribution.
