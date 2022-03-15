@@ -10,11 +10,11 @@ redirect_from:
 
 I am currently a Research Fellow at the School of Computing, National University of Singapore. I obtained my Ph.D. in computer science from Nanyang Technological University, advised by Prof. [Xiaokui XIAO](https://www.comp.nus.edu.sg/~xiaoxk/) and Prof. [Sourav S Bhowmick](https://personal.ntu.edu.sg/assourav/). I received my B.E. degree from Beijing University of Posts and Telecommunications. Broadly speaking, my research aims to develop efficient algorithms and systems for large-scale data analysis using sampling, sketching, indexing, or parallelization techniques.
 
-News
+<!-- News
 ======
 - Jan 14, 2022: One paper "Efficient and Effective Similarity Search over Bipartite Graphs" has been accepted by TheWebConf 2022
 - Dec 14, 2021: One paper "Scalable and Effective Bipartite Network Embedding" has been accepted by SIGMOD 2022
-- Aug 09, 2021: Our paper titled "Scaling Attributed Network Embedding to Massive Graphs" was selected as the best research paper in VLDB 2021
+- Aug 09, 2021: Our paper titled "Scaling Attributed Network Embedding to Massive Graphs" was selected as the best research paper in VLDB 2021 -->
 
 Research Interests
 ======
