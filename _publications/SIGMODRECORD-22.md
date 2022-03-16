@@ -9,5 +9,4 @@ abstract: ""
 featured: false
 venue: "SIGMOD Record"
 venueabbr: "special issue for ACM SIGMOD Research Highlight Award"
-pdf: ""
 ---
