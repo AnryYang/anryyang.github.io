@@ -30,6 +30,7 @@ Research Interests
 
 Selected Honors
 ======
+<!-- - [2022 ACM SIGMOD Research Highlight Award](https://sigmodrecord.org/issues/sigmod-record-march-2022/) -->
 - [Best Research Paper Award](https://vldb.org/2021/?conference-awards), VLDB 2021
 - [10th Prize of KDD Cup 2020 AutoGraph](https://www.4paradigm.com/competition/kddcup2020), KDD Cup 2020
 - [SIGMOD 2019 Travel Award](https://sigmod2019.org/grants), ACM SIGMOD
