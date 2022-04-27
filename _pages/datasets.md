@@ -134,3 +134,5 @@ Welcome to cite our paper if you publish results based on our preprocessed datas
 |[MIcrosoft News Dataset](https://msnews.github.io/)                                         |user behavior logs                      | Microsoft                |
 |[Search Query Logs](https://jeffhuang.com/search_query_logs/)                               |query logs                              | Jeff Huang               |
 |[AOL DS](http://www.ccc.ipt.pt/~ricardo/experiments/AOL_DS.html)                            |query logs                              | Ricardo Campos           |
+|[AWS](https://registry.opendata.aws/)                            |-                             | Amazon           |
+|[Kaggle Datasets](https://www.kaggle.com/datasets)                            |-                             | Kaggle           |
