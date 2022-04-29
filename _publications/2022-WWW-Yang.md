@@ -1,5 +1,5 @@
 ---
-title: "Efficient and Effective Similarity Search over Bipartite Graphs"
+title: "Efficient and Effective Similarity Search over Bipartite Graphs (Best Paper Award Nominee)"
 collection: publications
 date: 2022-01-14
 publishDate: 2022-03-07T02:27:05.032596Z
