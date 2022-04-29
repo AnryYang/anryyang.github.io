@@ -13,6 +13,6 @@ pdf: "http://www.vldb.org/pvldb/vol13/p670-yang.pdf"
 acm: "https://doi.org/10.14778/3377369.3377376"
 arxiv: "https://arxiv.org/abs/1906.06826"
 github: "https://github.com/AnryYang/NRP-code"
-slides: "https://renchi.ac.cn/files/NRP-slides.pptx"
+slides: "https://renchi.ac.cn/files/NRP.pdf"
 doi: "10.14778/3377369.3377376"
 ---
