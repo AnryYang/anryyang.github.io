@@ -9,4 +9,5 @@ abstract: ""
 featured: false
 venue: "SIGMOD Record"
 venueabbr: "special issue for ACM SIGMOD Research Highlight Award"
+pdf: "https://sigmodrecord.org/publications/sigmodRecord/2203/pdfs/12_pane-yang.pdf"
 ---
