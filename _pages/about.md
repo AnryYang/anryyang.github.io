@@ -30,11 +30,13 @@ Research Interests
 
 <!-- I welcome enquiries on potential collaborations on interesting topics. Note that, in the papers, every coauthor needs to make substantial contributions to qualify him/her for authorship and the order of authors in the byline reflects the magnitude of contribution. -->
 
-<!-- Selected Honors -->
-<!-- ====== -->
-<!-- - [2022 ACM SIGMOD Research Highlight Award](https://sigmodrecord.org/issues/sigmod-record-march-2022/) -->
-<!-- - [Best Research Paper Award in VLDB 2021](https://vldb.org/2021/?conference-awards) -->
-<!-- - [ACM SIGMOD 2019 Travel Award](https://sigmod2019.org/grants) -->
+Selected Honors
+======
+- [Honorable mention as the PC member in ThWebConf 2022](https://www2022.thewebconf.org/awards/)
+- [Best Paper Award Nominee in ThWebConf 2022](https://www2022.thewebconf.org/accepted-papers/)
+- [2022 ACM SIGMOD Research Highlight Award](https://sigmodrecord.org/issues/sigmod-record-march-2022/)
+- [Best Research Paper Award in VLDB 2021](https://vldb.org/2021/?conference-awards)
+- [ACM SIGMOD 2019 Travel Award](https://sigmod2019.org/grants)
 <!-- - [10th Prize of KDD Cup 2020 AutoGraph](https://www.4paradigm.com/competition/kddcup2020) -->
 
 Academic Services
