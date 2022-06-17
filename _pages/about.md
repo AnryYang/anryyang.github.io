@@ -10,7 +10,8 @@ redirect_from:
 
 I am currently a Research Fellow at the School of Computing, National University of Singapore. I obtained my Ph.D. in computer science from Nanyang Technological University, advised by Prof. [Xiaokui XIAO](https://www.comp.nus.edu.sg/~xiaoxk/) and Prof. [Sourav S Bhowmick](https://personal.ntu.edu.sg/assourav/). I received my B.E. degree from Beijing University of Posts and Telecommunications. Broadly speaking, my research aims to develop efficient algorithms and systems for large-scale data analysis.
 <!-- using sampling, sketching, indexing, or parallelization techniques. -->
-<!-- UPDATE: I am actively looking for a tenure-track faculty position in big data magagement and analytics. -->
+
+UPDATE: I am actively looking for a tenure-track faculty position. Please find my C.V. [here](https://renchi.ac.cn/files/CV.pdf).
 
 <!-- News
 ======
