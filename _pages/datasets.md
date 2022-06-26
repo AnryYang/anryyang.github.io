@@ -86,7 +86,7 @@ Welcome to cite our paper if you publish results based on our preprocessed datas
 }
 ```
 
-### Bipartite Graphs
+<!-- ### Bipartite Graphs
 
 | Name    |     \|U\|   |    \|V\|    |   \|E\|   | URL       | 
 |-------  |---------  |---------  |---------|---------  |
@@ -108,7 +108,7 @@ Welcome to cite our paper if you publish results based on our preprocessed datas
 |   Orkut   | 2,783,196  | 8,730,857  | 327,037,487  | [[raw]](https://networkrepository.com/aff-orkut-user2groups.php) [[preprocessed]](https://entuedu-my.sharepoint.com/:u:/g/personal/yang0461_e_ntu_edu_sg/ET1exaMNrNhNieuQwwnCxgAB3hUla8iczqnm3_8xC_oDTw?e=2tUYok) |
 |  MAG    | 10,541,560  | 2,784,240  |  1,095,315,106 | [[raw]](https://figshare.com/articles/dataset/mag_scholar/12696653) [[preprocessed]](https://entuedu-my.sharepoint.com/:u:/g/personal/yang0461_e_ntu_edu_sg/EU-6KhRYWBRPtZmsYCj_bzAB92GnWaGxVdkB7mqi-jGQIg?e=B8PWnS) |
 
-
+ -->
 ## Dataset Repositories
 
 | Name                                                                                       | Type                                   | Collected by             |
