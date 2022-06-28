@@ -43,7 +43,7 @@ Selected Honors
 
 Academic Services
 ======
-- Program committee member for the following conferences/workshops: WSDM 2023, TheWebConf 2022, KDD 2022, ECML-PKDD 2022.
+- Program committee member for the following conferences/workshops: WSDM 2023, WWW 2022, KDD 2022, ECML-PKDD 2022.
 - Invited reviewer for the following journals: TKDE, VLDBJ.
 - External reviewer for VLDB 2023, TheWebConf 2021, ICDM 2021, ICDE 2020, VLDB 2020, KDD 2019, IJCAI 2019, CIKM 2019.
 
