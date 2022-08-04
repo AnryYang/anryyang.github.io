@@ -25,3 +25,12 @@ redirect_from:
 |[Carl Gustav Jacob Jacobi](https://mathgenealogy.org/id.php?id=15635)|Humboldt-Universität zu Berlin, Germany|1825|
 |[Enno Heeren Dirksen](https://mathgenealogy.org/id.php?id=41423)|Georg-August-Universität Göttingen, Germany |1820|
 |[Johann Tobias Mayer](https://mathgenealogy.org/id.php?id=57659), [Bernhard Friedrich Thibaut](https://mathgenealogy.org/id.php?id=57667)|Georg-August-Universität Göttingen, Germany|1773, 1796|
+|[Abraham Gotthelf Kästner](https://mathgenealogy.org/id.php?id=66476)|Universität Leipzig, Germany|1739|
+|[Christian August Hausen](https://mathgenealogy.org/id.php?id=57670)|Martin-Luther-Universität Halle-Wittenberg, Germany|1713|
+|[Johann Christoph Wichmannshausen](https://mathgenealogy.org/id.php?id=72669)|Universität Leipzig, Germany|1685|
+|[Otto Mencke](https://mathgenealogy.org/id.php?id=21235)|Universität Leipzig, Germany|1665|
+|[Jakob Thomasius](https://mathgenealogy.org/id.php?id=137705)|Universität Leipzig, Germany|1643|
+|[Friedrich Leibniz](https://mathgenealogy.org/id.php?id=143630)|Universität Leipzig, Germany|1622|
+
+
+
