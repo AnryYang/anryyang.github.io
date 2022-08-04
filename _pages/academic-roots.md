@@ -21,3 +21,7 @@ redirect_from:
 |[Henry Wallman](https://mathgenealogy.org/id.php?id=7829)|Princeton University, USA|1937|
 |[Solomon Lefschetz](https://mathgenealogy.org/id.php?id=7461)|Clark University, USA|1911|
 |[William Edward Story](https://mathgenealogy.org/id.php?id=7451)|Universität Leipzig, Germany|1875|
+|[Wilhelm Scheibner](https://mathgenealogy.org/id.php?id=18589)|Martin-Luther-Universität Halle-Wittenberg, Germany|1848|
+|[Carl Gustav Jacob Jacobi](https://mathgenealogy.org/id.php?id=15635)|Humboldt-Universität zu Berlin, Germany|1825|
+|[Enno Heeren Dirksen](https://mathgenealogy.org/id.php?id=41423)|Georg-August-Universität Göttingen, Germany |1820|
+|[Johann Tobias Mayer](https://mathgenealogy.org/id.php?id=57659), [Bernhard Friedrich Thibaut](https://mathgenealogy.org/id.php?id=57667)|Georg-August-Universität Göttingen, Germany|1773, 1796|
