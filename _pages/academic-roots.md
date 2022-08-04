@@ -8,8 +8,8 @@ redirect_from:
 ---
 # Academic Genealogy
 
-| Name           | School                                     |  Year | 
-|----------------|--------------------------------------------|-------|
+| Name              | School                                     |  Year | 
+|-------------------|--------------------------------------------|-------|
 |Renchi Yang            |Nanyang Technological University, Singapore |  2021 |
 |[Xiaokui Xiao](https://academictree.org/computerscience/peopleinfo.php?pid=441020) |Chinese University of Hong Kong, Hong Kong, China  | 2008  |
 |[Yufei Tao](https://academictree.org/computerscience/peopleinfo.php?pid=418363)   |Hong Kong University of Science and Technology, Hong Kong, China | 2002 |
