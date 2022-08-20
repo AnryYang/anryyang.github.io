@@ -16,7 +16,9 @@ redirect_from:
 |[Dimitris Papadias](https://mathgenealogy.org/id.php?id=68682)|National Technical University of Athens, Greece|1994|
 |[Timos Sellis](https://mathgenealogy.org/id.php?id=85908)|University of California, Berkeley, USA|1986|
 |[Michael Ralph Stonebraker](https://mathgenealogy.org/id.php?id=31091)|University of Michigan, USA|1971|
-<!-- |[Arch Waugh Naylor](https://mathgenealogy.org/id.php?id=63600)|University of Michigan, USA|1960|
+
+<!-- 
+|[Arch Waugh Naylor](https://mathgenealogy.org/id.php?id=63600)|University of Michigan, USA|1960|
 |[Alan Breck Macnee](https://mathgenealogy.org/id.php?id=80987)|Massachusetts Institute of Technology, USA|1948|
 |[Henry Wallman](https://mathgenealogy.org/id.php?id=7829)|Princeton University, USA|1937|
 |[Solomon Lefschetz](https://mathgenealogy.org/id.php?id=7461)|Clark University, USA|1911|
@@ -30,7 +32,8 @@ redirect_from:
 |[Johann Christoph Wichmannshausen](https://mathgenealogy.org/id.php?id=72669)|Universität Leipzig, Germany|1685|
 |[Otto Mencke](https://mathgenealogy.org/id.php?id=21235)|Universität Leipzig, Germany|1665|
 |[Jakob Thomasius](https://mathgenealogy.org/id.php?id=137705)|Universität Leipzig, Germany|1643|
-|[Friedrich Leibniz](https://mathgenealogy.org/id.php?id=143630)|Universität Leipzig, Germany|1622| -->
+|[Friedrich Leibniz](https://mathgenealogy.org/id.php?id=143630)|Universität Leipzig, Germany|1622| 
+-->
 
 
 
