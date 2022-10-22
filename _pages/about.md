@@ -9,7 +9,6 @@ redirect_from:
 ---
 
 I am currently a Research Fellow at the School of Computing, National University of Singapore working with Prof. [Xiaokui XIAO](https://www.comp.nus.edu.sg/~xiaoxk/). I will join the Department of Computer Science at Hong Kong Baptist University as an Assistant Professor from Spring 2023. I obtained my Ph.D. in computer science from Nanyang Technological University and received my B.Eng. degree from Beijing University of Posts and Telecommunications. Broadly speaking, my research aims to develop efficient algorithms and systems for large-scale data analysis.
-<!-- using sampling, sketching, indexing, or parallelization techniques. -->
 
 <!-- UPDATE: I am actively looking for a tenure-track faculty position. Please find my C.V. [here](https://renchi.ac.cn/files/CV.pdf). -->
 
