@@ -18,10 +18,12 @@ redirect_from:
 <!-- 学校要求参见：[Application](https://gs.hkbu.edu.hk/programmes/doctor-of-philosophy-master-of-philosophy-department-of-computer-science)  -->
 
 导师对学生的素质要求：
+- 拥有计算机科学或相关学科的优秀学士或硕士学位者
+- 雅思6.5分或托福79分以上
 - 热爱科研，积极主动，有探索钻研精神（有科研经历的同学优先考虑）
-- 较好的表达能力和英文写作能力
 - 较强的编程(熟悉C/C++/Python)及算法能力（有编程竞赛经历的同学优先考虑）
 - 较强的数学（线性代数和概率统计）分析能力 (有数学竞赛获奖经历的同学优先考虑)
+- 较好的表达能力和英文写作能力
 
 ## 申请方式：
 请感兴趣的同学于今年12月1日之前，按照下面的邮件格式把简历发到: [导师邮箱](mailto:renchi@hkbu.edu.hk)
