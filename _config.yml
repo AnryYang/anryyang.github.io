@@ -85,7 +85,7 @@ author:
   name             : "Renchi Yang"
   avatar           : "avatar.jpg"
   bio              : ""
-  location         : ""
+#  location         : ""
   employer         :
   pubmed           :
   orcid            : "https://orcid.org/0000-0002-7284-3096"
