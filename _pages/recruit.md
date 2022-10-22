@@ -13,7 +13,7 @@ redirect_from:
 
 ## 招生要求：
 计划招收2名2023年秋季入学的博士研究生。录取条件及相关流程请参加：[Entrance Requirements](https://www.comp.hkbu.edu.hk/v1/?pid=70)。优秀的申请者将被推荐到[Hong Kong PhD Fellowship Scheme](https://www.comp.hkbu.edu.hk/v1/?page=hkpfs-info)。
-![hkpfs](https://www.comp.hkbu.edu.hk/~xinhuang/images/HKPFS.png)
+<!-- ![hkpfs](https://www.comp.hkbu.edu.hk/~xinhuang/images/HKPFS.png) -->
 
 <!-- 学校要求参见：[Application](https://gs.hkbu.edu.hk/programmes/doctor-of-philosophy-master-of-philosophy-department-of-computer-science)  -->
 
