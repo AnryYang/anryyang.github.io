@@ -13,10 +13,10 @@ redirect_from:
 
 ## 招生要求：
 计划招收2名2023年秋季入学的博士研究生。录取条件及相关流程请参加：[Entrance Requirements](https://www.comp.hkbu.edu.hk/v1/?pid=70)。
-|  | 奖学金 | 学费 |
-| :-----| :----: | :----: |
-| 普通项目 | 17,820港币(通过考核后涨为18,320港币) | 单元格 |
-| HKPHS项目 | 单元格 | 单元格 |
+| 项目 | 奖学金 | 学费 |申请流程|
+| :-----| :----: | :----: |:----:|
+| 一般项目 | 17,820港币(通过考核后涨为18,320港币) | 每年42,100港币 |[Application](https://gs.hkbu.edu.hk/admission/research-postgraduate-programmes/application)|
+| HKPHS项目 | 单元格 | 单元格 |[Application](https://gs.hkbu.edu.hk/admission/hong-kong-phd-fellowship-scheme/application)|
 
 学费与奖学金情况参见：[Scholarships](https://gs.hkbu.edu.hk/admission/research-postgraduate-programmes/fees-scholarships-and-financial-aid)。
 优秀的申请者将被推荐到[Hong Kong PhD Fellowship Scheme(HKPHS)](https://www.comp.hkbu.edu.hk/v1/?page=hkpfs-info)。
