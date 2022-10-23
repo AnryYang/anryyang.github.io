@@ -16,8 +16,8 @@ redirect_from:
 
 | 项目 | 奖学金 | 学费 |更多详情|申请流程|
 | :-----| :----: |:----: |:----: |:----:|
-| 一般项目 | 17,820港币(通过考核后涨为18,320港币)每月 | 每年42,100港币 |[Requirements](https://www.comp.hkbu.edu.hk/v1/?pid=70)|[Application](https://gs.hkbu.edu.hk/admission/research-postgraduate-programmes/application)|
-| HKPHS项目 | 单元格 | 第一年豁免，后三年根据表现进行豁免 |[Requirements](https://www.comp.hkbu.edu.hk/v1/?page=hkpfs-info)|[Application](https://gs.hkbu.edu.hk/admission/hong-kong-phd-fellowship-scheme/application)|
+| 一般项目 | 17,820港币(通过考核后涨为18,320港币)每月 | 每年42,100港币 |[More](https://www.comp.hkbu.edu.hk/v1/?pid=70)|[Application](https://gs.hkbu.edu.hk/admission/research-postgraduate-programmes/application)|
+| [HKPHS项目](https://www.comp.hkbu.edu.hk/v1/pic/news/382.png?002200090022) | 每年480,000港币(无税)，另有其它多项资助 | 第一年豁免，后三年根据表现进行豁免 |[More](https://www.comp.hkbu.edu.hk/v1/?page=hkpfs-info)|[Application](https://gs.hkbu.edu.hk/admission/hong-kong-phd-fellowship-scheme/application)|
 
 学费与奖学金具体情况参见：[Scholarships](https://gs.hkbu.edu.hk/admission/research-postgraduate-programmes/fees-scholarships-and-financial-aid)。
 <!-- ![hkpfs](https://www.comp.hkbu.edu.hk/~xinhuang/images/HKPFS.png) -->
