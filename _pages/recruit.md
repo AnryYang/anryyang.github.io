@@ -12,8 +12,14 @@ redirect_from:
 杨任驰博士将于2023年春季加入香港浸会大学计算机科学系担任助理教授一职。杨博士毕业于南洋理工大学计算机科学与工程学院，之后在新加坡国立大学计算机学院从事博士后研究工作。其研究方向为大数据（主要为社交网络等图数据）管理、分析和挖掘等。他在国际数据库和数据挖掘领域的顶级会议/期刊（VLDB、SIGMOD、WWW、KDD、TODS等）上发表十余篇论文。其中一篇代表性研究成果获得数据库顶级会议VLDB 2021的最佳论文奖，并荣获2022 ACM SIGMOD Research Highlight Award。另外一篇独立作者的论文获得万维网技术顶级会议WWW 2022最佳论文提名。杨博士目前是多个数据库和数据挖掘领域顶级会议（例如WWW，KDD， WSDM）的程序委员会成员以及顶级期刊（TKDE和VLDBJ）的审稿人。更多详情参见[导师主页](https://www.comp.hkbu.edu.hk/~renchi)。
 
 ## 招生要求：
-计划招收2名2023年秋季入学的博士研究生。录取条件及相关流程请参加：[Entrance Requirements](https://www.comp.hkbu.edu.hk/v1/?pid=70)。学费与奖学金情况参见：[Scholarships](https://gs.hkbu.edu.hk/admission/research-postgraduate-programmes/fees-scholarships-and-financial-aid)。
-优秀的申请者将被推荐到[Hong Kong PhD Fellowship Scheme](https://www.comp.hkbu.edu.hk/v1/?page=hkpfs-info)。
+计划招收2名2023年秋季入学的博士研究生。录取条件及相关流程请参加：[Entrance Requirements](https://www.comp.hkbu.edu.hk/v1/?pid=70)。
+|  | 奖学金 | 学费 |
+| :-----| :----: | :----: |
+| 普通项目 | 17,820港币(通过考核后涨为18,320港币) | 单元格 |
+| HKPHS项目 | 单元格 | 单元格 |
+
+学费与奖学金情况参见：[Scholarships](https://gs.hkbu.edu.hk/admission/research-postgraduate-programmes/fees-scholarships-and-financial-aid)。
+优秀的申请者将被推荐到[Hong Kong PhD Fellowship Scheme(HKPHS)](https://www.comp.hkbu.edu.hk/v1/?page=hkpfs-info)。
 <!-- ![hkpfs](https://www.comp.hkbu.edu.hk/~xinhuang/images/HKPFS.png) -->
 
 <!-- 学校要求参见：[Application](https://gs.hkbu.edu.hk/programmes/doctor-of-philosophy-master-of-philosophy-department-of-computer-science)  -->
