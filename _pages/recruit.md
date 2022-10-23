@@ -24,7 +24,7 @@ redirect_from:
 
 <!-- 学校要求参见：[Application](https://gs.hkbu.edu.hk/programmes/doctor-of-philosophy-master-of-philosophy-department-of-computer-science)  -->
 
-导师对学生的素质要求：
+对学生的素质要求：
 - 拥有计算机科学或相关学科的优秀学士或硕士学位者
 - 雅思6.5分或托福79分以上
 - 热爱科研，积极主动，有探索钻研精神（有科研经历的同学优先考虑）
