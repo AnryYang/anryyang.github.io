@@ -34,7 +34,7 @@ redirect_from:
 - 较好的表达能力和英文写作能力
 
 ## 申请方式：
-请感兴趣的同学于今年12月1日之前(想申请HKPFS的同学11月7号)，按照下面的邮件格式把简历发到: [导师邮箱](mailto:renchi@hkbu.edu.hk)(renchi@hkbu.edu.hk)
+请感兴趣的同学于今年12月1日之前(有意申请HKPFS的优秀同学于今年11月7日之前)，按照下面的邮件格式把简历发到: [导师邮箱](mailto:renchi@hkbu.edu.hk)(renchi@hkbu.edu.hk)
 - 邮件主题：[PHD Application]  你的学校 + 你的专业 + 你的名字
 - 邮件正文：个人经历（200字左右，中英文不限）
 - 邮件附件：最新的成绩单和简历(英文)
