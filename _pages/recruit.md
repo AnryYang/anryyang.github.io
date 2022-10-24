@@ -17,9 +17,9 @@ redirect_from:
 | 项目 | 奖学金 | 学费 |更多详情|申请流程|
 | :-----| :----: |:----: |:----: |:----:|
 | 普通奖学金计划 | 17,820港币(通过考核后涨为18,320港币)每月 | 每年42,100港币 |[More](https://www.comp.hkbu.edu.hk/v1/?pid=70)|[Application](https://gs.hkbu.edu.hk/admission/research-postgraduate-programmes/application)|
-| [香港博士研究生奖学金计划(HKPFS)](https://www.comp.hkbu.edu.hk/v1/pic/news/382.png?002200090022) | 每年480,000港币，另有其它多项资助 | 第1年豁免，后3年视表现而定 |[More](https://www.comp.hkbu.edu.hk/v1/?page=hkpfs-info)|[Application](https://gs.hkbu.edu.hk/admission/hong-kong-phd-fellowship-scheme/application)|
+| [香港博士研究生奖学金计划(HKPFS)](https://www.comp.hkbu.edu.hk/v1/pic/news/382.png?002200090022) | 480,000港币每年，另有其它多项资助 | 第1年豁免，后3年视表现而定 |[More](https://www.comp.hkbu.edu.hk/v1/?page=hkpfs-info)|[Application](https://gs.hkbu.edu.hk/admission/hong-kong-phd-fellowship-scheme/application)|
 
-被学校提名HKPFS的同学，即使未通过，每年也可获得学校提供的240,000港币奖学金。学费与奖学金具体情况参见：[Scholarships](https://gs.hkbu.edu.hk/admission/research-postgraduate-programmes/fees-scholarships-and-financial-aid)。
+获得学校提名HKPFS的同学，即使未获奖，每年也可获得学校提供的240,000港币奖学金。学费与奖学金具体情况参见：[Scholarships](https://gs.hkbu.edu.hk/admission/research-postgraduate-programmes/fees-scholarships-and-financial-aid)。更多在线申请信息参见：[Online Application](https://iss.hkbu.edu.hk/amsappl_pg/geninfo.jsf)
 <!-- ![hkpfs](https://www.comp.hkbu.edu.hk/~xinhuang/images/HKPFS.png) -->
 
 <!-- 学校要求参见：[Application](https://gs.hkbu.edu.hk/programmes/doctor-of-philosophy-master-of-philosophy-department-of-computer-science)  -->
