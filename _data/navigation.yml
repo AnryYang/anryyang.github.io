@@ -24,7 +24,7 @@ main:
   #  url: /code/
 
   - title: "Miscellaneous"
-   url: /misc/
+    url: /misc/
 
   # - title: "Visitors"
   #  url: /visitors/
