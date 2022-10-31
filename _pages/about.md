@@ -24,8 +24,9 @@ I will join the Department of Computer Science at Hong Kong Baptist University a
 
 Research Interests
 ======
-- Databases and data management: graph query processing, similarity search
-- Data mining and machine learning: clustering and community detection, graph representation learning
+- Databases and data management: graph query processing, similarity search 
+- The Web and information retrieval: search and ranking, recommendation, web mining
+- Data mining and machine learning: social network analysis, graph representation learning
 
 <!-- I welcome enquiries on potential collaborations on interesting topics. Note that, in the papers, every coauthor needs to make substantial contributions to qualify him/her for authorship and the order of authors in the byline reflects the magnitude of contribution. -->
 
