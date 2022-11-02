@@ -118,6 +118,9 @@
       {% if author.tidbit %}
         <li><a href="{{ author.tidbit }}"><i class="fa fa-tree"></i> Tidbit</a></li>
       {% endif %}
+      {% if author.cv %}
+        <li><a href="{{ author.cv }}"><i class="fa fa-id-badge"></i> Curriculum Vitae</a></li>
+      {% endif %}
       {% if author.pubmed %}
         <li><a href="{{ author.pubmed }}"><i class="ai ai-pubmed-square ai-fw"></i> PubMed</a></li>
       {% endif %}
