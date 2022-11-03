@@ -37,7 +37,10 @@ Welcome to cite our paper if you publish results based on our preprocessed datas
   author={Yang, Renchi and Shi, Jieming and Xiao, Xiaokui and Yang, Yin and Bhowmick, Sourav S},
   journal={Proceedings of the VLDB Endowment},
   volume={13},
-  number={5}
+  number={5},
+  pages={670--683},
+  year={2020},
+  publisher={VLDB Endowment}
 }
 
 @article{shi13realtime,
@@ -45,7 +48,10 @@ Welcome to cite our paper if you publish results based on our preprocessed datas
   author={Shi, Jieming and Jin, Tianyuan and Yang, Renchi and Xiao, Xiaokui and Yang, Yin},
   journal={Proceedings of the VLDB Endowment},
   volume={13},
-  number={7}
+  number={7},
+  pages={966--980},
+  year={2020},
+  publisher={VLDB Endowment}
 }
 ```
 
@@ -108,6 +114,24 @@ Welcome to cite our paper if you publish results based on our preprocessed datas
 |   Orkut   | 2,783,196  | 8,730,857  | 327,037,487  | [[raw]](https://networkrepository.com/aff-orkut-user2groups.php) [[preprocessed]](https://entuedu-my.sharepoint.com/:u:/g/personal/yang0461_e_ntu_edu_sg/ET1exaMNrNhNieuQwwnCxgAB3hUla8iczqnm3_8xC_oDTw?e=2tUYok) |
 |  MAG    | 10,541,560  | 2,784,240  |  1,095,315,106 | [[raw]](https://figshare.com/articles/dataset/mag_scholar/12696653) [[preprocessed]](https://entuedu-my.sharepoint.com/:u:/g/personal/yang0461_e_ntu_edu_sg/EU-6KhRYWBRPtZmsYCj_bzAB92GnWaGxVdkB7mqi-jGQIg?e=B8PWnS) |
 
+Welcome to cite our paper if you publish results based on our preprocessed datasets.
+```bib
+@inproceedings{yang2022efficient,
+  title={Efficient and Effective Similarity Search over Bipartite Graphs},
+  author={Yang, Renchi},
+  booktitle={Proceedings of the ACM Web Conference 2022},
+  pages={308--318},
+  year={2022}
+}
+
+@inproceedings{yang2022scalable,
+  title={Scalable and Effective Bipartite Network Embedding},
+  author={Yang, Renchi and Shi, Jieming and Huang, Keke and Xiao, Xiaokui},
+  booktitle={Proceedings of the 2022 International Conference on Management of Data},
+  pages={1977--1991},
+  year={2022}
+}
+```
 
 ## Dataset Repositories
 
