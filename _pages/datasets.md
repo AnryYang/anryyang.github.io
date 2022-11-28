@@ -15,6 +15,9 @@ redirect_from:
 
 | Name    | #nodes    | #edges    | #labels | Type        | URL       | 
 |-------  |---------  |---------  |---------|-----------  |---------  |
+| PPI |  3,890  |   76,584 | 50  | undirected  | [[raw]](https://github.com/xptree/LightNE) [[raw]](http://snap.stanford.edu/node2vec/) [[preprocessed]]() | 
+| Blogcatalog3 |  10,312  |  333,983   | 39  | undirected  | [[raw]](https://github.com/xptree/LightNE) [[raw]](http://leitang.net/code/social-dimension/data/blogcatalog.mat) [[preprocessed]]() | 
+| Flickr |  80,513 |  5,899,882  |   195    | undirected  | [[raw]](https://github.com/xptree/LightNE) [[raw]](http://leitang.net/code/social-dimension/data/flickr.mat) [[preprocessed]]() | 
 | Youtube | 1,138,499   | 2,990,443   | 47      | undirected  | [[raw]](http://socialcomputing.asu.edu/datasets/YouTube2) [[preprocessed]](https://entuedu-my.sharepoint.com/:u:/g/personal/yang0461_e_ntu_edu_sg/EYx1SQKNTStFisTBIHAMNDQBOnsPGF1wtlhKsMZcUF5-ZQ?e=gF7kqc) | 
 | TWeibo  | 2,320,895   | 50,655,143  | 100     | directed    | [[raw]](https://www.kaggle.com/c/kddcup2012-track1) [[preprocessed]](https://entuedu-my.sharepoint.com/:u:/g/personal/yang0461_e_ntu_edu_sg/EcBcQ96ABnJJjLOObzmsgfgBwgn4V20mjjpbApTWECcjVw?e=goYD9m) |
 | Orkut   | 3,072,441   | 117,185,084 | 100     | undirected  | [[raw]](http://snap.stanford.edu/data/com-Orkut.html) [[preprocessed]](https://entuedu-my.sharepoint.com/:u:/g/personal/yang0461_e_ntu_edu_sg/EUwDCmNkRKlAuhKXwgyLWy4BQhk4bP1Eam-TCr0A4_fM6A?e=9nxc6V) |
@@ -24,6 +27,7 @@ redirect_from:
 |LiveJournal  | 4,847,571 | 68,475,391 |  -    |  directed  |  [[raw]](http://snap.stanford.edu/data/soc-LiveJournal1.html) [[preprocessed]](https://entuedu-my.sharepoint.com/:u:/g/personal/yang0461_e_ntu_edu_sg/ERyfJgiGYDdKgct_aKXCfBMBcjGhwnPhcLWx-h7PAnZzWQ?e=tbqcOo)         | 
 |IT-2004  | 41,291,594  | 1,135,718,909  |   -      |  directed  |  [[raw]](http://law.di.unimi.it/webdata/it-2004/) [[preprocessed]](https://entuedu-my.sharepoint.com/:u:/g/personal/yang0461_e_ntu_edu_sg/EUmrLB0HMY9LpqqUYpagRW8B6o-Bd7aqXLuGlM_3TQQkzw?e=GMOKCg)| 
 |Twitter  | 41,652,230  | 1,468,365,182|    -    | directed    | [[raw]](http://law.di.unimi.it/webdata/twitter-2010/) [[preprocessed]](https://entuedu-my.sharepoint.com/:u:/g/personal/yang0461_e_ntu_edu_sg/EWTupqJC5f5Igfo9IzVVYhUBOW5QRVupCOjgDY6B_Qx8WA?e=mndw7n)|
+|Friendster-small | 7,944,949  | 447,219,610 |  100  |  undirected  | [[raw]](https://snap.stanford.edu/data/com-Friendster.html) [[raw]](https://graphvite.io/docs/latest/api/dataset.html) [[preprocessed]]() |
 |Friendster | 65,608,366  | 1,806,067,135 |   100  |  undirected  | [[raw]](https://snap.stanford.edu/data/com-Friendster.html) [[raw]](https://graphvite.io/docs/latest/api/dataset.html) [[preprocessed]](https://entuedu-my.sharepoint.com/:u:/g/personal/yang0461_e_ntu_edu_sg/Eau8YKjiYCxCrUGKDmAgqL0Btvh-Z0L8pUzX_CtF8YWHYg?e=AcKivU) |
 |OAG | 67,768,244  | 895,368,962 |   19  |  undirected  | [[raw]](https://github.com/xptree/LightNE) [[preprocessed]]() |
 |UK-2007 | 105,896,555 | 3,738,733,648|    -    |   directed  |  [[raw]](http://law.di.unimi.it/webdata/uk-2007-05/)[[preprocessed]](https://entuedu-my.sharepoint.com/:u:/g/personal/yang0461_e_ntu_edu_sg/EQNu-RvrM7dJvtAYwBCoqE4B8T_OiVbDK2_T0UguEkolqw?e=MapN3O)       | 
