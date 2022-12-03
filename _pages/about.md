@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 I will join the Department of Computer Science at Hong Kong Baptist University as an Assistant Professor from Spring 2023. I am currently a Research Fellow in the School of Computing, National University of Singapore working with Prof. [Xiaokui XIAO](https://www.comp.nus.edu.sg/~xiaoxk/). I earned a Ph.D. in computer science from Nanyang Technological University, and was advised by Prof. [Xiaokui XIAO](https://www.comp.nus.edu.sg/~xiaoxk/) and Prof. 
-[Sourav Bhowmick](https://personal.ntu.edu.sg/assourav/). Prior to that, I worked as a software engineer at Tencent for one year after receiving my B.Eng. degree from Beijing University of Posts and Telecommunications in 2015. Broadly speaking, my research aims to develop efficient algorithms and systems for large-scale data analysis.
+[Sourav Bhowmick](https://personal.ntu.edu.sg/assourav/). Prior to that, I worked as a software engineer at Tencent for one year after receiving my B.Eng. degree from Beijing University of Posts and Telecommunications in 2015. Broadly speaking, my research aims to develop efficient algorithms and systems for large-scale data management and analysis.
 
 <!-- > I have 2 Ph.D. openings starting from Fall 2023. Please send [me](mailto:renchi@hkbu.edu.hk) your CV and transcripts, if you are interested. -->
 
