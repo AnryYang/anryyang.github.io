@@ -1,4 +1,4 @@
-<---
+---
 title: "Effective and Efficient PageRank-based Positioning for Graph Visualization"
 collection: publications
 date: 2023-01-01
@@ -9,4 +9,4 @@ abstract: ""
 featured: false
 venue: "Proceedings of the International Conference on Management of Data"
 venueabbr: "SIGMOD"
---->
+---
