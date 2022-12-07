@@ -48,10 +48,10 @@ Academic Services
 
 Talks
 ======
-- Efficient Network Embedding for Large-Scale Graph Analysis. The Hong Kong university of Science and Technology, September 26, 2022.
-- Efficient Network Embeddings for Big Graph Analytics. Hong Kong Baptist University, August 10, 2022.
-- Efficient Relevance Search over Large Graphs. The Hong Kong University of Science and Technology (Guangzhou), May 04, 2022.
-- Scaling Attributed Network Embedding to Massive Graphs. Renmin University of China, August 30, 2021.
+- [Efficient Network Embedding for Large-Scale Graph Analysis](). The Hong Kong university of Science and Technology, September 26, 2022.
+- [Efficient Network Embeddings for Big Graph Analytics](). Hong Kong Baptist University, August 10, 2022.
+- [Efficient Relevance Search over Large Graphs](). The Hong Kong University of Science and Technology (Guangzhou), May 04, 2022.
+- [Scaling Attributed Network Embedding to Massive Graphs](). Renmin University of China, August 30, 2021.
 
 
 <!-- Doctoral Thesis
