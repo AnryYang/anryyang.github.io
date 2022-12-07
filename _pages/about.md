@@ -46,7 +46,7 @@ Academic Services
 - Invited reviewer for the following journals: TKDE, VLDBJ.
 - Subreviewer or External reviewer for VLDB 2023, CIKM 2022, TheWebConf 2021, ICDM 2021, ICDE 2020, VLDB 2020, KDD 2019, IJCAI 2019, CIKM 2019.
 
-Talks
+Invited Talks
 ======
 - [Efficient Network Embedding for Large-Scale Graph Analysis](). The Hong Kong university of Science and Technology, September 26, 2022.
 - [Efficient Network Embeddings for Big Graph Analytics](). Hong Kong Baptist University, August 10, 2022.
