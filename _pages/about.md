@@ -53,6 +53,11 @@ Invited Talks
 - [Efficient Relevance Search over Large Graphs](). The Hong Kong University of Science and Technology (Guangzhou), May 04, 2022.
 - [Scaling Attributed Network Embedding to Massive Graphs](). Renmin University of China, August 30, 2021.
 
+Teaching
+======
+- HKBU COMP7640: Database Systems & Administration, Spring 2023
+- HKBU COMP7810: Business Intelligence, Spring 2023
+
 
 <!-- Doctoral Thesis
 ======
