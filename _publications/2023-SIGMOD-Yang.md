@@ -1,7 +1,7 @@
 ---
 title: "Efficient Estimation of Pairwise Effective Resistance"
 collection: publications
-date: 2022-08-23
+date: 2023-01-01
 publishDate: 2023-06-23T14:59:13.218163Z
 authors: "<b>Renchi Yang</b>, Jing Tang"
 publication_types: ["1"]
