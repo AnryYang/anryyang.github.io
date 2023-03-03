@@ -1,5 +1,5 @@
 ---
-title: "Efficient Algorithms for Approximate Single-Source Personalized PageRank Queries"
+title: "PANE: Scalable and Effective Attributed Network Embedding"
 collection: publications
 date: 2023-03-03
 publishDate: 2023-03-03T14:59:13.219059Z
