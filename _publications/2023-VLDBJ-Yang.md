@@ -9,5 +9,5 @@ abstract: ""
 featured: false
 venue: "The VLDB Journal"
 venueabbr: "VLDBJ"
-flag: "Special Issue on Best Papers of VLDB 2021"
+flag: "(Special Issue on Best Papers of VLDB 2021)"
 ---
