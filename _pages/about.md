@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am currently an Assistant Professor in the Department of Computer Science at Hong Kong Baptist University. Broadly speaking, my research aims to develop efficient algorithms and systems for large-scale data management and analysis. I earned a Ph.D. in computer science from Nanyang Technological University, followed by a postdoctoral stint at National University of Singapore, working with Prof. [Xiaokui XIAO](https://www.comp.nus.edu.sg/~xiaoxk/). I am a recipient of the 2021 VLBD Best Research Paper Award and the 2022 SIGMOD Research Highlight Award.
+I am currently an Assistant Professor in the Department of Computer Science at Hong Kong Baptist University. I earned a Ph.D. in computer science from Nanyang Technological University, followed by a postdoctoral stint at National University of Singapore, working with Prof. [Xiaokui XIAO](https://www.comp.nus.edu.sg/~xiaoxk/). I am a recipient of the 2021 VLBD Best Research Paper Award and the 2022 SIGMOD Research Highlight Award. Broadly speaking, my research aims to develop efficient algorithms and systems for large-scale data management and analysis.
 
 <!-- > I have 2 Ph.D. openings starting from Fall 2023. Please send [me](mailto:renchi@hkbu.edu.hk) your CV and transcripts, if you are interested. -->
 
