@@ -8,6 +8,6 @@ publication_types: ["2"]
 abstract: ""
 featured: false
 venue: "SIGMOD Record"
-flag: "ACM SIGMOD Research Highlight Award"
+flag: "(ACM SIGMOD Research Highlight Award)"
 pdf: "https://sigmodrecord.org/publications/sigmodRecord/2203/pdfs/12_pane-yang.pdf"
 ---
