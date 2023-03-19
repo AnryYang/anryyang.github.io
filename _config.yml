@@ -62,7 +62,7 @@ facebook:
   username               :
   app_id                 :
   publisher              :
-og_image                 : rcyang.jpg # Open Graph/Twitter default site image
+og_image                 : bak_avatar.jpg # Open Graph/Twitter default site image
 # For specifying social profiles
 # - https://developers.google.com/structured-data/customize/social-profiles
 social:
@@ -83,7 +83,7 @@ analytics:
 # Site Author
 author:
   name             : "Renchi Yang"
-  avatar           : "rcyang.jpg"
+  avatar           : "bak_avatar.jpg"
   bio              : ""
 #  location         : ""
   employer         :
