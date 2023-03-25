@@ -10,4 +10,8 @@ featured: false
 venue: "The VLDB Journal"
 venueabbr: "VLDBJ"
 flag: "(Special Issue on Best Papers of VLDB 2021)"
+pdf: "https://link.springer.com/article/10.1007/s00778-023-00790-4"
+arxiv: "https://arxiv.org/abs/2009.00826"
+github: "https://github.com/AnryYang/PANE"
+doi: "10.1007/s00778-023-00790-4"
 ---
