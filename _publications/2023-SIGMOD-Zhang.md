@@ -9,4 +9,6 @@ abstract: ""
 featured: false
 venue: "Proceedings of the International Conference on Management of Data"
 venueabbr: "SIGMOD"
+arxiv: "https://arxiv.org/abs/2112.14944"
+github: "https://github.com/jeremyzhangsq/PPRviz-reproducibility"
 ---
