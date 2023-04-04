@@ -14,5 +14,5 @@ redirect_from:
 ### Current Ph.D./M.Phil. Students
 
 | Name         | Starting from  |  Educational Background       |  Category    |   Research Direction  |
-|--------------|----------------|-------------------------------|--------------|-----------------------|
+|:--------------|:----------------:|:-------------------------------:|:--------------:|:-----------------------|
 | CHEN Shutong | Sep. 2023      | BSc. & MSc. Xidian University | Ph.D student |                       |
