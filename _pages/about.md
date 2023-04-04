@@ -55,8 +55,8 @@ Invited Talks
 
 Teaching
 ======
-- HKBU COMP7640: Database Systems & Administration, Spring 2023
-- HKBU COMP7930: Big Data Analytics, Spring 2023
+- HKBU COMP7640: [Database Systems & Administration](https://www.comp.hkbu.edu.hk/v1/file/course/COMP7640.pdf), Spring 2023
+- HKBU COMP7930: [Big Data Analytics](https://www.comp.hkbu.edu.hk/v1/file/course/COMP7930.pdf), Spring 2023
 
 
 <!-- Doctoral Thesis
