@@ -15,4 +15,4 @@ redirect_from:
 
 | Name         | Starting from  |  Educational Background       |  Category    |   Research Direction  |   Publications  |
 |:--------------|:----------------:|:-------------------------------:|:--------------:|:-----------------------|:-----------------------|
-| CHEN Shutong | Sep. 2023      | BSc. & MSc. Xidian University | Ph.D student |                       |                       |
+| CHEN Shutong | Sep. 2023      | BSc. & MSc. Xidian University | Ph.D. student |                       |                       |
