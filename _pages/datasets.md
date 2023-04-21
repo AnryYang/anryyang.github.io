@@ -173,3 +173,4 @@ Welcome to cite our paper if you publish results based on our preprocessed datas
 |[AWS](https://registry.opendata.aws/)                            |-                             | Amazon           |
 |[Kaggle Datasets](https://www.kaggle.com/datasets)                            |-                             | Kaggle           |
 |[OpenML](https://www.openml.org/search?type=data&sort=runs&status=active) | - | OpenML |
+|[Datasets](https://courses.cs.washington.edu/courses/cse547/19sp/data.html) | - | - |
