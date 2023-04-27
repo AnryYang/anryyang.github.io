@@ -11,8 +11,9 @@ redirect_from:
 
 ## Team Members
 
-### Current Ph.D./M.Phil. Students
+### Current Members
 
 | Name         | Starting from  |  Educational Background       |  Category    |   Research Direction  |   Publications  |
 |:--------------|:----------------:|:-------------------------------:|:--------------:|:-----------------------|:-----------------------|
-| CHEN Shutong | Sep. 2023      | BSc. & MSc. Xidian University | Ph.D. student |                       |                       |
+| CHEN Shutong | Sep. 2023      | BSc. & MSc. Xidian Univ. | Ph.D. student |                       |                       |
+| WANG Feishuang | Jul. 2023      | BSc. Southwest Univ. & M.S. Univ. of Auckland| Research Assistant |                       |                       |
