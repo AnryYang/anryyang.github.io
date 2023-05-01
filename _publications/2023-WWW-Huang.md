@@ -7,7 +7,7 @@ authors: "Keke Huang, Jing Tang, Juncheng Liu, <b>Renchi Yang</b> and Xiaokui Xi
 publication_types: ["2"]
 abstract: ""
 featured: false
-acm: "https://dl.acm.org/doi/10.1145/3543507.3583408"
+acm: "https://doi.org/10.1145/3543507.3583408"
 venue: "Proceedings of The Web Conference"
 venueabbr: "WWW"
 ---
