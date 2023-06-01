@@ -15,7 +15,4 @@ redirect_from:
 
 | Name         | Starting from  |  Educational Background       |  Category    |   Research Direction  |   Publications  |
 |:--------------|:----------------:|:-------------------------------:|:--------------:|:-----------------------|:-----------------------|
-| MAO Tianrui | Sep. 2023      | B.Eng. CUP & M.S. TU Delft| Ph.D. student |                       |                       |
 | WANG Feishuang | Jul. 2023      | BSc. SWU. & M.S. UoA| Research Assistant |                       |                       |
-
-<!-- | CHEN Shutong | Sep. 2023      | BSc. & MSc. Xidian Univ. | Ph.D. student |                       |                       | -->
