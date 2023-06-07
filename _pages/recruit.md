@@ -34,7 +34,7 @@ redirect_from:
 - 数据挖掘：异常检测，图聚类，图表示学习（图嵌入，图神经网络等）及相关应用
 
 ## 申请方式：
-请感兴趣的同学于今年4月1日之前，按照下面的邮件格式把简历发到: [导师邮箱](mailto:renchi@hkbu.edu.hk)(renchi@hkbu.edu.hk)
+请感兴趣的同学按照下面的邮件格式把简历发到: [导师邮箱](mailto:renchi@hkbu.edu.hk)(renchi@hkbu.edu.hk)
 - 邮件主题：[PHD Application]  你的学校 + 你的专业 + 你的名字
 - 邮件正文：个人经历（200字左右，中英文不限）
 - 邮件附件：最新的成绩单和简历(英文)
