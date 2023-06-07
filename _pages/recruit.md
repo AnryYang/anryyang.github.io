@@ -17,7 +17,7 @@ redirect_from:
 
 | 项目 | 奖学金 | 学费 |更多详情|申请流程|
 | :-----| :----: |:----: |:----: |:----:|
-| 普通奖学金计划 | 17,820港币(通过考核后涨为18,320港币)每月 | 每年42,100港币 |[More](https://www.comp.hkbu.edu.hk/v1/?pid=70)|[Application](https://gs.hkbu.edu.hk/admission/research-postgraduate-programmes/application)|
+| 普通奖学金计划 | 18,180港币(通过考核后涨为18,690港币)每月 | 每年42,100港币 |[More](https://www.comp.hkbu.edu.hk/v1/?pid=70)|[Application](https://gs.hkbu.edu.hk/admission/research-postgraduate-programmes/application)|
 
 <!-- 学校要求参见：[Application](https://gs.hkbu.edu.hk/programmes/doctor-of-philosophy-master-of-philosophy-department-of-computer-science)  -->
 
