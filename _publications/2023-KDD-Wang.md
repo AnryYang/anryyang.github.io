@@ -8,5 +8,7 @@ publication_types: ["1"]
 abstract: ""
 featured: false
 venue: "Proceedings of the International Conference on Knowledge Discovery and Data Mining"
+acm: "https://doi.org/10.1145/3580305.3599321"
+github: "https://github.com/wanghewen/TER_AER"
 venueabbr: "KDD"
 ---
