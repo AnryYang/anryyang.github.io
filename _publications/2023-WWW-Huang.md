@@ -8,6 +8,7 @@ publication_types: ["2"]
 abstract: ""
 featured: false
 acm: "https://doi.org/10.1145/3543507.3583408"
+pdf: "https://arxiv.org/abs/2305.14000"
 venue: "Proceedings of The Web Conference"
 venueabbr: "WWW"
 ---
