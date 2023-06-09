@@ -11,5 +11,5 @@ venue: "Proceedings of the International Conference on Knowledge Discovery and D
 venueabbr: "KDD"
 acm: "https://doi.org/10.1145/3580305.3599323"
 github: "https://github.com/jeremyzhangsq/AESC"
-pdf: "https://arxiv.org/abs/2305.16086"
+arxiv: "https://arxiv.org/abs/2305.16086"
 ---
