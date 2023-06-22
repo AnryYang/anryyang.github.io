@@ -8,16 +8,16 @@ redirect_from:
   - /about.html
 ---
 
-I am currently an Assistant Professor in the Department of Computer Science at Hong Kong Baptist University. I earned a Ph.D. in computer science from Nanyang Technological University, followed by a postdoctoral stint at National University of Singapore. I am a recipient of the 2021 VLBD Best Research Paper Award and the 2022 SIGMOD Research Highlight Award. Broadly speaking, my research aims to develop efficient algorithms and systems for large-scale data management and analysis. I am also a member of [Database Research Group](https://www.comp.hkbu.edu.hk/~db/) at HKBU.
+I am currently an Assistant Professor in the Department of Computer Science at Hong Kong Baptist University. I earned a Ph.D. in computer science from Nanyang Technological University, followed by a postdoctoral stint at the National University of Singapore. I am a recipient of the 2021 VLBD Best Research Paper Award and the 2022 SIGMOD Research Highlight Award. Broadly speaking, my research aims to develop efficient algorithms and systems for large-scale data management and analysis. I am also a member of [Database Research Group](https://www.comp.hkbu.edu.hk/~db/) at HKBU.
 
-<!-- > I have 2 Ph.D. openings starting from Fall 2023. Please send [me](mailto:renchi@hkbu.edu.hk) your CV and transcripts, if you are interested. -->
+<!-- > I have 2 Ph.D. openings starting in Fall 2023. Please send [me](mailto:renchi@hkbu.edu.hk) your CV and transcripts, if you are interested. -->
 <!-- > I am looking for Ph.D. students, research assistants, and visiting students. Please drop me an email, if you are interested. -->
 
 <!-- UPDATE: I am actively looking for a tenure-track faculty position. Please find my C.V. [here](https://renchi.ac.cn/files/CV.pdf). -->
 
 <!-- News
 ======
-- Apr 29, 2022: I received a honorable mention for the outstanding PC members in TheWebConf 2022
+- Apr 29, 2022: I received an honorable mention for the outstanding PC members in TheWebConf 2022
 - Apr 29, 2022: My paper "Efficient and Effective Similarity Search over Bipartite Graphs" was nominated for the best paper award in TheWebConf 2022
 - Jan 14, 2022: One paper "Efficient and Effective Similarity Search over Bipartite Graphs" has been accepted by TheWebConf 2022
 - Dec 14, 2021: One paper "Scalable and Effective Bipartite Network Embedding" has been accepted by SIGMOD 2022
@@ -29,7 +29,7 @@ Research Interests
 - The Web and information retrieval: search and ranking, recommendation, web mining
 - Data mining and machine learning: social network analysis, graph representation learning
 
-<!-- I welcome enquiries on potential collaborations on interesting topics. Note that, in the papers, every coauthor needs to make substantial contributions to qualify him/her for authorship and the order of authors in the byline reflects the magnitude of contribution. -->
+<!-- I welcome inquiries on potential collaborations on interesting topics. Note that, in the papers, every coauthor needs to make substantial contributions to qualify him/her for authorship, and the order of authors in the byline reflects the magnitude of contribution. -->
 
 Selected Honors
 ======
@@ -42,13 +42,13 @@ Selected Honors
 
 Academic Services
 ======
-- Program committee member for the following conferences/workshops: ICDE 2024, KDD 2023, WWW 2023, WSDM 2023, WWW 2022, KDD 2022, ECML-PKDD 2022.
+- Program committee member for the following conferences/workshops: ICDE 2024, WSDM 2024, KDD 2023, WWW 2023, WSDM 2023, WWW 2022, KDD 2022, ECML-PKDD 2022.
 - Invited reviewer for the following journals: TKDE, VLDBJ.
 - Subreviewer or External reviewer for VLDB 2023, CIKM 2022, TheWebConf 2021, ICDM 2021, ICDE 2020, VLDB 2020, KDD 2019, IJCAI 2019, CIKM 2019.
 
 Invited Talks
 ======
-- [Efficient Network Embedding for Large-Scale Graph Analysis](). The Hong Kong university of Science and Technology, September 26, 2022.
+- [Efficient Network Embedding for Large-Scale Graph Analysis](). The Hong Kong University of Science and Technology, September 26, 2022.
 - [Efficient Network Embeddings for Big Graph Analytics](). Hong Kong Baptist University, August 10, 2022.
 - [Efficient Relevance Search over Large Graphs](). The Hong Kong University of Science and Technology (Guangzhou), May 04, 2022.
 - [Scaling Attributed Network Embedding to Massive Graphs](). Renmin University of China, August 30, 2021.
