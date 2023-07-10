@@ -10,4 +10,5 @@ featured: false
 venue: "International Conference on Machine Learning"
 venueabbr: "ICML"
 github: "https://github.com/scottjiao/SlotGAT_ICML23"
+pdf: "https://proceedings.mlr.press/v202/zhou23j.html"
 ---
