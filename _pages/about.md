@@ -51,7 +51,7 @@ Research Team
 ======
 | Name         | Starting from  |  Educational Background       |  Category    |   Research Direction  |   Publications  |
 |:--------------|:----------------:|:-------------------------------:|:--------------:|:-----------------------|:-----------------------|
-| SUN Jialu | Aug. 2023      | BEng. HIT & M.S. NTU, HKBU| RA |     Signed Network Analytics  |                       |
+| SUN Jialu | Aug 2023      | BEng. HIT & M.S. NTU, HKBU| RA |     Signed Network Analytics  |                       |
 
 Academic Services
 ======
