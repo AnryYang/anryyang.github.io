@@ -15,4 +15,4 @@ redirect_from:
 
 | Name         | Starting from  |  Educational Background       |  Category    |   Research Direction  |   Publications  |
 |:--------------|:----------------:|:-------------------------------:|:--------------:|:-----------------------|:-----------------------|
-| WANG Feishuang | Jul. 2023      | BSc. SWU. & M.S. UoA| Research Assistant |                       |                       |
+| SUN Jialu | Aug. 2023      | BEng. HIT & M.S. NTU, HKBU| Research Assistant |     Signed Network Analytics  |                       |
