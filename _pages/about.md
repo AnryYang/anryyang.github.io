@@ -49,7 +49,7 @@ Research Grants
 
 Research Team
 ======
-- SUN Jialu, Research Assistant, BEng. HIT & M.S. NTU/HKBU, Signed Network Analytics, Aug 2023 - Jan 2024
+- SUN Jialu, Research Assistant, BEng. HIT & M.S. NTU/HKBU, Signed Network Analytics, Aug 2023
 
 Academic Services
 ======
