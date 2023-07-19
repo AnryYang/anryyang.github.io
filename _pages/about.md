@@ -32,12 +32,6 @@ Research Interests
 
 <!-- I welcome inquiries on potential collaborations on interesting topics. Note that, in the papers, every coauthor needs to make substantial contributions to qualify him/her for authorship, and the order of authors in the byline reflects the magnitude of contribution. -->
 
-Grants
-======
-- PI, Realtime Relevance Search over Massive Attributed Graphs, HK$1,125,324, ECS, Research Grants Council (RGC) of Hong Kong SAR, Jan 1,2024 –- Dec 31,2026
-- PI, Tier 1 Research Start-up Grant, HK$200,000, HKBU, 31 May, 2023 -- 30 Nov, 2025
-- PI, Departmental Start-up Fund, HK$300,000, Dept. of Computer Science at HKBU, 2023
-
 Selected Honors
 ======
 - [Honorable mention as one of the best PC members in WWW 2022](https://www2022.thewebconf.org/awards/)
@@ -46,6 +40,12 @@ Selected Honors
 - [Best Research Paper Award in VLDB 2021](https://vldb.org/2021/?conference-awards)
 <!-- - [ACM SIGMOD 2019 Travel Award](https://sigmod2019.org/grants) -->
 <!-- - [10th Prize of KDD Cup 2020 AutoGraph](https://www.4paradigm.com/competition/kddcup2020) -->
+
+Research Grants
+======
+- PI, Realtime Relevance Search over Massive Attributed Graphs, HK$1,125,324, ECS, Research Grants Council (RGC) of Hong Kong SAR, Jan 1,2024 –- Dec 31,2026
+- PI, Tier 1 Research Start-up Grant, HK$200,000, HKBU, 31 May, 2023 -- 30 Nov, 2025
+- PI, Departmental Start-up Fund, HK$300,000, Dept. of Computer Science at HKBU, 2023
 
 Academic Services
 ======
