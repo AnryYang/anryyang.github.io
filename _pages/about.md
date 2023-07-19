@@ -17,10 +17,10 @@ I am currently an Assistant Professor in the Department of Computer Science at H
 
 News
 ======
-- June 30, 2023: I have been granted more than 1 million HKD by RGC.
 - May 16, 2023: 2 research papers are accepted to KDD 2023
 - Feb 23, 2023: 3 research papers are accepted to SIGMOD 2023
 - Apr 29, 2022: I received an honorable mention for the outstanding PC members in TheWebConf 2022
+- Mar 20, 2022: Our paper "No PANE, No Gain: Scaling Attributed Network Embedding in a Single Server" was selected for the 2022 ACM SIGMOD Research Highlight Award
 - Apr 29, 2022: My paper "Efficient and Effective Similarity Search over Bipartite Graphs" was nominated for the best paper award in TheWebConf 2022
 - Aug 09, 2021: Our paper titled "Scaling Attributed Network Embedding to Massive Graphs" was selected as the best research paper in VLDB 2021
 
