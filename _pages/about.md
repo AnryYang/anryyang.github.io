@@ -47,6 +47,12 @@ Research Grants
 - PI, Tier 1 Research Start-up Grant, HK$200,000, HKBU, 31 May, 2023 - 30 Nov, 2025
 - PI, Departmental Start-up Fund, HK$300,000, Dept. of Computer Science at HKBU, 2023
 
+Research Team
+======
+| Name         | Starting from  |  Educational Background       |  Category    |   Research Direction  |   Publications  |
+|:--------------|:----------------:|:-------------------------------:|:--------------:|:-----------------------|:-----------------------|
+| SUN Jialu | Aug. 2023      | BEng. HIT & M.S. NTU, HKBU| Research Assistant |     Signed Network Analytics  |                       |
+
 Academic Services
 ======
 - Program committee member for the following conferences/workshops: ICDE 2024, WSDM 2024, KDD 2023, WWW 2023, WSDM 2023, WWW 2022, KDD 2022, ECML-PKDD 2022.
