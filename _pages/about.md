@@ -15,13 +15,15 @@ I am currently an Assistant Professor in the Department of Computer Science at H
 
 <!-- UPDATE: I am actively looking for a tenure-track faculty position. Please find my C.V. [here](https://renchi.ac.cn/files/CV.pdf). -->
 
-<!-- News
+News
 ======
+- May 16, 2023: 2 research papers are accepted to KDD 2023
+- Feb 23, 2023: 3 research papers are accepted to SIGMOD 2023
 - Apr 29, 2022: I received an honorable mention for the outstanding PC members in TheWebConf 2022
 - Apr 29, 2022: My paper "Efficient and Effective Similarity Search over Bipartite Graphs" was nominated for the best paper award in TheWebConf 2022
 - Jan 14, 2022: One paper "Efficient and Effective Similarity Search over Bipartite Graphs" has been accepted by TheWebConf 2022
 - Dec 14, 2021: One paper "Scalable and Effective Bipartite Network Embedding" has been accepted by SIGMOD 2022
-- Aug 09, 2021: Our paper titled "Scaling Attributed Network Embedding to Massive Graphs" was selected as the best research paper in VLDB 2021 -->
+- Aug 09, 2021: Our paper titled "Scaling Attributed Network Embedding to Massive Graphs" was selected as the best research paper in VLDB 2021
 
 Research Interests
 ======
