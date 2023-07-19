@@ -43,7 +43,7 @@ Selected Honors
 
 Research Grants
 ======
-- PI, Realtime Relevance Search over Massive Attributed Graphs, HK$1,125,324, ECS, Research Grants Council (RGC) of Hong Kong SAR, Jan 1,2024 –- Dec 31,2026
+- PI, Realtime Relevance Search over Massive Attributed Graphs, HK$1,125,324, ECS, RGC of HKSAR, Jan 1,2024 –- Dec 31,2026
 - PI, Tier 1 Research Start-up Grant, HK$200,000, HKBU, 31 May, 2023 -- 30 Nov, 2025
 - PI, Departmental Start-up Fund, HK$300,000, Dept. of Computer Science at HKBU, 2023
 
