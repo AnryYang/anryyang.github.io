@@ -17,6 +17,7 @@ I am currently an Assistant Professor in the Department of Computer Science at H
 
 News
 ======
+- June 30, 2023: I have been granted more than 1 million HKD by RGC.
 - May 16, 2023: 2 research papers are accepted to KDD 2023
 - Feb 23, 2023: 3 research papers are accepted to SIGMOD 2023
 - Apr 29, 2022: I received an honorable mention for the outstanding PC members in TheWebConf 2022
