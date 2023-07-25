@@ -11,3 +11,4 @@ redirect_from:
 
 ## Research Projects
 - [LABA: Large-Scale Bipartite Graph Analytics](https://sites.google.com/view/lsbga)
+- FAGP: Fast Graph Query Processing
