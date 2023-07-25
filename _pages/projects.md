@@ -11,4 +11,6 @@ redirect_from:
 
 ## Research Projects
 - [LABA: Large-Scale Bipartite Graph Analytics](https://sites.google.com/view/lsbga)
-- HPGP: High-Performance Graph Query Processing
+- RSMG: Real-Time Relevance Search over Massive Graphs
+- HPGL: High-Performance Graph Learning
+- HDDA: High-Dimensional Data Analysis
