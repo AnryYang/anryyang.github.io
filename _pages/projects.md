@@ -12,5 +12,5 @@ redirect_from:
 ## Research Projects
 - [LABA: Large-Scale Bipartite Graph Analytics](https://sites.google.com/view/lsbga)
 - [RSMG: Real-Time Relevance Search over Massive Graphs](https://sites.google.com/view/rsmg)
-- SALIM: Scaling Graph Learning on a Single Machine
+- [SALIM: Scaling Graph Learning on a Single Machine](https://sites.google.com/view/sgalim)
 - HIDA: High-Dimensional Data Analysis
