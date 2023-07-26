@@ -11,5 +11,5 @@ redirect_from:
 
 ## Research Projects
 - [LABRA: Large-Scale Bipartite Graph Analytics](https://sites.google.com/view/p-labra)
-- [SRAWG: Search and Ranking over Web-Scale Graphs](https://sites.google.com/view/p-srawg)
+- [SRWG: Search and Ranking over Web-Scale Graphs](https://sites.google.com/view/p-srwg)
 - [SALIM: Scaling Graph Learning on a Single Machine](https://sites.google.com/view/p-salim)
