@@ -14,7 +14,8 @@ Research Team
 [LAGAS Group](https://github.com/HKBU-LAGAS)
 - SUN Jialu, Research Assistant, BEng. HIT & M.S. NTU/HKBU, Aug 2023
 
-## Research Projects
+Research Projects
+======
 - [LABRA: Large-Scale Bipartite Graph Analytics](https://sites.google.com/view/p-labra)
 - [SRWG: Search and Ranking over Web-Scale Graphs](https://sites.google.com/view/p-srwg)
 - [SALIM: Scaling Graph Learning on a Single Machine](https://sites.google.com/view/p-salim)
