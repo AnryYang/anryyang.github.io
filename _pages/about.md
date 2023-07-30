@@ -41,17 +41,6 @@ Selected Honors
 <!-- - [ACM SIGMOD 2019 Travel Award](https://sigmod2019.org/grants) -->
 <!-- - [10th Prize of KDD Cup 2020 AutoGraph](https://www.4paradigm.com/competition/kddcup2020) -->
 
-Research Grants
-======
-- PI, [Early Career Scheme](https://www.ugc.edu.hk/eng/rgc/funding_opport/ecs/) Grant, HK$1,125,324, RGC of HKSAR, Jan 1, 2024 - Dec 31, 2026
-- PI, Tier 1 Research Start-up Grant, HK$200,000, HKBU, 31 May, 2023 - 30 Nov, 2025
-- PI, Departmental Start-up Fund, HK$300,000, Dept. of Computer Science at HKBU, 2023
-
-Research Team
-======
-[LAGAS Group](https://github.com/HKBU-LAGAS)
-- SUN Jialu, Research Assistant, BEng. HIT & M.S. NTU/HKBU, Aug 2023
-
 Academic Services
 ======
 - Program committee member for the following conferences/workshops: ICDE 2024, WSDM 2024, KDD 2023, WWW 2023, WSDM 2023, WWW 2022, KDD 2022, ECML-PKDD 2022.
