@@ -9,9 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
-Research Team
+Research Team ([LAGAS Group](https://github.com/HKBU-LAGAS))
 ======
-## [LAGAS Group](https://github.com/HKBU-LAGAS)
 - SUN Jialu, Research Assistant, BEng. HIT & M.S. NTU/HKBU, Aug 2023
 
 Research Projects
