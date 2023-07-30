@@ -49,6 +49,7 @@ Research Grants
 
 Research Team
 ======
+[LAGAS Group](https://github.com/HKBU-LAGAS)
 - SUN Jialu, Research Assistant, BEng. HIT & M.S. NTU/HKBU, Aug 2023
 
 Academic Services
