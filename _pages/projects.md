@@ -11,8 +11,8 @@ redirect_from:
 
 Research Team ([LAGAS Group](https://github.com/HKBU-LAGAS))
 ======
-- SUN Jialu, Research Assistant, BEng. HIT & M.S. NTU/HKBU, Aug 2023
-- WU Yidu, Research Assistant, BEng. CQU & M.S. CityU, Aug 2023
+- SUN Jialu, RA, BEng. HIT & M.S. NTU/HKBU, Aug 2023
+- WU Yidu, Senior RA, BEng. CQU & M.S. CityU, Aug 2023
 
 Research Projects
 ======
