@@ -13,7 +13,7 @@ Research Team ([LAGAS Group](https://github.com/HKBU-LAGAS))
 ======
 - SUN Jialu, RA, BEng. HIT & M.S. NTU/HKBU
 - WU Yidu, Senior RA, BEng. CQU & M.S. CityU
-- LAI Yurui, RA, BEng., Msc. ShanghaiTech
+- LAI Yurui, RA, BEng., MSc. ShanghaiTech
 
 Research Projects
 ======
