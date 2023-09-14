@@ -11,7 +11,7 @@ redirect_from:
 
 Research Team ([LAGAS Group](https://github.com/HKBU-LAGAS))
 ======
-- SUN Jialu, RA (BEng. from Harbin Institute of Tech & M.Sc. from NTU/HKBU)
+- SUN Jialu, RA (BEng. from Harbin Institute of Tech & M.Sc. from NTU, HKBU)
 - LAI Yurui, RA (BEng. & M.Sc. from ShanghaiTech Univ.)
 - LIN Xiaoyang, RA (BEng. from Xidian Univ.)
 <!-- - WU Yidu, Senior RA (BEng. from Chongqing Univ. & M.Sc. from CityU) -->
