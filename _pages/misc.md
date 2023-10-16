@@ -31,6 +31,7 @@ redirect_from:
 - [Introduction to Linear Algebra](http://math.mit.edu/~gs/linearalgebra/)
 - [Randomized Algorithms](https://www.cambridge.org/core/books/randomized-algorithms/6A3E5CD760B0DDBA3794A100EE2843E8)
 - [Sketching as a Tool for Numerical Linear Algebra](http://www.cs.cmu.edu/afs/cs/user/dwoodruf/www/wNow3.pdf)
+- [High-Dimensional Probability: An Introduction with Applications in Data Science](https://www.math.uci.edu/~rvershyn/papers/HDP-book/HDP-book.pdf)
 
 ### Database, Data Management, Parallel and Distributed Computing
 - [Designing Data-Intensive Applications](http://xfido.com/pdf/designing-data-intensive-applications.pdf)
