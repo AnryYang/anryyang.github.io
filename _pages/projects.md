@@ -27,8 +27,8 @@ Research Grants
 ======
 - PI, [Young Scientists Fund](https://www.nsfc.gov.cn/publish/portal0/tab1418/), CN¥300,000, National Natural Science Foundation of China, Jan 1, 2024 - Dec 31, 2026
 - PI, [Early Career Scheme](https://www.ugc.edu.hk/eng/rgc/funding_opport/ecs/) Grant, HK$1,125,324, Research Grants Council of Hong Kong SAR, Sep 1, 2023 - Aug 31, 2026
-- PI, Tier 1 Research Start-up Grant, HK$200,000, HKBU, 31 May, 2023 - 30 Nov, 2025
-- PI, Departmental Start-up Fund, HK$300,000, Dept. of Computer Science at HKBU, 2023
+<!-- - PI, Tier 1 Research Start-up Grant, HK$200,000, HKBU, 31 May, 2023 - 30 Nov, 2025 -->
+<!-- - PI, Departmental Start-up Fund, HK$300,000, Dept. of Computer Science at HKBU, 2023 -->
 
 
 
