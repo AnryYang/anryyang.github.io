@@ -14,7 +14,7 @@ Research Team ([LAGAS Group](https://github.com/HKBU-LAGAS))
 - SUN Jialu, RA (BEng. from Harbin Institute of Tech & M.Sc. from NTU, HKBU)
 - LAI Yurui, RA (B.Sc. & M.Sc. from ShanghaiTech Univ.)
 - LIN Xiaoyang, RA (B.Sc. from Xidian Univ.)
-<!-- - WANG Hongtao, Ph.D. student (B.Sc. from Nankai Univ.) -->
+- WANG Hongtao, RPg student (B.Sc. from Nankai Univ.)
 <!-- - WU Yidu, Senior RA (BEng. from Chongqing Univ. & M.Sc. from CityU) -->
 
 Research Projects
