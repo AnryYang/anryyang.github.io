@@ -57,6 +57,7 @@ Invited Talks
 
 Teaching
 ======
+- HKBU COMP4035: [Database Systems Implementation](https://www.comp.hkbu.edu.hk/v1/file/course/COMP4035.pdf), Fall 2023
 - HKBU COMP7640: [Database Systems & Administration](https://www.comp.hkbu.edu.hk/v1/file/course/COMP7640.pdf), Spring 2023
 - HKBU COMP7930: [Big Data Analytics](https://www.comp.hkbu.edu.hk/v1/file/course/COMP7930.pdf), Spring 2023
 
