@@ -17,6 +17,7 @@ I am currently an Assistant Professor with the Department of Computer Science at
 
 News
 ======
+- Nov 20, 2023: 1 research paper is accepted to SIGMOD 2024
 - May 16, 2023: 2 research papers are accepted to KDD 2023
 - Feb 23, 2023: 3 research papers are accepted to SIGMOD 2023
 - Apr 29, 2022: I received an honorable mention for the outstanding PC members in TheWebConf 2022
