@@ -19,6 +19,6 @@ redirect_from:
 |:--------------|:-------------------------------:|:--------------:|:-----------------------|:-----------------------|
 | LAI Yurui | B.Sc. & M.Sc. from ShanghaiTech Univ.| RA |       |                       |
 | LIN Xiaoyang | B.Sc. from Xidian Univ.| RA |       |                       |
-<!-- | WANG Hongtao | B.Sc. from Nankai Univ.| RPg student |       |                       |
-| ZHENG Haoran | B.Sc. from BIT, M.Sc. from PolyU| RPg student |       |                       |
-| JIANG Runhao | B.Sc. ZJNU| RPg student |       |                       | -->
+<!-- | WANG Hongtao | B.Sc. from Nankai Univ.| RPg student |       |                       | -->
+<!-- | ZHENG Haoran | B.Sc. from BIT, M.Sc. from PolyU| RPg student |       |                       | -->
+<!-- | JIANG Runhao | B.Sc. ZJNU| RPg student |       |                       | -->
