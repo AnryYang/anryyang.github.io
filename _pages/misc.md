@@ -7,6 +7,8 @@ redirect_from:
   - /misc
 ---
 
+## Datasets
+- https://renchi.ac.cn/datasets/
 
 ## A curated list of computer science courses
 - CMU [Database Systems (15-445/645)](https://15445.courses.cs.cmu.edu/fall2019/schedule.html) by Andy Pavlo
