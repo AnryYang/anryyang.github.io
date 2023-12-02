@@ -11,8 +11,14 @@ redirect_from:
 
 ## Team Members
 
+[LAGAS Group](https://github.com/HKBU-LAGAS)
+
 ### Current Members
 
-| Name         | Starting from  |  Educational Background       |  Category    |   Research Direction  |   Publications  |
-|:--------------|:----------------:|:-------------------------------:|:--------------:|:-----------------------|:-----------------------|
-| SUN Jialu | Aug. 2023      | BEng. HIT & M.S. NTU, HKBU| Research Assistant |     Signed Network Analytics  |                       |
+| Name         | Educational Background       |  Category    |   Research Direction  |   Publications  |
+|:--------------|:-------------------------------:|:--------------:|:-----------------------|:-----------------------|
+| LAI Yurui | B.Sc. & M.Sc. from ShanghaiTech Univ.| RA |       |                       |
+| LIN Xiaoyang | B.Sc. from Xidian Univ.| RA |       |                       |
+<!-- | WANG Hongtao | B.Sc. from Nankai Univ.| RPg student |       |                       |
+| ZHENG Haoran | B.Sc. from BIT, M.Sc. from PolyU| RPg student |       |                       |
+| JIANG Runhao | B.Sc. ZJNU| RPg student |       |                       | -->
