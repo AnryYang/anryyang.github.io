@@ -15,6 +15,13 @@ I am currently an Assistant Professor with the Department of Computer Science at
 
 <!-- UPDATE: I am actively looking for a tenure-track faculty position. Please find my C.V. [here](https://renchi.ac.cn/files/CV.pdf). -->
 
+### Research Interests
+- Databases and data management: graph query processing, similarity search 
+- The Web and information retrieval: search and ranking, recommendation, web mining
+- Data mining and machine learning: social network analysis, graph representation learning
+
+<!-- I welcome inquiries on potential collaborations on interesting topics. Note that, in the papers, every coauthor needs to make substantial contributions to qualify him/her for authorship, and the order of authors in the byline reflects the magnitude of contribution. -->
+
 News
 ======
 - Nov 20, 2023: 1 research paper is accepted to SIGMOD 2024
@@ -25,14 +32,6 @@ News
 - Mar 20, 2022: Our paper "No PANE, No Gain: Scaling Attributed Network Embedding in a Single Server" was selected for the 2022 ACM SIGMOD Research Highlight Award
 - Apr 29, 2022: My paper "Efficient and Effective Similarity Search over Bipartite Graphs" was nominated for the best paper award in TheWebConf 2022
 - Aug 09, 2021: Our paper titled "Scaling Attributed Network Embedding to Massive Graphs" was selected as the best research paper in VLDB 2021 -->
-
-Research Interests
-======
-- Databases and data management: graph query processing, similarity search 
-- The Web and information retrieval: search and ranking, recommendation, web mining
-- Data mining and machine learning: social network analysis, graph representation learning
-
-<!-- I welcome inquiries on potential collaborations on interesting topics. Note that, in the papers, every coauthor needs to make substantial contributions to qualify him/her for authorship, and the order of authors in the byline reflects the magnitude of contribution. -->
 
 Selected Honors
 ======
