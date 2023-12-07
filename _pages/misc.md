@@ -23,6 +23,7 @@ redirect_from:
 - MIT [Advanced Data Structures (6.851)](http://courses.csail.mit.edu/6.851/spring14/) by Erik Demaine
 - NTU, Taiwan [Machine Learning (2021,Spring)](https://speech.ee.ntu.edu.tw/~hylee/ml/2021-spring.html) by Hung-yi Lee
 - UCR [Algorithm Engineering (CS 260)](https://www.cs.ucr.edu/~ygu/teaching/algeng/algeng.html) by Yan Gu
+- CMU [15-451/651: Algorithms](https://www.cs.cmu.edu/~15451-s19/) by Anupam Gupta and David Woodruff
 
 ## A curated list of technical books
 ### Mathematics, Algorithms and Data Structures
