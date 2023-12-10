@@ -11,6 +11,7 @@ redirect_from:
 - [https://renchi.ac.cn/datasets](https://renchi.ac.cn/datasets/)
 
 ## A curated list of computer science courses
+- UMASS [COMPSCI 514: Algorithms for Data Science](https://people.cs.umass.edu/~cmusco/CS514S20/schedule.html) by Cameron Musco
 - CMU [Database Systems (15-445/645)](https://15445.courses.cs.cmu.edu/fall2019/schedule.html) by Andy Pavlo
 - CMU [Advanced Database Systems (15-721)](https://15721.courses.cs.cmu.edu/spring2020/schedule.html) by Andy Pavlo
 - UIUC [Algorithms for Big Data (CS498ABD)](https://courses.engr.illinois.edu/cs498abd/fa2020/) by Chandra Chekuri
@@ -24,7 +25,6 @@ redirect_from:
 - NTU, Taiwan [Machine Learning (2021,Spring)](https://speech.ee.ntu.edu.tw/~hylee/ml/2021-spring.html) by Hung-yi Lee
 - UCR [Algorithm Engineering (CS 260)](https://www.cs.ucr.edu/~ygu/teaching/algeng/algeng.html) by Yan Gu
 - CMU [15-451/651: Algorithms](https://www.cs.cmu.edu/~15451-s19/) by Anupam Gupta and David Woodruff
-- UMASS [COMPSCI 514: Algorithms for Data Science](https://people.cs.umass.edu/~cmusco/CS514S20/schedule.html) by Cameron Musco
 
 ## A curated list of technical books
 ### Mathematics, Algorithms and Data Structures
