@@ -10,6 +10,7 @@ featured: false
 venue: "Proceedings of the International Conference on Management of Data"
 venueabbr: "SIGMOD"
 acm: "https://doi.org/10.1145/3588696"
+arxiv: "http://arxiv.org/abs/2312.06123"
 github: "https://github.com/AnryYang/GEER"
 poster: "https://renchi.ac.cn/files/GEER-poster.pdf"
 ---
