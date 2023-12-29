@@ -9,7 +9,7 @@ abstract: ""
 featured: false
 venue: "Proceedings of the International Conference on Management of Data"
 venueabbr: "SIGMOD"
-acm: ""
-arxiv: ""
+acm: "https://doi.org/10.1145/3639278"
+arxiv: "https://arxiv.org/abs/2312.16926"
 github: "https://github.com/HKBU-LAGAS/HOPE"
 ---
