@@ -18,7 +18,7 @@ redirect_from:
 | Name         | Educational Background       |  Category    |   Research Direction  |   Publications  |
 |:--------------|:-------------------------------:|:--------------:|:-----------------------|:-----------------------|
 | Ms LIN Xiaoyang | B.Sc. from HNNU & Xidian Univ.| RA |   Graph Learning    |                       |
-| Mr LAI Yurui | B.Sc. & M.Sc. from ShanghaiTech Univ.| RA |   Graph Learning    |                       |
+| Mr LAI Yurui | B.Sc. & M.Sc. from ShanghaiTech Univ.| RPg student (2024 Fall) |   Graph Learning    |                       |
 | Mr WANG Hongtao | B.Sc. from Nankai Univ.| RPg student (2024 Spring) |   Graph Learning    |                       |
 | Mr ZHENG Haoran | B.Sc. from BIT, M.Sc. from PolyU| RPg student (2024 Spring) |   Graph Queries  |                       |
 | Mr JIANG Runhao | B.Sc. from ZJNU| Intern |  Graph Queries   |                       |
