@@ -23,6 +23,7 @@ I am currently an Assistant Professor with the Department of Computer Science at
 
 News
 ======
+- May 17, 2024: 3 papers are accepted to KDD 2024
 - Nov 20, 2023: 1 research paper is accepted to SIGMOD 2024
 - May 16, 2023: 2 research papers are accepted to KDD 2023
 - Feb 23, 2023: 3 research papers are accepted to SIGMOD 2023
