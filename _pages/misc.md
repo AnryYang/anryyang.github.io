@@ -11,7 +11,7 @@ redirect_from:
 - [https://renchi.ac.cn/datasets](https://renchi.ac.cn/datasets/)
 
 ## Conferences
-<iframe src="https://confsearch.ethz.ch/?query=ECML-PKDD+WWW+CIKM+AAAI+WSDM+ICDM-1+IJCAI+SIGMOD+VLDB+KDD+ICDE+SIGIR+PAKDD+ICML+ICLR+NeurIPS" width="800" height="760" frameborder="0" scrolling="no"></iframe> -->
+- [Page](https://confsearch.ethz.ch/?query=ECML-PKDD+WWW+CIKM+AAAI+WSDM+ICDM-1+IJCAI+SIGMOD+VLDB+KDD+ICDE+SIGIR+PAKDD+ICML+ICLR+NeurIPS)
 
 ## A curated list of computer science courses
 - UMASS [COMPSCI 514: Algorithms for Data Science](https://people.cs.umass.edu/~cmusco/CS514S20/schedule.html) by Cameron Musco
