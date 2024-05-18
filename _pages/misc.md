@@ -10,6 +10,9 @@ redirect_from:
 ## Datasets
 - [https://renchi.ac.cn/datasets](https://renchi.ac.cn/datasets/)
 
+## Conferences
+<iframe src="https://confsearch.ethz.ch/?query=ECML-PKDD+WWW+CIKM+AAAI+WSDM+ICDM-1+IJCAI+SIGMOD+VLDB+KDD+ICDE+SIGIR+PAKDD+ICML+ICLR+NeurIPS" width="800" height="760" frameborder="0" scrolling="no"></iframe> -->
+
 ## A curated list of computer science courses
 - UMASS [COMPSCI 514: Algorithms for Data Science](https://people.cs.umass.edu/~cmusco/CS514S20/schedule.html) by Cameron Musco
 - CMU [Database Systems (15-445/645)](https://15445.courses.cs.cmu.edu/fall2019/schedule.html) by Andy Pavlo
