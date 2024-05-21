@@ -9,4 +9,6 @@ abstract: ""
 featured: false
 venue: "Proceedings of the International Conference on Knowledge Discovery and Data Mining"
 venueabbr: "KDD"
+arxiv: "https://arxiv.org/abs/2405.11922"
+github: "https://github.com/HKBU-LAGAS/TPC"
 ---
