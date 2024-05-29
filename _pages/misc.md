@@ -12,6 +12,7 @@ redirect_from:
 
 ## Conferences
 - [ConfSearch](https://confsearch.ethz.ch/?query=ECML-PKDD+WWW+CIKM+AAAI+WSDM+ICDM-1+IJCAI+SIGMOD+VLDB+KDD+ICDE+SIGIR+PAKDD+ICML+ICLR+NeurIPS&sortby=deadline)
+- Ranking: [Tsinghua](https://numbda.cs.tsinghua.edu.cn/~yuwj/TH-CPL.pdf) [CCF](https://www.ccf.org.cn/Academic_Evaluation/By_category/) [by Osmar Zaiane](https://webdocs.cs.ualberta.ca/~zaiane/htmldocs/ConfRanking.html) [CORE](http://people.iiti.ac.in/~artiwari/cseconflist.html)
 
 ## A curated list of computer science courses
 - UMASS [COMPSCI 514: Algorithms for Data Science](https://people.cs.umass.edu/~cmusco/CS514S20/schedule.html) by Cameron Musco
