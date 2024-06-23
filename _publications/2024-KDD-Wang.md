@@ -9,4 +9,7 @@ abstract: ""
 featured: false
 venue: "Proceedings of the International Conference on Knowledge Discovery and Data Mining"
 venueabbr: "KDD"
+acm: "https://doi.org/10.1145/3637528.3671805"
+arxiv: "https://arxiv.org/abs/2406.13369"
+github: "https://github.com/wanghewen/EAGLE"
 ---
