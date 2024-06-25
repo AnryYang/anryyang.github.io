@@ -20,7 +20,7 @@ redirect_from:
 | Ms LIN Xiaoyang | B.Sc. from HNNU & Xidian Univ.| RPg student (2024 Fall) |   Multi-Modal/Multiplex/Multi-View Graph Analytics    |                       |
 | Mr LAI Yurui | B.Sc. & M.Sc. from ShanghaiTech Univ.| RPg student (2024 Fall) |   Graph Condensation/Distillation/Rewiring    |        KDD'24               |
 | Mr WANG Hongtao | B.Sc. from Nankai Univ.| RPg student (2024 Spring) |   Textual Graph Learning    |                       |
-| Mr ZHENG Haoran | B.Sc. from BIT, M.Sc. from PolyU| RPg student (2024 Spring) |  Graph Diffusion Models |                       |
+| Mr ZHENG Haoran | B.Sc. from BIT, M.Sc. from PolyU| RPg student (2024 Spring) |  Graph Diffusion-based Analytics |                       |
 | Mr JIANG Runhao | B.Sc. from ZJNU| RPg student (2024 Fall) |  Link Prediction/Social Recommendation   |                       |
 | Mr ZHANG Taiyan | B.Eng. from BUPT & M.Sc. from ShanghaiTech Univ.| RA |  LLM-empowered Graph Analytics   |                       |
 
