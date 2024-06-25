@@ -26,6 +26,7 @@ redirect_from:
 
 
 ## Research Grants
+- PI, [Industrial Research Grant], HK$330K, 2024/2025
 - PI, [Young Scientists Fund](https://www.nsfc.gov.cn/publish/portal0/tab1418/), CN¥300K, National Natural Science Foundation of China, 2023/2024
 - PI, [Early Career Scheme Grant](https://www.ugc.edu.hk/eng/rgc/funding_opport/ecs/), HK$1.17M, Research Grants Council of Hong Kong SAR, 2023/2024
 
