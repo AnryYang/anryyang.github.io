@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am currently an Assistant Professor with the Department of Computer Science at Hong Kong Baptist University. I earned a Ph.D. in computer science from Nanyang Technological University, followed by a postdoctoral stint at the National University of Singapore. I am a recipient of the 2021 VLDB Best Research Paper Award and the 2022 SIGMOD Research Highlight Award. Broadly speaking, my research focuses on big data science, which is to develop efficient algorithms and systems for large-scale data management, analysis, mining, and learning. I am also affiliated with [Database Research Group](https://www.comp.hkbu.edu.hk/~db/) at HKBU.
+I am currently an Assistant Professor with the Department of Computer Science at Hong Kong Baptist University. I earned a Ph.D. in computer science from Nanyang Technological University, followed by a postdoctoral stint at the National University of Singapore. I am a recipient of the 2021 VLDB Best Research Paper Award and the 2022 SIGMOD Research Highlight Award. Broadly speaking, my research focuses on big data science and engineering, which is to develop efficient algorithms and systems for large-scale data management, analysis, mining, and learning. I am also affiliated with [Database Research Group](https://www.comp.hkbu.edu.hk/~db/) at HKBU.
 ### Research Interests
 - Databases and data management: graph query processing, similarity search 
 - The Web and information retrieval: search and ranking, recommendation, web mining
