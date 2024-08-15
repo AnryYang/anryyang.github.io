@@ -17,11 +17,11 @@ redirect_from:
 
 | Name         | Educational Background       |  Category    |   Research Direction  |   Publications  |
 |:--------------|:-------------------------------:|:--------------:|:-----------------------|:-----------------------|
-| Ms LIN Xiaoyang | B.Sc. from HUNNU & Xidian Univ.| RPg student (2024 Fall) |   Heterogeneous Information Networks (Knowledge Graphs)  |                       |
+| Ms LIN Xiaoyang | B.Sc. from HUNNU & Xidian Univ.| RPg student (2024 Fall) |   Heterogeneous Information Networks/Knowledge Graphs  |                       |
 | Mr LAI Yurui | B.Sc. & M.Sc. from ShanghaiTech Univ.| RPg student (2024 Fall) |   Graph Condensation/Distillation/Rewiring    |        KDD'24               |
 | Mr WANG Hongtao | B.Sc. from Nankai Univ.| RPg student (2024 Spring) |   Textual Graph Learning    |                       |
 | Mr ZHENG Haoran | B.Sc. from BIT, M.Sc. from PolyU| RPg student (2024 Spring) |  Graph Diffusion-based Analytics |                       |
-| Mr JIANG Runhao | B.Sc. from ZJNU| RPg student (2024 Fall) |  Link Prediction/Social Recommendation   |                       |
+| Mr JIANG Runhao | B.Sc. from ZJNU| RPg student (2024 Fall) |  Link Prediction/Social Recommendation/Multimodal Recommendation   |                       |
 | Mr ZHANG Taiyan | B.Eng. from BUPT & M.Sc. from ShanghaiTech Univ.| RA |  LLM-empowered Graph Analytics   |                       |
 
 
