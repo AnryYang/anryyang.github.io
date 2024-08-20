@@ -10,7 +10,7 @@ featured: false
 venue: "The VLDB Journal"
 venueabbr: "VLDBJ"
 pdf: ""
-arxiv: ""
-github: ""
+arxiv: "https://arxiv.org/abs/2408.05459"
+github: "https://github.com/gongyguo/ANCKA"
 doi: ""
 ---
