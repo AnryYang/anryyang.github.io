@@ -11,8 +11,8 @@ main:
   # - title: "Portfolio"
   #   url: /portfolio/
 
-  - title: "Team"
-    url: /team/
+ # - title: "Team"
+ #   url: /team/
 
 # - title: "Datasets"
 #    url: /datasets/
