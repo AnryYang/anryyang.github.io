@@ -23,10 +23,11 @@ I am currently an Assistant Professor with the Department of Computer Science at
 
 News
 ======
-- May 17, 2024: 3 papers are accepted to KDD 2024
-- Nov 20, 2023: 1 research paper is accepted to SIGMOD 2024
-- May 16, 2023: 2 research papers are accepted to KDD 2023
-- Feb 23, 2023: 3 research papers are accepted to SIGMOD 2023
+- Nov 17, 2024: 1 paper was accepted to KDD 2025
+- May 17, 2024: 3 papers were accepted to KDD 2024
+- Nov 20, 2023: 1 research paper was accepted to SIGMOD 2024
+- May 16, 2023: 2 research papers were accepted to KDD 2023
+- Feb 23, 2023: 3 research papers were accepted to SIGMOD 2023
   
 <!-- 
 - Apr 29, 2022: I received an honorable mention for the outstanding PC members in TheWebConf 2022
@@ -45,13 +46,13 @@ Selected Honors
 
 Academic Services
 ======
-- Proceedings co-chair: MDM 2024
+- Proceedings co-chair: MDM 2024, 2025
 - Program committee member for the following conferences/workshops:
-  - KDD 2022, 2023, 2024
-  - WWW 2022, 2023, 2024
+  - KDD 2022, 2023, 2024, 2025
+  - WWW 2022, 2023, 2024, 2025
   - WSDM 2023, 2024
   - IJCAI 2024
-  - ICDE 2024
+  - ICDE 2024, 2025
   - CIKM 2024
   - NeurIPS 2023 GLFrontiers workshop, ECML-PKDD 2022
 - Invited reviewer for the following journals: TKDE, VLDBJ, TKDD.
