@@ -10,6 +10,6 @@ featured: false
 venue: "Proceedings of the International Conference on Knowledge Discovery and Data Mining"
 venueabbr: "KDD"
 acm: "https://doi.org/10.1145/3637528.3671765"
-arxiv: "https://arxiv.org/abs/2406.05482v2"
+arxiv: "https://arxiv.org/abs/2406.05482"
 github: "https://github.com/HKBU-LAGAS/TADA"
 ---
