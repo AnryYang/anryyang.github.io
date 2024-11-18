@@ -1,7 +1,7 @@
 ---
 title: "Spectral Subspace Clustering for Attributed Graphs"
 collection: publications
-date: 2024-11-17
+date: 2025-08-03
 publishDate: 2025-8-03T14:59:13.219456Z
 authors: "Xiaoyang Lin, <b>Renchi Yang</b>, Haoran Zheng, Xiangyu Ke"
 publication_types: ["1"]
