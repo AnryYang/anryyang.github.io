@@ -10,6 +10,6 @@ featured: false
 venue: "Proceedings of the International Conference on Knowledge Discovery and Data Mining"
 venueabbr: "KDD"
 acm: ""
-arxiv: ""
+arxiv: "https://arxiv.org/abs/2411.11074"
 github: "https://github.com/HKBU-LAGAS/S2CAG"
 ---
