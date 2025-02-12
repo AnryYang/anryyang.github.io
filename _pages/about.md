@@ -49,6 +49,7 @@ Academic Services
 ======
 - Proceedings co-chair: MDM 2024, 2025
 - Program committee member for the following conferences/workshops:
+  - VLDB 2026 
   - KDD 2022, 2023, 2024, 2025
   - WWW 2022, 2023, 2024, 2025
   - WSDM 2023, 2024
