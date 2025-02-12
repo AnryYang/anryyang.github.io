@@ -12,7 +12,7 @@ I am currently an Assistant Professor with the Department of Computer Science at
 ### Research Interests
 - Databases and data management: graph query processing, similarity search 
 - The Web and information retrieval: search and ranking, recommendation, web mining
-- Data mining and machine learning: social network analysis, graph representation learning
+- Data mining and machine learning: social network analysis, graph representation learning, text mining, LLMs
 
 <!-- > I have 2 Ph.D. openings starting in Fall 2023. Please send [me](mailto:renchi@hkbu.edu.hk) your CV and transcripts, if you are interested. -->
 <!-- > I am looking for [Ph.D. students](https://renchi.ac.cn/recruit/), research assistants, and visiting students. Please drop me an email, if you are interested. -->
