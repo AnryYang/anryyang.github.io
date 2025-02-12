@@ -50,11 +50,11 @@ Academic Services
 - Proceedings co-chair: MDM 2024, 2025
 - Program committee member for the following conferences/workshops:
   - VLDB 2026 
-  - KDD 2022, 2023, 2024, 2025
-  - WWW 2022, 2023, 2024, 2025
-  - WSDM 2023, 2024
-  - IJCAI 2024
-  - ICDE 2024, 2025
+  - KDD 2022-2025
+  - WWW 2022-2025
+  - WSDM 2023-2024
+  - IJCAI 2024-2025
+  - ICDE 2024-2025
   - CIKM 2024
   - NeurIPS 2023 GLFrontiers workshop, ECML-PKDD 2022
 - Invited reviewer for the following journals: TKDE, VLDBJ, TKDD.
