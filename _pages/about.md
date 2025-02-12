@@ -14,7 +14,8 @@ I am currently an Assistant Professor with the Department of Computer Science at
 - The Web and information retrieval: search and ranking, recommendation, web mining
 - Data mining and machine learning: social network analysis, graph representation learning, text mining, LLMs
 
-<!-- > I have 2 Ph.D. openings starting in Fall 2023. Please send [me](mailto:renchi@hkbu.edu.hk) your CV and transcripts, if you are interested. -->
+> I have one Ph.D. opening starting in 2025 Fall. See details [here](https://renchi.ac.cn/recruit/). Please send [me](mailto:renchi@hkbu.edu.hk) your CV and transcripts, if you are interested.
+
 <!-- > I am looking for [Ph.D. students](https://renchi.ac.cn/recruit/), research assistants, and visiting students. Please drop me an email, if you are interested. -->
 
 <!-- UPDATE: I am actively looking for a tenure-track faculty position. Please find my C.V. [here](https://renchi.ac.cn/files/CV.pdf). -->
