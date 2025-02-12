@@ -13,7 +13,7 @@ redirect_from:
 杨任驰博士目前是香港浸会大学计算机科学系助理教授。杨博士毕业于南洋理工大学计算机科学与工程学院，之后在新加坡国立大学从事博士后研究工作。其研究方向为大数据管理、分析和挖掘，以及机器学习，大模型等。他在国际数据库和数据挖掘领域的顶级会议/期刊（VLDB、SIGMOD、VLDBJ、TODS、WWW、KDD等）上已发表三十余篇论文。其中一篇代表性研究成果获得数据库顶级会议VLDB 2021的最佳论文奖，并荣获2022 ACM SIGMOD Research Highlight Award。另外一篇独立作者的论文获得万维网技术顶级会议WWW 2022最佳论文提名。杨博士目前是多个会议（例如VLDB，ICDE，WWW，KDD，WSDM）的程序委员会成员以及期刊（TKDE和VLDBJ等）的审稿人。更多详情参见[导师主页](https://www.comp.hkbu.edu.hk/~renchi)。导师所在的香港浸会大学数据库研究组（课题组详情参见：[Database Research Group](https://www.comp.hkbu.edu.hk/~db/index.html)）在大数据技术研究领域有着丰硕的研究成果，仅在2023年，本研究组就在数据库与数据管理研究领域的国际顶级会议SIGMOD上发表了8篇论文，位于世界前列。
 
 ## 招生要求：
-计划招收1名2024年秋季入学的博士研究生，学制四年。录取条件及相关流程请参见：[Entrance Requirements](https://www.comp.hkbu.edu.hk/v1/?pid=70)。
+计划招收1名2025年秋季入学的博士研究生，学制四年。录取条件及相关流程请参见：[Entrance Requirements](https://www.comp.hkbu.edu.hk/v1/?pid=70)。
 
 | 项目 | 奖学金 | 学费 |更多详情|申请流程|
 | :-----| :----: |:----: |:----: |:----:|
