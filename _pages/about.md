@@ -49,16 +49,11 @@ Selected Honors
 
 Academic Services
 ======
-- Proceedings co-chair: MDM 2024, 2025
+- Proceedings co-chair: MDM 2024-2025
 - Program committee member for the following conferences/workshops:
-  - VLDB 2026 
-  - KDD 2022-2025
-  - WWW 2022-2025
-  - WSDM 2023-2024
-  - IJCAI 2024-2025
-  - ICDE 2024-2025
-  - CIKM 2024
-  - NeurIPS 2023 GLFrontiers workshop, ECML-PKDD 2022
+  - VLDB 2026, ICDE 2024-2025
+  - KDD 2022-2025, WWW 2022-2025, WSDM 2023-2024, CIKM 2024, ECML-PKDD 2022
+  - IJCAI 2024-2025, NeurIPS 2023 GLFrontiers workshop, 
 - Invited reviewer for the following journals: TKDE, VLDBJ, TKDD.
 <!-- - Subreviewer or External reviewer for VLDB 2023, CIKM 2022, TheWebConf 2021, ICDM 2021, ICDE 2020, VLDB 2020, KDD 2019, IJCAI 2019, CIKM 2019. -->
 
