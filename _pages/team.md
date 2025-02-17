@@ -20,7 +20,7 @@ redirect_from:
 | Ms LIN Xiaoyang | B.Sc. from HUNNU & Xidian Univ.| RPg student (2024 Fall) |   Graph Clustering  |        KDD'25         |
 | Mr LAI Yurui | B.Sc. & M.Sc. from ShanghaiTech Univ.| RPg student (2024 Fall) |   Data-centric Graph Learning  |        KDD'24               |
 | Mr WANG Hongtao | B.Sc. from Nankai Univ.| RPg student (2024 Spring) |   Textual Data Mining and Analytics  |                       |
-| Mr ZHENG Haoran | B.Sc. from BIT, M.Sc. from PolyU| RPg student (2024 Spring) |   Multimodal Graph Learning |         AAAI'25          |
+| Mr ZHENG Haoran | B.Sc. from BIT, M.Sc. from PolyU| RPg student (2024 Spring) |   Multimodal Graph Analytics |         AAAI'25          |
 | Mr JIANG Runhao | B.Sc. from ZJNU| RPg student (2024 Fall) |  Recommender System   |                       |
 | Mr ZHANG Taiyan | B.Eng. from BUPT & M.Sc. from ShanghaiTech Univ.| RPg student (2025 Fall) |  LLM-empowered Data Analytics   |                       |
 | Mr WANG Songbo | B.Eng. from SCUT | RA |    |                       |
