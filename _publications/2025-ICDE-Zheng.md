@@ -10,6 +10,6 @@ featured: false
 venue: "The IEEE International Conference on Data Engineering"
 venueabbr: "ICDE"
 acm: ""
-arxiv: ""
+arxiv: "https://arxiv.org/abs/2503.20488"
 github: "https://github.com/HaoranZ99/laca"
 ---
