@@ -7,9 +7,9 @@ authors: "Hongtao Wang, <b>Renchi Yang</b>, Hewen Wang, Haoran Zheng and Jianlia
 publication_types: ["1"]
 abstract: ""
 featured: false
-venue: "Proceedings of the International Conference on Research and Development in Information Retrieval"
-venueabbr: "SIGIR"
 acm: ""
 arxiv: ""
 github: ""
+venue: "Proceedings of the International Conference on Research and Development in Information Retrieval"
+venueabbr: "SIGIR"
 ---
