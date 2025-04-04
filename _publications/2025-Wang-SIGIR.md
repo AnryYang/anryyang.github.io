@@ -1,4 +1,4 @@
---
+---
 title: "SAFT: Structure-aware Transformers for Textual Interaction Classification"
 collection: publications
 date: 2025-04-05
