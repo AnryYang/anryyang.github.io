@@ -7,7 +7,7 @@ authors: "Taiyan Zhang, <b>Renchi Yang</b>, Yurui Lai, Mingyu Yan, Xiaochun Ye a
 publication_types: ["1"]
 abstract: ""
 featured: false
-venue: "Proceedings of the International ACM Conference on Research and Development in Information Retrieval"
+venue: "Proceedings of the International Conference on Research and Development in Information Retrieval"
 venueabbr: "SIGIR"
 acm: ""
 arxiv: ""
