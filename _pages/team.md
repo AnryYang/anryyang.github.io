@@ -18,7 +18,7 @@ redirect_from:
 | Name         | Educational Background       |  Category    |   Research Direction  |   1<sup>st</sup> Authored Publications  |
 |:--------------|:-------------------------------:|:--------------:|:-----------------------|:-----------------------|
 | Ms LIN Xiaoyang | B.Sc. HUNNU & Xidian Univ.| RPg student (2024 Fall) |   -  |        KDD'25         |
-| Mr LAI Yurui | B.Sc., M.Sc. ShanghaiTech Univ.| RPg student (2024 Fall) |   -  |        KDD'24               |
+| Mr LAI Yurui | B.Sc., M.Sc. ShanghaiTech Univ.| RPg student (2024 Fall) |   -  |        KDD'24, KDD'25               |
 | Mr WANG Hongtao | B.Sc. NKU | RPg student (2024 Spring) |   -  |          SIGIR'25            |
 | Mr ZHENG Haoran | B.Sc. BIT, M.Sc. PolyU| RPg student (2024 Spring) |   - |         AAAI'25, ICDE'25          |
 | Mr JIANG Runhao | B.Sc. ZJNU| RPg student (2024 Fall) |  -   |                       |
