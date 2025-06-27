@@ -10,9 +10,9 @@ redirect_from:
 
 I am currently an Assistant Professor with the Department of Computer Science at Hong Kong Baptist University. I earned a Ph.D. in computer science from Nanyang Technological University, followed by a postdoctoral stint at the National University of Singapore. I am a recipient of the 2021 VLDB Best Research Paper Award and the 2022 SIGMOD Research Highlight Award. Broadly speaking, my research focuses on big data science and engineering, which involves developing efficient algorithms, models, and systems for large-scale data management and analysis. I am also affiliated with [Database Research Group](https://www.comp.hkbu.edu.hk/~db/) at HKBU.
 
-<!--
-> I have one Ph.D. opening starting from 2025 Fall. See details [here](https://renchi.ac.cn/recruit/). Please send [me](mailto:renchi@hkbu.edu.hk) your CV and transcripts, if you are interested.
--->
+
+> I have one Ph.D. opening starting from 2026 Spring. See details [here](https://renchi.ac.cn/recruit/). Please send [me](mailto:renchi@hkbu.edu.hk) your CV and transcripts, if you are interested.
+
 
 ### Research Interests
 - Databases and data management: graph query processing, similarity search 
