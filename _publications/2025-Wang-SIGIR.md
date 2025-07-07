@@ -3,7 +3,7 @@ title: "SAFT: Structure-aware Transformers for Textual Interaction Classificatio
 collection: publications
 date: 2025-04-05
 publishDate: 2025-07-13T14:59:13.219456Z
-authors: "Hongtao Wang, <b>Renchi Yang</b>, Hewen Wang, Haoran Zheng and Jianliang Xu"
+authors: "Hongtao Wang#, <b>Renchi Yang</b>, Hewen Wang, Haoran Zheng and Jianliang Xu"
 publication_types: ["1"]
 abstract: ""
 featured: false
