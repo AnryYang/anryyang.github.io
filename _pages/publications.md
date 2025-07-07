@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-(Authors marked with * contributed equally to the research.)
+(Authors marked with * contributed equally to the research. # indicates student supervision.)
 
 {% if author.googlescholar %}
   You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
