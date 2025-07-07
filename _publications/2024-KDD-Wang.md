@@ -3,7 +3,7 @@ title: "Effective Edge-wise Representation Learning in Edge-Attributed Bipartite
 collection: publications
 date: 2024-05-17
 publishDate: 2024-08-30T14:59:13.219456Z
-authors: "Hewen Wang, <b>Renchi Yang</b>, Xiaokui Xiao"
+authors: "Hewen Wang#, <b>Renchi Yang</b>, Xiaokui Xiao"
 publication_types: ["1"]
 abstract: ""
 featured: false
