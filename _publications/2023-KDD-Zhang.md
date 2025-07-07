@@ -3,7 +3,7 @@ title: "Efficient Approximation Algorithms for Spanning Centrality"
 collection: publications
 date: 2023-05-17
 publishDate: 2023-08-6T14:59:13.219456Z
-authors: "Shiqi Zhang, <b>Renchi Yang</b>, Jing Tang, Xiaokui Xiao, Bo Tang"
+authors: "Shiqi Zhang#, <b>Renchi Yang</b>, Jing Tang, Xiaokui Xiao, Bo Tang"
 publication_types: ["1"]
 abstract: ""
 featured: false
