@@ -9,7 +9,7 @@ abstract: ""
 featured: false
 venue: "The IEEE International Conference on Data Engineering"
 venueabbr: "ICDE"
-acm: ""
+acm: "https://www.computer.org/csdl/proceedings-article/icde/2025/360300c052/26FZAANxPG0"
 arxiv: "https://arxiv.org/abs/2503.20488"
 github: "https://github.com/HaoranZ99/laca"
 ---
