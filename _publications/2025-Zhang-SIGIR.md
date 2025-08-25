@@ -9,7 +9,7 @@ abstract: ""
 featured: false
 venue: "Proceedings of the International Conference on Research and Development in Information Retrieval"
 venueabbr: "SIGIR"
-acm: ""
-arxiv: ""
-github: ""
+acm: "https://dl.acm.org/doi/10.1145/3726302.3730021"
+arxiv: "https://arxiv.org/abs/2412.11983"
+github: "https://github.com/HKBU-LAGAS/Locle"
 ---
