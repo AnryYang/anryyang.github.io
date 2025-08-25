@@ -9,7 +9,7 @@ abstract: ""
 featured: false
 venue: "Proceedings of the ACM International Conference on Information and Knowledge Management"
 venueabbr: "CIKM"
-acm: ""
+acm: "https://doi.org/10.1145/3746252.3761074"
 arxiv: "https://arxiv.org/abs/2504.15640"
-github: ""
+github: "https://github.com/HKBU-LAGAS/Cequel"
 ---
