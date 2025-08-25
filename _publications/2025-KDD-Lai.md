@@ -9,7 +9,7 @@ abstract: ""
 featured: false
 venue: "Proceedings of the International Conference on Knowledge Discovery and Data Mining"
 venueabbr: "KDD"
-acm: ""
-arxiv: ""
-github: ""
+acm: "https://dl.acm.org/doi/10.1145/3711896.3737130"
+arxiv: "https://arxiv.org/abs/2505.20807"
+github: "https://github.com/HKBU-LAGAS/ClustGDD"
 ---
