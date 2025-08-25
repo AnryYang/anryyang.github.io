@@ -9,7 +9,7 @@ abstract: ""
 featured: false
 venue: "The VLDB Journal"
 venueabbr: "VLDBJ"
-pdf: ""
+acm: "https://link.springer.com/article/10.1007/s00778-024-00875-8"
 arxiv: "https://arxiv.org/abs/2408.05459"
 github: "https://github.com/gongyguo/ANCKA"
 doi: ""
