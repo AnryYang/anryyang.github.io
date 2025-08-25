@@ -9,7 +9,7 @@ abstract: ""
 featured: false
 venue: "The AAAI Conference on Artificial Intelligence"
 venueabbr: "AAAI"
-acm: ""
-arxiv: ""
-github: ""
+acm: "https://ojs.aaai.org/index.php/AAAI/article/view/34450"
+arxiv: "https://arxiv.org/abs/2412.09968"
+github: "https://github.com/HaoranZ99/GraSP"
 ---
