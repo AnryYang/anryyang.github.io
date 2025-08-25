@@ -9,7 +9,7 @@ abstract: ""
 featured: false
 venue: "Proceedings of the International Conference on Knowledge Discovery and Data Mining"
 venueabbr: "KDD"
-acm: ""
-arxiv: ""
-github: ""
+acm: "https://dl.acm.org/doi/10.1145/3711896.3736930"
+arxiv: "https://www.arxiv.org/abs/2506.15986"
+github: "https://zenodo.org/records/15523071"
 ---
