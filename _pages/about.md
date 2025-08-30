@@ -18,7 +18,7 @@ I am currently an Assistant Professor with the Department of Computer Science at
 - Databases and data management: graph databases, vector databases
 - Web and information retrieval: web/e-commerce search & ranking, recommender systems, social networks and media, dialogue systems
 - Data mining and analytics: graph, text, tabular, multimodal data ming and analytics
-- Machine learning: data-centric machine learning, graph learning, efficient LLMs, context engineering
+- Machine learning: data-centric machine learning, graph learning, efficient LLMs, AI4X
 
 <!-- > I am looking for [Ph.D. students](https://renchi.ac.cn/recruit/), research assistants, and visiting students. Please drop me an email, if you are interested. -->
 
