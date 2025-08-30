@@ -59,9 +59,9 @@ Academic Services
 - Proceedings co-chair: MDM 2024-2025
 - Session chair: ICDE 2025
 - Program committee member for the following conferences/workshops:
-  - SIGMOD 2027, VLDB 2026, ICDE 2024-2026
-  - KDD 2022-2026, WWW 2022-2026, SIGIR 2025, ECAI 2025, WSDM 2023-2026, CIKM 2024-2025, ECML-PKDD 2022
-  - NeurIPS 2025, IJCAI 2024-2025, AAAI 2026, NeurIPS 2023 GLFrontiers workshop, 
+  - DB: SIGMOD 2027, VLDB 2026, ICDE 2024-2026
+  - DM&IR: KDD 2022-2026, WWW 2022-2026, SIGIR 2025, WSDM 2023-2026, CIKM 2024-2025, ECML-PKDD 2022
+  - ML: NeurIPS 2025, IJCAI 2024-2025, AAAI 2026, ECAI 2025, NeurIPS 2023 GLFrontiers workshop, 
 - Invited reviewer for the following journals: TKDE, VLDBJ, TKDD.
 <!-- - Subreviewer or External reviewer for VLDB 2023, CIKM 2022, TheWebConf 2021, ICDM 2021, ICDE 2020, VLDB 2020, KDD 2019, IJCAI 2019, CIKM 2019. -->
 
