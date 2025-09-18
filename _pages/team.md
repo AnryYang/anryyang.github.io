@@ -30,9 +30,10 @@ redirect_from:
 ### Former Members:
 | Name            | Position | Current Placement    |
 |:----------------|:--------:|:--------------------:|
+|Mr ZHOU Yubo     | Intern (Jun, 2023 - Jul 2023)    | M.Sc. student at UM-Ann Arbor |
 |Mr LAI Yurui     | RA (Sep, 2023 - Jun 2024)    | PhD student at HKBU  |
 |Ms LIN Xiaoyang  | RA (Nov, 2023 - Jul 2024)    | PhD student at HKBU  |
-|Mr ZHOU Yubo     | Intern (Jun, 2023 - Jul 2023)    | M.Sc. student at UM-Ann Arbor |
+|Mr JIANG Runhao     | Intern (Feb, 2024 - May, 2024)    | PhD student at HKBU |
 |Mr ZHANG Taiyan     | Intern (Apr, 2024 - Oct, 2024)    | PhD student at HKBU |
 
 <!--
