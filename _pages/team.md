@@ -27,6 +27,14 @@ redirect_from:
 | Mr WU Donghao | B.Sc., M.Sc. CUHK-SZ | Intern |    |                       |                      |
 | Mr CHAN Chi Hin | B.Sc. HKBU | Intern |    |                       |                      |
 
+### Former Members:
+| Name            | Position | Current Placement    |
+|:----------------|:--------:|:--------------------:|
+|Mr LAI Yurui     | RA (Sep, 2023 - Jun 2024)    | PhD student at HKBU  |
+|Ms LIN Xiaoyang  | RA (Nov, 2023 - Jul 2024)    | PhD student at HKBU  |
+|Mr ZHOU Yubo     | Intern (Jun, 2023 - Jul 2023)    | M.Sc. student at UM-Ann Arbor |
+|Mr ZHANG Taiyan     | Intern (Apr, 2024 - Oct, 2024)    | PhD student at HKBU |
+
 <!--
 ## Research Grants
 - PI, Industrial Research Grant, HK$330K, 2024/2025
