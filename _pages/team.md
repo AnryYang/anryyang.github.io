@@ -28,7 +28,7 @@ redirect_from:
 | Mr CHAN Chi Hin | B.Sc. HKBU | Intern |    |                       |                      |
 
 ### Former Members:
-| Name            | Position | Current Placement    |
+| Name            | Former Position | Current Placement    |
 |:----------------|:--------:|:--------------------:|
 |Mr ZHOU Yubo     | Intern (Jun, 2023 - Jul 2023)    | M.Sc. student at UM-Ann Arbor |
 |Mr LAI Yurui     | RA (Sep, 2023 - Jun 2024)    | PhD student at HKBU  |
