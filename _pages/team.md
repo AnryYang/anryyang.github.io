@@ -28,6 +28,7 @@ redirect_from:
 | Mr CHAN Chi Hin | B.Sc. HKBU | Intern |    |                       |                      |
 
 ### Former Members:
+
 | Name            | Former Position | Current Placement    |
 |:----------------|:--------:|:--------------------:|
 |Mr ZHOU Yubo     | Intern (Jun, 2023 - Jul 2023)    | M.Sc. student at UM-Ann Arbor |
