@@ -13,6 +13,12 @@ author_profile: true
 
 {% include base_path %}
 
-{% for post in site.publications reversed %}
+### Conferences
+{% for post in site.publications.conferences reversed %}
+  {% include archive-single.html %}
+{% endfor %}
+
+### Journals
+{% for post in site.publications.journals reversed %}
   {% include archive-single.html %}
 {% endfor %}
