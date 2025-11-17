@@ -4,7 +4,7 @@ collection: publications
 date: 2023-04-25
 publishDate: 2023-07-23T02:27:05.032596Z
 authors: "Ziang Zhou, Jieming Shi, <b>Renchi Yang</b>, Yuanhang Zou, Qing Li"
-publication_types: ["2"]
+publication_types: ["1"]
 abstract: ""
 featured: false
 venue: "International Conference on Machine Learning"
