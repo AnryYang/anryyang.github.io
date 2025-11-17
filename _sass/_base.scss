@@ -10,7 +10,7 @@ html {
 body {
   margin: 0;
   padding: 0;
-  padding-bottom: 9em;
+  padding-bottom: 2em;
   color: $text-color;
   font-family: $global-font-family;
   line-height: 1.5;
@@ -58,7 +58,8 @@ small, .small {
 }
 
 p {
-  margin-bottom: 0.3em;
+  margin-top: 0;
+  margin-bottom: 0.1em;
 }
 
 u,
