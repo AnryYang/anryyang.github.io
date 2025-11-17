@@ -8,8 +8,8 @@ publication_types: ["1"]
 abstract: ""
 featured: false
 acm: ""
-arxiv: ""
-github: ""
+arxiv: "https://arxiv.org/abs/2511.05913"
+github: "https://github.com/HKBU-LAGAS/NILC"
 venue: "Proceedings of the ACM International Conference on Web Search and Data Mining"
 venueabbr: "WSDM"
 ---
