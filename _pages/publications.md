@@ -20,8 +20,13 @@ author_profile: true
 {% endfor %}
 
 ### Journals
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
+{% assign conference = site.publications | where: "publication_types", "2" | sort: "date" | reverse %}
+{% for post in conference %}
+    {% include archive-single.html %}
 {% endfor %}
+
+<!-- {% for post in site.publications reversed %}
+  {% include archive-single.html %}
+{% endfor %} -->
 
 
