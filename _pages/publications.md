@@ -19,6 +19,6 @@ author_profile: true
 {% endfor %}
 
 ### Journals
-{% for post in site.publications.journals reversed %}
+{% for post in site.journals reversed %}
   {% include archive-single.html %}
 {% endfor %}
