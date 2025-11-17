@@ -13,11 +13,6 @@ author_profile: true
 
 {% include base_path %}
 
-### Conferences
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}
-
 ### Journals
 {% for post in site.journals reversed %}
   {% include archive-single.html %}
