@@ -16,7 +16,7 @@ author_profile: true
 {% assign groups = site.publications | group_by_exp: "p", "p.date | date: '%Y'" | sort: "name" | reverse %}
 {% for group in groups %}
 
-{{ ## group.name }}
+{{ group.name }}
 
 {% assign pubs = group.items | sort: "date" | reverse %}
 {% for post in pubs %}
