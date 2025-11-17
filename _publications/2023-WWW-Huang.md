@@ -4,7 +4,7 @@ collection: publications
 date: 2023-01-25
 publishDate: 2023-03-07T02:27:05.032596Z
 authors: "Keke Huang, Jing Tang, Juncheng Liu, <b>Renchi Yang</b> and Xiaokui Xiao"
-publication_types: ["2"]
+publication_types: ["1"]
 abstract: ""
 featured: false
 acm: "https://doi.org/10.1145/3543507.3583408"
