@@ -30,19 +30,19 @@
 }
 
 .archive__subtitle {
-  margin: 1.414em 0 0;
+  margin: 0.414em 0 0;
   padding-bottom: 0.5em;
   font-size: $type-size-6;
   color: mix(#fff, $gray, 25%);
   border-bottom: 1px solid $border-color;
 
   + .list__item .archive__item-title {
-    margin-top: 0.5em;
+    margin-top: 0.2em;
   }
 }
 
 .archive__item-title {
-  margin-bottom: 0.25em;
+  margin-bottom: 0.1em;
   font-family: $sans-serif-narrow;
 
   a + a {
@@ -54,7 +54,7 @@
 .page__content {
 
   .archive__item-title {
-    margin-top: 1em;
+    margin-top: 0.5em;
     border-bottom: none;
   }
 }
@@ -102,7 +102,7 @@
   }
 
   .archive__item-title {
-    margin-top: 0.5em;
+    margin-top: 0.2em;
     font-size: $type-size-6;
   }
 
