@@ -4,7 +4,7 @@ collection: publications
 date: 2025-04-28
 publishDate: 2025-04-28T02:27:05.032596Z
 authors: "Kun Xie, <b>Renchi Yang</b> and Sibo Wang"
-publication_types: ["2"]
+publication_types: ["1"]
 abstract: ""
 featured: false
 acm: "https://dl.acm.org/doi/10.1145/3696410.3714652"
