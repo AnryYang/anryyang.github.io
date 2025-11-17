@@ -13,13 +13,13 @@ author_profile: true
 
 {% include base_path %}
 
-### Conferences
+## Conferences
 {% assign conference = site.publications | where: "publication_types", "1" | sort: "date" | reverse %}
 {% for post in conference %}
     {% include archive-single.html %}
 {% endfor %}
 
-### Journals
+## Journals
 {% assign conference = site.publications | where: "publication_types", "2" | sort: "date" | reverse %}
 {% for post in conference %}
     {% include archive-single.html %}
