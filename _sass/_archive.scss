@@ -3,7 +3,7 @@
    ========================================================================== */
 
 .archive {
-  margin-bottom: 1em;
+  margin-bottom: 2em;
 
   @include breakpoint($medium) {
     padding-right: $right-sidebar-width-narrow;
