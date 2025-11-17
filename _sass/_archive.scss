@@ -58,6 +58,11 @@
   }
 }
 
+  .archive__item-p {
+    margin-top: 0em;
+    border-bottom: none;
+  }
+
 .archive__item-excerpt {
   margin-top: 0;
   font-size: $type-size-6;
