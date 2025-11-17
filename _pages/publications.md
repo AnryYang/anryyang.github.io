@@ -13,6 +13,7 @@ author_profile: true
 
 {% include base_path %}
 
+{% assign counter = 0 %}
 {% assign groups = site.publications | group_by_exp: "p", "p.date | date: '%Y'" | sort: "name" | reverse %}
 {% for group in groups %}
 
@@ -20,7 +21,8 @@ author_profile: true
 
 {% assign pubs = group.items | sort: "date" | reverse %}
 {% for post in pubs %}
-    {% include archive-single.html %}
+    {% assign counter = counter | plus: 1 %}
+    {% include archive-single.html post=post idx=counter %}
 {% endfor %}
 {% endfor %}
 
