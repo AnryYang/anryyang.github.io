@@ -9,7 +9,7 @@ abstract: ""
 featured: false
 venue: "Proceedings of the ACM International Conference on Information and Knowledge Management"
 venueabbr: "CIKM"
-acm: ""
-arxiv: ""
-github: ""
+acm: "https://dl.acm.org/doi/10.1145/3746252.3761129"
+arxiv: "https://arxiv.org/abs/2508.19907"
+github: "https://github.com/wanghewen/GegenNet"
 ---
