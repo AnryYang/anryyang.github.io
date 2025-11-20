@@ -15,7 +15,7 @@ redirect_from:
 
 ### Current Members
 
-| Name         | Educational Background       |  Category    |   Research Direction  |   1<sup>st</sup> Authored Publications  | Achievements |
+| Name         | Background       |  Category    |   Research Direction  |   1<sup>st</sup> Authored Publications  | Achievements |
 |:--------------|:-------------------------------:|:--------------:|:-----------------------|:-----------------------|:-----------------------|
 | Mr ZHENG Haoran | B.Sc. BIT, M.Sc. PolyU| RPg student (2024 Spring) |   - |         AAAI'25, ICDE'25          |  Department RPg Performance Award  |
 | Mr WANG Hongtao | B.Sc. NKU | RPg student (2024 Spring) |  -  |          SIGIR'25, CIKM'25, WSDM'26            |                      |
