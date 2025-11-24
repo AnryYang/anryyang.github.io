@@ -28,6 +28,7 @@ I am currently an Assistant Professor with the Department of Computer Science at
 
 News
 ======
+- Nov 23, 2025: 3 papers were accepted to KDD 2026
 - Aug 23, 2025: 1 paper was accepted to SIGMOD 2026
 - Aug 5, 2025: 3 papers were accepted to CIKM 2025
 - May 15, 2025: 2 papers were accepted to KDD 2025
