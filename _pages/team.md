@@ -17,7 +17,7 @@ redirect_from:
 
 | Name         | Background       |  Category    |   Research Direction  |   1<sup>st</sup> Authored Publications  | Achievements |
 |:--------------|:-------------------------------:|:--------------:|:-----------------------|:-----------------------|:-----------------------|
-| Mr ZHENG Haoran | B.Sc. BIT, M.Sc. PolyU| RPg student (2024 Spring) |   - |         AAAI'25, ICDE'25          |  Department RPg Performance Award  |
+| Mr ZHENG Haoran | B.Sc. BIT, M.Sc. PolyU| RPg student (2024 Spring) |   - |         AAAI'25, ICDE'25, KDD'25×2          |  Department RPg Performance Award  |
 | Mr WANG Hongtao | B.Sc. NKU | RPg student (2024 Spring) |  -  |          SIGIR'25, CIKM'25, WSDM'26            |                      |
 | Mr LAI Yurui | B.Sc., M.Sc. ShanghaiTech Univ.| RPg student (2024 Fall) |   -  |        KDD'24, KDD'25               |                      |
 | Ms LIN Xiaoyang | B.Sc. HUNNU & Xidian Univ.| RPg student (2024 Fall) |   -  |        KDD'25, SIGMOD'26        |                      |
