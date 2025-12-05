@@ -17,12 +17,12 @@ redirect_from:
 
 | Name         | Background       |  Category    |   Research Direction  |   1<sup>st</sup> Authored Publications  | Achievements |
 |:--------------|:-------------------------------:|:--------------:|:-----------------------|:-----------------------|:-----------------------|
-| Mr ZHENG Haoran | B.Sc. BIT, M.Sc. PolyU| RPg student (2024 Spring) |   - |         AAAI'25, ICDE'25, KDD'26×2          |  Department RPg Performance Award  |
-| Mr WANG Hongtao | B.Sc. NKU | RPg student (2024 Spring) |  -  |          SIGIR'25, CIKM'25, WSDM'26            |                      |
-| Mr LAI Yurui | B.Sc., M.Sc. ShanghaiTech Univ.| RPg student (2024 Fall) |   -  |        KDD'24, KDD'25               |                      |
-| Ms LIN Xiaoyang | B.Sc. HUNNU & Xidian Univ.| RPg student (2024 Fall) |   -  |        KDD'25, SIGMOD'26        |                      |
-| Mr JIANG Runhao | B.Sc. ZJNU| RPg student (2024 Fall) |  -   |       CIKM'25             |                      |
-| Mr ZHANG Taiyan | B.Eng. BUPT, M.Sc. ShanghaiTech Univ.| RPg student (2025 Fall) |  -   |         SIGIR'25             |                      |
+| [Mr ZHENG Haoran](https://scholar.google.com/citations?user=W6rD3JAAAAAJ) | B.Sc. BIT, M.Sc. PolyU| RPg student (2024 Spring) |   - |         AAAI'25, ICDE'25, KDD'26×2          |  Department RPg Performance Award  |
+| [Mr WANG Hongtao](https://scholar.google.com/citations?user=fFtLwrAAAAAJ) | B.Sc. NKU | RPg student (2024 Spring) |  -  |          SIGIR'25, CIKM'25, WSDM'26            |                      |
+| [Mr LAI Yurui](https://scholar.google.com/citations?user=LKGkoLcAAAAJ) | B.Sc., M.Sc. ShanghaiTech Univ.| RPg student (2024 Fall) |   -  |        KDD'24, KDD'25               |                      |
+| [Ms LIN Xiaoyang](https://scholar.google.com/citations?user=2FoMqMwAAAAJ) | B.Sc. HUNNU & Xidian Univ.| RPg student (2024 Fall) |   -  |        KDD'25, SIGMOD'26        |                      |
+| [Mr JIANG Runhao](https://scholar.google.com/citations?user=VoXJpmUAAAAJ) | B.Sc. ZJNU| RPg student (2024 Fall) |  -   |       CIKM'25             |                      |
+| [Mr ZHANG Taiyan](https://dblp.org/pid/348/6923.html) | B.Eng. BUPT, M.Sc. ShanghaiTech Univ.| RPg student (2025 Fall) |  -   |         SIGIR'25             |                      |
 | Mr WANG Songbo | B.Eng. SCUT | Intern |    |                       |                      |
 | Mr WU Donghao | B.Sc., M.Sc. CUHK-SZ | Intern |    |                       |                      |
 | Mr CHAN Chi Hin | B.Sc. HKBU | Intern |    |                       |                      |
@@ -31,7 +31,7 @@ redirect_from:
 
 | Name            | Former Position | Current Placement    |
 |:----------------|:--------:|:--------------------:|
-|Mr ZHOU Yubo     | Intern (Jun, 2023 - Jul 2023)    | M.Sc. student at UM-Ann Arbor |
+|Mr ZHOU Yubo     | Intern (Jun, 2023 - Jul 2023)    | M.Sc. student at UMich |
 |Mr LAI Yurui     | RA (Sep, 2023 - Jun 2024)    | PhD student at HKBU  |
 |Ms LIN Xiaoyang  | RA (Nov, 2023 - Jul 2024)    | PhD student at HKBU  |
 |Mr JIANG Runhao     | Intern (Feb, 2024 - May, 2024)    | PhD student at HKBU |
