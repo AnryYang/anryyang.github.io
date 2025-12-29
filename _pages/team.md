@@ -28,6 +28,8 @@ redirect_from:
 | Mr WANG Songbo | B.Eng. SCUT | Intern |    |                       |                      |
 | Mr WU Donghao | B.Sc., M.Sc. CUHK-SZ | Intern |    |                       |                      |
 | Mr CHAN Chi Hin | B.Sc. HKBU | Intern |    |                       |                      |
+| Mr LIANG Rongguang | B.Sc. DLUT | Intern |    |                       |                      |
+| Mr ZHOU Yixi | B.Sc. ShanghaiTech Univ. | Intern |    |                       |                      |
 -->
 
 ### Former Members:
@@ -39,7 +41,9 @@ redirect_from:
 |Ms LIN Xiaoyang  | RA (Nov, 2023 - Jul 2024)    | PhD student at HKBU  |
 |Mr JIANG Runhao  | Intern (Feb, 2024 - May, 2024)    | PhD student at HKBU |
 |Mr ZHANG Taiyan  | Intern (Apr, 2024 - Oct, 2024)    | PhD student at HKBU |
+<!--
 |Mr WANG Songbo   | Intern (Nov, 2024 - Nov, 2025)    |                     |
+-->
 
 <!--
 ## Research Grants
