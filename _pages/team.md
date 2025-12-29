@@ -41,6 +41,7 @@ redirect_from:
 |Ms LIN Xiaoyang  | RA (Nov, 2023 - Jul 2024)    | PhD student at HKBU  |
 |Mr JIANG Runhao  | Intern (Feb, 2024 - May, 2024)    | PhD student at HKBU |
 |Mr ZHANG Taiyan  | Intern (Apr, 2024 - Oct, 2024)    | PhD student at HKBU |
+
 <!--
 |Mr WANG Songbo   | Intern (Nov, 2024 - Nov, 2025)    |                     |
 -->
