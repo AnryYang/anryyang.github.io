@@ -25,11 +25,11 @@ redirect_from:
 | [Mr ZHANG Taiyan](https://dblp.org/pid/348/6923.html) | B.Eng. BUPT, M.Sc. ShanghaiTech Univ.| RPg student (2025 Fall) |  -   |         SIGIR'25             |                      |
 
 <!--
+| Mr WU Donghao | B.Sc., M.Sc. CUHK-SZ | RPg student (2026 Fall) |    |                       |                      |
+| Mr ZHOU Yixi | B.Sc. ShanghaiTech Univ. | RPg student (2026 Fall) |    |                       |                      |
+| Mr LIANG Rongguang | B.Sc. DLUT | RPg student (2026 Fall) |    |                       |                      |
 | Mr WANG Songbo | B.Eng. SCUT | Intern |    |                       |                      |
-| Mr WU Donghao | B.Sc., M.Sc. CUHK-SZ | Intern |    |                       |                      |
 | Mr CHAN Chi Hin | B.Sc. HKBU | Intern |    |                       |                      |
-| Mr LIANG Rongguang | B.Sc. DLUT | Intern |    |                       |                      |
-| Mr ZHOU Yixi | B.Sc. ShanghaiTech Univ. | Intern |    |                       |                      |
 -->
 
 ### Former Members:
