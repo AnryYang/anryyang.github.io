@@ -3,7 +3,7 @@ title: "Cequel: Cost-Effective Querying of Large Language Models for Text Cluste
 collection: publications
 date: 2025-11-10
 publishDate: 2025-11-10T14:59:13.219456Z
-authors: "Hongtao Wang#, Taiyan Zhang, <b>Renchi Yang</b>, Jianliang Xu"
+authors: "Hongtao Wang#, Taiyan Zhang#, <b>Renchi Yang</b>, Jianliang Xu"
 publication_types: ["1"]
 abstract: ""
 featured: false
