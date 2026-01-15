@@ -11,16 +11,16 @@ redirect_from:
 I am currently an Assistant Professor with the Department of Computer Science at Hong Kong Baptist University. I earned a Ph.D. in computer science from Nanyang Technological University, followed by a postdoctoral stint at the National University of Singapore. I am a recipient of the 2021 VLDB Best Research Paper Award and the 2022 SIGMOD Research Highlight Award. Broadly speaking, my research focuses on big data science and engineering, which involves developing effective and/or efficient algorithms, models, and systems for large-scale data management, mining, and analysis. I am also affiliated with [Database Research Group](https://www.comp.hkbu.edu.hk/~db/) at HKBU.
 
 
-<!-- > I have two Ph.D. opening starting from 2026 Spring/Fall. See details [here](https://renchi.ac.cn/recruit/). Please send [me](mailto:renchi@hkbu.edu.hk) your CV and transcripts, if you are interested. -->
+<!-- > I have two Ph.D. openings starting from 2026 Spring/Fall. See details [here](https://renchi.ac.cn/recruit/). Please send [me](mailto:renchi@hkbu.edu.hk) your CV and transcripts, if you are interested. -->
 
 
 ### Research Interests
 - Databases and data management: graph databases, vector databases
 - Web and information retrieval: web/e-commerce search & ranking, recommender systems, social networks and media, dialogue systems
-- Data mining and analytics: graph, text, tabular, multimodal data ming and analytics
+- Data mining and analytics: graph, text, tabular, multimodal data mining and analytics
 - Machine learning: data-centric machine learning, graph learning, efficient LLMs, AI4X
 
-<!-- > I am looking for [Ph.D. students](https://renchi.ac.cn/recruit/), research assistants, and visiting students. Please drop me an email, if you are interested. -->
+<!-- > I am looking for [Ph.D. students](https://renchi.ac.cn/recruit/), research assistants, and visiting students. Please drop me an email if you are interested. -->
 
 <!-- UPDATE: I am actively looking for a tenure-track faculty position. Please find my C.V. [here](https://renchi.ac.cn/files/CV.pdf). -->
 
@@ -62,8 +62,8 @@ Academic Services
 - Session chair: ICDE 2025
 - Program committee member for the following conferences/workshops:
   - DB: SIGMOD 2027, VLDB 2026, ICDE 2024-2026
-  - DM&IR: KDD 2022-2026, WWW 2022-2026, SIGIR 2025, WSDM 2023-2026, CIKM 2024-2025, ECML-PKDD 2022
-  - ML: NeurIPS 2025, IJCAI 2024-2025, AAAI 2026, ECAI 2025, NeurIPS 2023 GLFrontiers workshop, 
+  - DM&IR: KDD 2022-2026, WWW 2022-2026, SIGIR 2025-2026, WSDM 2023-2026, CIKM 2024-2025, ECML-PKDD 2022
+  - ML: NeurIPS 2025, IJCAI 2024-2026, AAAI 2026, ECAI 2025 
 - Invited reviewer for the following journals: TKDE, VLDBJ, TKDD.
 <!-- - Subreviewer or External reviewer for VLDB 2023, CIKM 2022, TheWebConf 2021, ICDM 2021, ICDE 2020, VLDB 2020, KDD 2019, IJCAI 2019, CIKM 2019. -->
 
@@ -77,8 +77,8 @@ Academic Services
 Teaching
 ======
 - HKBU COMP4035: [Database Systems Implementation](https://www.comp.hkbu.edu.hk/v1/file/course/COMP4035.pdf), Fall 2023, 2024, 2025
-- HKBU COMP7640: [Database Systems & Administration](https://www.comp.hkbu.edu.hk/v1/file/course/COMP7640.pdf), Spring 2023, 2024, 2025
-- HKBU COMP7930: [Big Data Analytics](https://www.comp.hkbu.edu.hk/v1/file/course/COMP7930.pdf), Spring 2023, 2024, 2025
+- HKBU COMP7640: [Database Systems & Administration](https://www.comp.hkbu.edu.hk/v1/file/course/COMP7640.pdf), Spring 2023, 2024, 2025, 2026
+- HKBU COMP7930: [Big Data Analytics](https://www.comp.hkbu.edu.hk/v1/file/course/COMP7930.pdf), Spring 2023, 2024, 2025, 2026
 
 
 <!-- Doctoral Thesis
