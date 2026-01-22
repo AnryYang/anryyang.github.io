@@ -9,9 +9,11 @@ redirect_from:
 
 {% include base_path %}
 
-## Team Members
+## 
 
-[LAGAS Group](https://github.com/HKBU-LAGAS)
+[Github](https://github.com/HKBU-LAGAS)  [RedNote](https://www.xiaohongshu.com/user/profile/5d837d2100000000010018e1)
+
+## Team Members
 
 ### Current Members
 
