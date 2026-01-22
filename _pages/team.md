@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-Follow us on: 🐹[Github](https://github.com/HKBU-LAGAS)    📕[RedNote](https://www.xiaohongshu.com/user/profile/5d837d2100000000010018e1)
+Follow us on: 🐹[Github](https://github.com/HKBU-LAGAS)    📕[RedNote](https://www.xiaohongshu.com/user/profile/5d837d2100000000010018e1)    🕊️[X](https://x.com/renchiyang)
 
 ## Team Members
 
