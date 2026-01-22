@@ -15,10 +15,10 @@ I am currently an Assistant Professor with the Department of Computer Science at
 
 
 ### Research Interests
-- Databases and data management: graph databases, vector databases
-- Web and information retrieval: web/e-commerce search & ranking, recommender systems, social networks and media, dialogue systems
-- Data mining and analytics: graph, text, tabular, multimodal data mining and analytics
-- Machine learning: data-centric machine learning, graph learning, efficient LLMs, AI4X
+- 🗃️Databases and data management: graph databases, vector databases
+- 🌍Web and information retrieval: web/e-commerce search & ranking, recommender systems, social networks and media, dialogue systems
+- 📊Data mining and analytics: graph, text, tabular, multimodal data mining and analytics
+- 🤖Machine learning: data-centric machine learning, graph learning, efficient LLMs, AI4X
 
 <!-- > I am looking for [Ph.D. students](https://renchi.ac.cn/recruit/), research assistants, and visiting students. Please drop me an email if you are interested. -->
 
@@ -28,15 +28,15 @@ I am currently an Assistant Professor with the Department of Computer Science at
 
 News
 ======
-- Nov 23, 2025: 3 papers were accepted to KDD 2026
-- Aug 23, 2025: 1 paper was accepted to SIGMOD 2026
-- Aug 5, 2025: 3 papers were accepted to CIKM 2025
-- May 15, 2025: 2 papers were accepted to KDD 2025
-- Apr 5, 2025: 2 papers were accepted to SIGIR 2025
-- Mar 25, 2025: 1 paper was accepted to ICDE 2025
-- Jan 20, 2025: 1 paper was accepted to WWW 2025
+- Nov 23, 2025: 3 papers were accepted to KDD 2026🎉🎉🎉
+- Aug 23, 2025: 1 paper was accepted to SIGMOD 2026🎉
 
 <!-- 
+- Aug 5, 2025: 3 papers were accepted to CIKM 2025🎉🎉🎉
+- May 15, 2025: 2 papers were accepted to KDD 2025🎉🎉
+- Apr 5, 2025: 2 papers were accepted to SIGIR 2025🎉🎉
+- Mar 25, 2025: 1 paper was accepted to ICDE 2025🎉
+- Jan 20, 2025: 1 paper was accepted to WWW 2025🎉
 - Nov 17, 2024: 1 paper was accepted to KDD 2025
 - May 17, 2024: 3 papers were accepted to KDD 2024
 - Nov 20, 2023: 1 research paper was accepted to SIGMOD 2024
