@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am currently an Assistant Professor with the Department of Computer Science at Hong Kong Baptist University. I earned a Ph.D. in computer science from Nanyang Technological University, followed by a postdoctoral stint at the National University of Singapore. I am a recipient of the 2021 VLDB Best Research Paper Award and the 2022 SIGMOD Research Highlight Award. Broadly speaking, my research focuses on big data science and engineering, which involves developing effective and/or efficient algorithms, models, and systems for large-scale data management, mining, and analysis. I am also affiliated with [Database Research Group](https://www.comp.hkbu.edu.hk/~db/) at HKBU.
+I am currently an Assistant Professor with the Department of Computer Science at Hong Kong Baptist University🎓. I earned a Ph.D. in computer science from Nanyang Technological University🎓, followed by a postdoctoral stint at the National University of Singapore🎓. I am a recipient of the 2021 VLDB Best Research Paper Award🏆 and the 2022 SIGMOD Research Highlight Award🏆. Broadly speaking, my research focuses on big data science and engineering, which involves developing effective and/or efficient algorithms, models, and systems for large-scale data management, mining, and analysis. I am also affiliated with [Database Research Group](https://www.comp.hkbu.edu.hk/~db/) at HKBU.
 
 
 <!-- > I have two Ph.D. openings starting from 2026 Spring/Fall. See details [here](https://renchi.ac.cn/recruit/). Please send [me](mailto:renchi@hkbu.edu.hk) your CV and transcripts, if you are interested. -->
@@ -58,13 +58,13 @@ Selected Honors
 
 Academic Services
 ======
-- Proceedings co-chair: MDM 2024-2025
-- Session chair: ICDE 2025
-- Program committee member for the following conferences/workshops:
+- 👨🏻‍⚖️Proceedings co-chair: MDM 2024-2025
+- 👨🏻‍⚖️Session chair: ICDE 2025
+- 👨🏻‍💻Program committee member for the following conferences/workshops:
   - DB: SIGMOD 2027, VLDB 2026-2027, ICDE 2024-2026
   - DM&IR: KDD 2022-2026, WWW 2022-2026, SIGIR 2025-2026, WSDM 2023-2026, CIKM 2024-2025, ECML-PKDD 2022
   - ML: NeurIPS 2025, IJCAI 2024-2026, AAAI 2026, ECAI 2025 
-- Invited reviewer for the following journals: TKDE, VLDBJ, TKDD.
+- 👨🏻‍💻Invited reviewer for the following journals: TKDE, VLDBJ, TKDD.
 <!-- - Subreviewer or External reviewer for VLDB 2023, CIKM 2022, TheWebConf 2021, ICDM 2021, ICDE 2020, VLDB 2020, KDD 2019, IJCAI 2019, CIKM 2019. -->
 
 <!-- Invited Talks -->
@@ -76,9 +76,9 @@ Academic Services
 
 Teaching
 ======
-- HKBU COMP4035: [Database Systems Implementation](https://www.comp.hkbu.edu.hk/v1/file/course/COMP4035.pdf), Fall 2023, 2024, 2025
-- HKBU COMP7640: [Database Systems & Administration](https://www.comp.hkbu.edu.hk/v1/file/course/COMP7640.pdf), Spring 2023, 2024, 2025, 2026
-- HKBU COMP7930: [Big Data Analytics](https://www.comp.hkbu.edu.hk/v1/file/course/COMP7930.pdf), Spring 2023, 2024, 2025, 2026
+- 👨🏻‍🏫HKBU COMP4035: [Database Systems Implementation](https://www.comp.hkbu.edu.hk/v1/file/course/COMP4035.pdf), Fall 2023, 2024, 2025
+- 👨🏻‍🏫HKBU COMP7640: [Database Systems & Administration](https://www.comp.hkbu.edu.hk/v1/file/course/COMP7640.pdf), Spring 2023, 2024, 2025, 2026
+- 👨🏻‍🏫HKBU COMP7930: [Big Data Analytics](https://www.comp.hkbu.edu.hk/v1/file/course/COMP7930.pdf), Spring 2023, 2024, 2025, 2026
 
 
 <!-- Doctoral Thesis
