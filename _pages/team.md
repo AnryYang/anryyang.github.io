@@ -23,6 +23,8 @@ Follow us on: 🐹[Github](https://github.com/HKBU-LAGAS)    📕[RedNote](https
 | [Ms LIN Xiaoyang](https://scholar.google.com/citations?user=2FoMqMwAAAAJ) | B.Sc. HUNNU & Xidian Univ.| RPg student (2024 Fall) |  Graph Analytics |        KDD'25, SIGMOD'26        |   Department RPg Research Performance Award 25🏆                   |
 | [Mr JIANG Runhao](https://scholar.google.com/citations?user=VoXJpmUAAAAJ) | B.Sc. ZJNU| RPg student (2024 Fall) |  Recommender Systems  |       CIKM'25             |                      |
 | [Mr ZHANG Taiyan](https://dblp.org/pid/348/6923.html) | B.Eng. BUPT, M.Sc. ShanghaiTech Univ.| RPg student (2025 Fall) |  Recommender Systems  |         SIGIR'25             |                      |
+| Mr ZHOU Yixi | B.Sc. ShanghaiTech Univ. | RPg student (2026 Fall) |  Data Agents  |                       |                      |
+| Mr MENG Jiaxing | HKBU | UG student |    |                       |                      |
 
 <!--
 | Mr WU Donghao | B.Sc., M.Sc. CUHK-SZ | RPg student (2026 Fall) |  Vector Search |                       |                      |
