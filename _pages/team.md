@@ -24,6 +24,8 @@ Follow us on: 🐹[Github](https://github.com/HKBU-LAGAS)    📕[RedNote](https
 | [Mr JIANG Runhao](https://scholar.google.com/citations?user=VoXJpmUAAAAJ) | B.Sc. ZJNU| RPg student (2024 Fall) |  Recommender Systems  |       CIKM'25             |                      |
 | [Mr ZHANG Taiyan](https://dblp.org/pid/348/6923.html) | B.Eng. BUPT, M.Sc. ShanghaiTech Univ.| RPg student (2025 Fall) |  Recommender Systems  |         SIGIR'25             |                      |
 | Mr ZHOU Yixi | B.Sc. ShanghaiTech Univ. | RPg student (2026 Fall) |  Data Agents  |                       |                      |
+| Mr WU Donghao | B.Sc., M.Sc. CUHK-SZ | Research Intern |   |                       |                      |
+| Mr LIANG Rongguang | B.Sc. DLUT | Research Intern |   |                       |                      |
 | Mr MENG Jiaxing | HKBU | UG student |    |                       |                      |
 
 <!--
