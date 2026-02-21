@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-## Datasets Used in My Papers
+## Graph Datasets
 
 ### Plain Graphs
 
@@ -144,6 +144,10 @@ Welcome to cite our paper if you publish results based on our preprocessed datas
   year={2022}
 }
 ```
+
+## Text-Attributed Graphs
+
+## Multi-Modal Graphs
 
 ## Dataset Repositories
 
