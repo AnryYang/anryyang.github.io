@@ -14,8 +14,8 @@ main:
   - title: "Team"
     url: /team/
 
-# - title: "Datasets"
-#    url: /datasets/
+- title: "Datasets"
+    url: /datasets/
   
 #   - title: "Talks"
 #     url: /talks/   
