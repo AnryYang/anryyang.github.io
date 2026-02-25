@@ -11,6 +11,8 @@ redirect_from:
 
 ## Graph Datasets
 
+Please visit our curated list for graph datasets at [Github](https://github.com/HKBU-LAGAS/Awesome-Graph-Datasets).
+
 ### Plain Graphs
 
 | Name    | #nodes    | #edges    | #labels | Type        | URL       | 
