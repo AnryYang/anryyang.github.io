@@ -8,7 +8,6 @@ publication_types: ["2"]
 abstract: ""
 featured: false
 venue: "Preprint"
-flag: ""
 pdf: "https://www.techrxiv.org/doi/full/10.36227/techrxiv.176945895.52184668"
 github: "https://github.com/HKBU-LAGAS/Awesome-Item-ID-Gen-RecSys"
 ---
