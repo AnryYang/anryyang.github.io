@@ -24,7 +24,7 @@ Follow us on: 🐹[Github](https://github.com/HKBU-LAGAS)    📕[RedNote](https
 | [Mr JIANG Runhao](https://jrunh.github.io) | B.Sc. ZJNU| RPg student (2024 Fall) |  Recommender Systems  |       CIKM'25, SIGIR'26             |                      |
 | [Mr ZHANG Taiyan](https://scholar.google.com/citations?user=d6-KlDEAAAAJ) | B.Eng. BUPT, M.Sc. ShanghaiTech Univ.| RPg student (2025 Fall) |  Recommender Systems  |         SIGIR'25             |                      |
 | [Mr ZHOU Yixi](https://xanderzhou2022.github.io) | B.Sc. ShanghaiTech Univ. | RPg student (2026 Fall) |  Data Agents  |                       |                      |
-| [Mr WU Donghao](https://scholar.google.com/citations?user=WGzwx5UAAAAJ) | B.Sc., M.Sc. CUHK-SZ | Research Intern |   |                       |                      |
+| [Mr WU Donghao](https://scholar.google.com/citations?user=WGzwx5UAAAAJ) | B.Sc., M.Sc. CUHK-SZ | RPg student (2026 Fall) |   |                       |                      |
 | Mr LIANG Rongguang | B.Sc. DLUT | RPg student (2026 Fall) |   |                       |                      |
 | Mr MENG Jiaxing | HKBU | UG student |    |                       |                      |
 
