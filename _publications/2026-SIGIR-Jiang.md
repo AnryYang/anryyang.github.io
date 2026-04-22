@@ -10,6 +10,6 @@ featured: false
 venue: "Proceedings of the International Conference on Research and Development in Information Retrieval"
 venueabbr: "SIGIR"
 acm: ""
-arxiv: ""
-github: ""
+arxiv: "https://arxiv.org/abs/2604.18351"
+github: "https://github.com/HKBU-LAGAS/BACO"
 ---
