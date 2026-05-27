@@ -9,7 +9,7 @@ abstract: ""
 featured: false
 venue: "Proceedings of the International Conference on Knowledge Discovery and Data Mining"
 venueabbr: "KDD"
-acm: "https://doi.org/10.1145/3770854.3780236"
+acm: "https://dl.acm.org/doi/10.1145/3770854.3780236"
 arxiv: "https://arxiv.org/abs/2511.20030"
 github: "https://github.com/HaoranZ99/DGF"
 ---
