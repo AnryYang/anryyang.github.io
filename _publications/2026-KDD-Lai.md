@@ -11,5 +11,5 @@ venue: "Proceedings of the International Conference on Knowledge Discovery and D
 venueabbr: "KDD"
 acm: ""
 arxiv: ""
-github: ""
+github: "https://github.com/HKBU-LAGAS/STAD"
 ---
