@@ -10,6 +10,6 @@ featured: false
 venue: "Proceedings of the International Conference on Knowledge Discovery and Data Mining"
 venueabbr: "KDD"
 acm: ""
-arxiv: ""
-github: ""
+arxiv: "https://arxiv.org/abs/2605.25814"
+github: "https://github.com/HKBU-LAGAS/Alper"
 ---
