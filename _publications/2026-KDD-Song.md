@@ -9,7 +9,7 @@ abstract: ""
 featured: false
 venue: "Proceedings of the International Conference on Knowledge Discovery and Data Mining"
 venueabbr: "KDD"
-acm: ""
+acm: "https://dl.acm.org/doi/10.1145/3770854.3780298"
 arxiv: ""
-github: ""
+github: "https://github.com/yfsong00/SPGNN"
 ---
