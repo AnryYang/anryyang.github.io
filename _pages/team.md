@@ -17,6 +17,7 @@ Follow us on: 🐹[Github](https://github.com/HKBU-LAGAS)    📕[RedNote](https
 
 | Name         | Background       |  Category    |   Research Direction  |   1<sup>st</sup> Authored Publications  | Achievements |
 |:--------------|:-------------------------------:|:--------------:|:-----------------------|:-----------------------|:-----------------------|
+| [Mr ZHENG Haoran](https://scholar.google.com/citations?user=W6rD3JAAAAAJ) | B.Sc. BIT, M.Sc. PolyU| RPg student (2024 Spring) | Graph Analytics |         AAAI'25, ICDE'25, KDD'26×2          |  Department RPg Research Performance Award 24🏆 |
 | [Mr WANG Hongtao](https://scholar.google.com/citations?user=fFtLwrAAAAAJ) | B.Sc. NKU | RPg student (2024 Spring) |  Text Analytics |          SIGIR'25, CIKM'25, WSDM'26, KDD'26            |  Department RPg Research Performance Award 25🏆                    |
 | [Mr LAI Yurui](https://scholar.google.com/citations?user=LKGkoLcAAAAJ) | B.Sc., M.Sc. ShanghaiTech Univ.| RPg student (2024 Fall) |  Graph Analytics  |        KDD'24, KDD'25, KDD'26               |    Department RPg Research Performance Award 25🏆                  |
 | [Ms LIN Xiaoyang](https://scholar.google.com/citations?user=2FoMqMwAAAAJ) | B.Sc. HUNNU & Xidian Univ.| RPg student (2024 Fall) |  Graph Analytics |        KDD'25, SIGMOD'26        |   Department RPg Research Performance Award 25🏆                   |
