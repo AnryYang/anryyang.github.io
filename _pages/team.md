@@ -17,7 +17,6 @@ Follow us on: 🐹[Github](https://github.com/HKBU-LAGAS)    📕[RedNote](https
 
 | Name         | Background       |  Category    |   Research Direction  |   1<sup>st</sup> Authored Publications  | Achievements |
 |:--------------|:-------------------------------:|:--------------:|:-----------------------|:-----------------------|:-----------------------|
-| [Mr ZHENG Haoran](https://scholar.google.com/citations?user=W6rD3JAAAAAJ) | B.Sc. BIT, M.Sc. PolyU| RPg student (2024 Spring) | Graph Analytics |         AAAI'25, ICDE'25, KDD'26×2          |  Department RPg Research Performance Award 24🏆 |
 | [Mr WANG Hongtao](https://scholar.google.com/citations?user=fFtLwrAAAAAJ) | B.Sc. NKU | RPg student (2024 Spring) |  Text Analytics |          SIGIR'25, CIKM'25, WSDM'26, KDD'26            |  Department RPg Research Performance Award 25🏆                    |
 | [Mr LAI Yurui](https://scholar.google.com/citations?user=LKGkoLcAAAAJ) | B.Sc., M.Sc. ShanghaiTech Univ.| RPg student (2024 Fall) |  Graph Analytics  |        KDD'24, KDD'25, KDD'26               |    Department RPg Research Performance Award 25🏆                  |
 | [Ms LIN Xiaoyang](https://scholar.google.com/citations?user=2FoMqMwAAAAJ) | B.Sc. HUNNU & Xidian Univ.| RPg student (2024 Fall) |  Graph Analytics |        KDD'25, SIGMOD'26        |   Department RPg Research Performance Award 25🏆                   |
@@ -29,6 +28,7 @@ Follow us on: 🐹[Github](https://github.com/HKBU-LAGAS)    📕[RedNote](https
 | Mr MENG Jiaxing | HKBU | UG student |    |                       |                      |
 
 <!--
+| [Mr ZHENG Haoran](https://scholar.google.com/citations?user=W6rD3JAAAAAJ) | B.Sc. BIT, M.Sc. PolyU| RPg student (2024 Spring) | Graph Analytics |         AAAI'25, ICDE'25, KDD'26×2          |  Department RPg Research Performance Award 24🏆 |
 | Mr WU Donghao | B.Sc., M.Sc. CUHK-SZ | RPg student (2026 Fall) |  Vector Search |                       |                      |
 | Mr ZHOU Yixi | B.Sc. ShanghaiTech Univ. | RPg student (2026 Fall) |  Data Agents  |                       |                      |
 | Mr LIANG Rongguang | B.Sc. DLUT | RPg student (2026 Fall) |  LLMs  |                       |                      |
@@ -38,16 +38,16 @@ Follow us on: 🐹[Github](https://github.com/HKBU-LAGAS)    📕[RedNote](https
 
 ### Former Members:
 
-| Name            | Former Position | Current Placement    |
-|:----------------|:--------:|:--------------------:|
-|Mr ZHOU Yubo     | Intern (Jun, 2023 - Jul 2023)    | M.Sc. student at UMich |
-|Mr LAI Yurui     | RA (Sep, 2023 - Jun 2024)    | PhD student at HKBU  |
-|Ms LIN Xiaoyang  | RA (Nov, 2023 - Jul 2024)    | PhD student at HKBU  |
-|Mr JIANG Runhao  | Intern (Feb, 2024 - May, 2024)    | PhD student at HKBU |
-|Mr ZHANG Taiyan  | Intern (Apr, 2024 - Oct, 2024)    | PhD student at HKBU |
+| Name            | Former Position | Current Placement    | Research Output    |
+|:----------------|:--------:|:--------------------:|:--------------------:|
+|Mr ZHOU Yubo     | Intern (Jun, 2023 - Jul 2023)    | M.Sc. student at UMich | KDD'26 |
+|Mr LAI Yurui     | RA (Sep, 2023 - Jun 2024)    | PhD student at HKBU  | KDD'24 |
+|Ms LIN Xiaoyang  | RA (Nov, 2023 - Jul 2024)    | PhD student at HKBU  | KDD'24x2, KDD'25 |
+|Mr JIANG Runhao  | Intern (Feb, 2024 - May, 2024)    | PhD student at HKBU |  |
+|Mr ZHANG Taiyan  | Intern (Apr, 2024 - Oct, 2024)    | PhD student at HKBU | SIGIR'25 |
 
 <!--
-|Mr WANG Songbo   | Intern (Nov, 2024 - Nov, 2025)    |                     |
+|[Mr ZHENG Haoran](https://scholar.google.com/citations?user=W6rD3JAAAAAJ) | MPhil student (2024-2026) | PhD student at NUS |  AAAI'25, ICDE'25, KDD'26×2 | 
 -->
 
 <!--
