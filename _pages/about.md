@@ -63,7 +63,7 @@ Academic Services
 - 👨🏻‍⚖️Proceedings co-chair: MDM 2024-2025
 - 👨🏻‍⚖️Session chair: ICDE 2025, PAKDD 2026
 - 👨🏻‍💻Program committee member for the following conferences/workshops:
-  - Area Chair/Senior PC: KDD 2026, NeurIPS 2026, CIKM 2026 (short) 
+  - Area Chair/Senior PC: KDD 2026-2027, NeurIPS 2026, CIKM 2026 (short) 
   - DB: SIGMOD 2027, VLDB 2026-2027, ICDE 2024-2027
   - DM&IR: KDD 2022-2025, WWW 2022-2026, SIGIR 2025-2026, WSDM 2023-2026, CIKM 2024-2026, ECML-PKDD 2022
   - ML: NeurIPS 2025, IJCAI 2024-2026, AAAI 2026, ECAI 2025 
