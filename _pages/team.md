@@ -26,7 +26,7 @@ Follow us on: 🐹[Github](https://github.com/HKBU-LAGAS)    📕[RedNote](https
 | [Mr WU Donghao](https://scholar.google.com/citations?user=WGzwx5UAAAAJ) | B.Sc., M.Sc. CUHK-SZ | RPg student (2026 Fall) |   |                       |                      |
 | Mr LIANG Rongguang | B.Sc. DLUT | RPg student (2026 Fall) |   |                       |                      |
 | Mr MENG Jiaxing | HKBU | UG student |    |                       |                      |
-| Mr LI Weiye | SCU | UG student |    |                       |                      |
+| Ms LI Weiye | SCU | UG student |    |                       |                      |
 
 <!--
 | [Mr ZHENG Haoran](https://scholar.google.com/citations?user=W6rD3JAAAAAJ) | B.Sc. BIT, M.Sc. PolyU| RPg student (2024 Spring) | Graph Analytics |         AAAI'25, ICDE'25, KDD'26×2          |  Department RPg Research Performance Award 24🏆 |
