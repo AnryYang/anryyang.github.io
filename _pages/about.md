@@ -61,7 +61,7 @@ Selected Honors
 Academic Services
 ======
 - 👨🏻‍⚖️Proceedings co-chair: MDM 2024-2025
-- 👨🏻‍⚖️Session chair: ICDE 2025, PAKDD 2026
+- 👨🏻‍⚖️Session chair: ICDE 2025, PAKDD 2026, KDD 2026
 - 👨🏻‍💻Program committee member for the following conferences/workshops:
   - Area Chair/Senior PC: KDD 2026-2027, NeurIPS 2026, CIKM 2026 (short) 
   - DB: SIGMOD 2027, VLDB 2026-2027, ICDE 2024-2027
