@@ -9,6 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
+LAGAS (<ins>L</ins>arge-scale d<ins>A</ins>ta al<ins>G</ins>orithms and <ins>A</ins>I <ins>S</ins>ystems) group seeks to develop efficient algorithms, models, and systems for managing, analysing, and accessing large-scale, heterogeneous data. We are looking for highly self-motivated PhD/RA/Visiting students.
+
 Follow us on: 🐹[Github](https://github.com/HKBU-LAGAS)    📕[RedNote](https://www.xiaohongshu.com/user/profile/5d837d2100000000010018e1)    🕊️[X](https://x.com/renchiyang)
 
 ## Team Members
