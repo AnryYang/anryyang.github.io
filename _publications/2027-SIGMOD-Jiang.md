@@ -10,6 +10,6 @@ featured: false
 venue: "Proceedings of the International Conference on Management of Data"
 venueabbr: "SIGMOD"
 acm: ""
-arxiv: ""
-github: ""
+arxiv: "https://arxiv.org/abs/2609.16850"
+github: "https://github.com/HKBU-LAGAS/K-ASC"
 ---
