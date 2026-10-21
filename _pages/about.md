@@ -79,7 +79,7 @@ Academic Services
   - DB: SIGMOD 2027, VLDB 2026-2027, ICDE 2024-2027
   - DM&IR: KDD 2022-2025, WWW 2022-2026, SIGIR 2025-2026, WSDM 2023-2027, CIKM 2024-2026, ECML-PKDD 2022
   - ML: NeurIPS 2025, IJCAI 2024-2026, AAAI 2026-2027, ECAI 2025 
-- 👨🏻‍💻Invited reviewer for the following journals: TKDE, VLDBJ, TKDD.
+- 👨🏻‍💻Invited reviewer for the following journals: VLDBJ, TKDE, TOIS, TKDD.
 <!-- - Subreviewer or External reviewer for VLDB 2023, CIKM 2022, TheWebConf 2021, ICDM 2021, ICDE 2020, VLDB 2020, KDD 2019, IJCAI 2019, CIKM 2019. -->
 
 <!-- Invited Talks -->
