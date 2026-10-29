@@ -124,7 +124,7 @@
         <li><a href="{{ author.dblp }}"><i class="ai ai-dblp-square ai-fw"></i> DBLP</a></li>
       {% endif %}
       {% if author.tidbit %}
-        <li><a href="{{ author.tidbit }}"><i class="fa fa-tree"></i> Tidbit</a></li>
+        <li><a href="{% unless author.tidbit contains '://' %}{{ base_path }}{% endunless %}{{ author.tidbit }}"><i class="fa fa-tree" aria-hidden="true"></i> Tidbit</a></li>
       {% endif %}
       {% if author.cv %}
         <li><a href="{{ author.cv }}"><i class="fa fa-id-badge"></i> CV</a></li>

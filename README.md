@@ -45,6 +45,7 @@ winget install --id RubyInstallerTeam.RubyWithDevKit.3.3 --exact --scope user --
 | 首页正文 | `_pages/about.md` |
 | 其他页面 | `_pages/` |
 | 团队成员资料 | `_data/team.yml`（现任及离组成员；页面模板为 `_pages/team.md`） |
+| 学术师承树 | `_data/genealogy.yml`（主干）、`_data/genealogy_branches.yml`（高校任职的博士校友分支；页面为 `_pages/academic-roots.md`；头像为 `images/genealogy/`） |
 | 论文资料与资源链接 | `_publications/`（页面为 `_pages/publications.md`，条目模板为 `_includes/archive-single.html`） |
 | 数据集表格与下载链接 | `_pages/datasets.md` |
 | 大学、学会标识 | `images/logos/`；原图来源记录在 `_data/branding.yml` |
@@ -68,6 +69,14 @@ winget install --id RubyInstallerTeam.RubyWithDevKit.3.3 --exact --scope user --
 
 图标沿用项目自带的 Font Awesome。HKBU、SIGMOD、SIGKDD 和 VLDB 标识以原图存放于本地，
 不依赖外部图片服务器；对应官网及原图 URL 见 `_data/branding.yml`。
+
+Tidbit 的师承树按导师到学生的顺序显示六代人物，学校和年份为博士学位信息。
+头像来源和原图地址记录在 `_data/genealogy.yml`，页面底部可展开查看署名与来源。
+旁支按五位主干导师分组，包含已核实的现任、荣休、曾任高校教职与纪念人物，职称按来源明确标注。
+博士指导关系、任职和头像的证据链接及核查日期保存在 `_data/genealogy_branches.yml`；每组可折叠。
+分支卡片中的学校为任职机构，不是授予博士学位的学校。只纳入能核实的直接博士学生，不将硕士、博士后或合作者当作博士学生。
+无法可靠核实头像的人物使用姓名缩写，不借用同名学者的照片。新分支照片使用延迟加载。
+构建后运行 `bundle exec ruby _tests/genealogy_test.rb` 核对人物、学校、年份、链接和头像。
 
 本地启动同时加载 `_config.yml` 和 `_config.dev.yml`，使用本地网址并关闭访问统计。
 GitHub Pages 继续使用 `_config.yml`；本地预览无需提交或推送，线上网站不会因本地修改而自动更新。

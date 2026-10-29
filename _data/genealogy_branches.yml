@@ -1,0 +1,294 @@
+---
+verified_on: '2026-10-29'
+scope: Direct doctoral alumni of the five mentors in the original lineage. Faculty
+  ranks, emeritus appointments, former positions and memorial status are labelled
+  explicitly. This is a source-backed selection, not a complete worldwide genealogy.
+groups:
+- advisor: Michael Ralph Stonebraker
+  doctoral_source: https://www2.eecs.berkeley.edu/Pubs/Dissertations/Faculty/stonebraker.html
+  alumni:
+  - id: michael-carey
+    name: Michael J. Carey
+    position: Distinguished Professor Emeritus
+    university: University of California, Irvine
+    profile: https://ics.uci.edu/~mjcarey/
+    faculty_source: https://ics.uci.edu/~mjcarey/MJCarey_Professional_Experience.html
+    photo: "/images/genealogy/michael-carey.jpg"
+    photo_original: https://ics.uci.edu/~mjcarey/images/carey4.jpg
+    photo_source: https://ics.uci.edu/~mjcarey/
+    photo_credit: University of California, Irvine
+  - id: margo-seltzer
+    name: Margo Seltzer
+    position: Professor
+    university: University of British Columbia
+    profile: https://www.cs.ubc.ca/people/margo-seltzer
+    faculty_source: https://www.cs.ubc.ca/people/margo-seltzer
+    photo: "/images/genealogy/margo-seltzer.png"
+    photo_original: https://www.cs.ubc.ca/sites/default/files/styles/profile_page/public/people/Margo%20Seltzer%20cropped.png?itok=LSRdXGiQ
+    photo_source: https://www.cs.ubc.ca/people/margo-seltzer
+    photo_credit: University of British Columbia
+  - id: sunita-sarawagi
+    name: Sunita Sarawagi
+    position: Professor
+    university: IIT Bombay
+    profile: https://www.cse.iitb.ac.in/~sunita/
+    faculty_source: https://www.cse.iitb.ac.in/~sunita/
+    photo: "/images/genealogy/sunita-sarawagi.png"
+    photo_original: https://www.cse.iitb.ac.in/~sunita/mugshot2018.png
+    photo_source: https://www.cse.iitb.ac.in/~sunita/
+    photo_credit: IIT Bombay
+  - id: leilani-battle
+    name: Leilani Battle
+    position: Associate Professor
+    university: University of Washington
+    profile: https://homes.cs.washington.edu/~leibatt/
+    faculty_source: https://homes.cs.washington.edu/~leibatt/
+    photo: "/images/genealogy/leilani-battle.jpg"
+    photo_original: https://homes.cs.washington.edu/~leibatt/static/img/leilani_pp2.jpg
+    photo_source: https://homes.cs.washington.edu/~leibatt/
+    photo_credit: University of Washington
+    doctoral_source: https://homes.cs.washington.edu/~leibatt/experience.html
+  - id: clifford-lynch
+    name: Clifford Lynch
+    position: Adjunct Professor · In memoriam
+    university: University of California, Berkeley
+    profile: https://www.ischool.berkeley.edu/news/2025/memory-clifford-lynch
+    faculty_source: https://www.ischool.berkeley.edu/news/2025/memory-clifford-lynch
+    photo: "/images/genealogy/clifford-lynch.webp"
+    photo_original: https://www.ischool.berkeley.edu/sites/default/files/styles/inline/public/2025-04/clifford-lynch-cni-image.jpeg?itok=FrBqeBfI
+    photo_source: https://www.ischool.berkeley.edu/news/2025/memory-clifford-lynch
+    photo_credit: Cecilia Preston / UC Berkeley School of Information
+  - id: eric-hanson
+    name: Eric N. Hanson
+    position: Former Associate Professor
+    university: University of Florida
+    profile: https://www.singlestore.com/blog/author/eric-hanson/
+    faculty_source: https://cs.purdue.edu/homes/csjgwang/pubs/VLDB2024_Panel.pdf
+    photo: "/images/genealogy/eric-hanson.webp"
+    photo_original: https://cdn.sanity.io/images/h3bp8c98/production/d557017899e63f51a5173756f5f0f442a929ccf2-90x90.png?w=100&fit=max&auto=format
+    photo_source: https://www.singlestore.com/blog/author/eric-hanson/
+    photo_credit: SingleStore
+    status: former
+  - id: dale-skeen
+    name: Dale Skeen
+    position: Former faculty member
+    university: Cornell University; UC Berkeley
+    profile: https://futurenetworld.net/profile/dale-skeen/
+    faculty_source: https://futurenetworld.net/profile/dale-skeen/
+    photo: "/images/genealogy/dale-skeen.png"
+    photo_original: https://futurenetworld.net/wp-content/uploads/2025/02/Remove-background-project-30-modified-e1739823781553.png
+    photo_source: https://futurenetworld.net/profile/dale-skeen/
+    photo_credit: FutureNet World / Dale Skeen
+    status: former
+- advisor: Timos Sellis
+  doctoral_source: https://advancedstudies.cyu.fr/medias/fichier/sellis-cv_1657972647832-pdf?ID_FICHE=2228&INLINE=FALSE
+  alumni:
+  - id: kyuseok-shim
+    name: Kyuseok Shim
+    position: Professor
+    university: Seoul National University
+    profile: https://kdd.snu.ac.kr/~shim/
+    faculty_source: https://kdd.snu.ac.kr/~shim/
+    photo: "/images/genealogy/kyuseok-shim.jpg"
+    photo_original: https://kdd.snu.ac.kr/~shim/index_files/KyuseokShim.jpg
+    photo_source: https://kdd.snu.ac.kr/~shim/
+    photo_credit: Seoul National University
+  - id: manolis-koubarakis
+    name: Manolis Koubarakis
+    position: Professor
+    university: National and Kapodistrian University of Athens
+    profile: https://cgi.di.uoa.gr/~koubarak/
+    faculty_source: https://cgi.di.uoa.gr/~koubarak/
+    photo: "/images/genealogy/manolis-koubarakis.jpg"
+    photo_original: https://cgi.di.uoa.gr/~koubarak/assets/img/koubarakis.jpg
+    photo_source: https://cgi.di.uoa.gr/~koubarak/
+    photo_credit: National and Kapodistrian University of Athens
+  - id: yannis-theodoridis
+    name: Yannis Theodoridis
+    position: Professor
+    university: University of Piraeus
+    profile: https://www.unipi.gr/en/ytheod-en/
+    faculty_source: https://www.unipi.gr/en/ytheod-en/
+    photo: "/images/genealogy/yannis-theodoridis.jpg"
+    photo_original: https://www.unipi.gr/wp-content/uploads/elementor/thumbs/theodoridis_thumb-qin7lqt5hvzmcsis8afpwwtxbrthshz1l4v7468y5k.jpg
+    photo_source: https://www.unipi.gr/en/ytheod-en/
+    photo_credit: University of Piraeus
+  - id: emmanuel-stefanakis
+    name: Emmanuel Stefanakis
+    position: Professor
+    university: University of Calgary
+    profile: https://profiles.ucalgary.ca/emmanuel-stefanakis
+    faculty_source: https://profiles.ucalgary.ca/emmanuel-stefanakis
+    photo: "/images/genealogy/emmanuel-stefanakis.jpg"
+    photo_original: https://profiles.ucalgary.ca/sites/default/files/styles/ucws_profile_picture/public/2022-01/photo.jpg?itok=mDKgDFXU
+    photo_source: https://profiles.ucalgary.ca/emmanuel-stefanakis
+    photo_credit: University of Calgary
+  - id: spiros-skiadopoulos
+    name: Spiros Skiadopoulos
+    position: Professor
+    university: University of the Peloponnese
+    profile: https://users.uop.gr/users/spiros
+    faculty_source: https://users.uop.gr/users/spiros
+    photo: "/images/genealogy/spiros-skiadopoulos.jpg"
+    photo_original: https://users.uop.gr/~spiros/images/spiros@TKDE.jpg
+    photo_source: https://users.uop.gr/users/spiros
+    photo_credit: University of the Peloponnese
+    note: Co-advised by Manolis Koubarakis.
+    doctoral_source: https://users.uop.gr/users/spiros
+  - id: verena-kantere
+    name: Vasiliki (Verena) Kantere
+    position: Professor
+    university: University of Ottawa
+    profile: https://www.uottawa.ca/faculty-engineering/school-electrical-engineering-computer-science/directory/vasiliki-kantere
+    faculty_source: https://www.uottawa.ca/faculty-engineering/school-electrical-engineering-computer-science/directory/vasiliki-kantere
+    photo: "/images/genealogy/verena-kantere.jpg"
+    photo_original: https://www.uottawa.ca/faculty-engineering/sites/g/files/bhrskd396/files/2024-01/vasiliki-kantere.jpg
+    photo_source: https://www.uottawa.ca/faculty-engineering/school-electrical-engineering-computer-science/directory/vasiliki-kantere
+    photo_credit: University of Ottawa
+  - id: dimitris-sacharidis
+    name: Dimitris Sacharidis
+    position: Faculty, Data Science & Engineering
+    university: Université libre de Bruxelles
+    profile: https://dsachar.net/
+    faculty_source: https://dsachar.net/
+    photo: "/images/genealogy/dimitris-sacharidis.jpg"
+    photo_original: https://dsachar.net/authors/dimitris/avatar_hu6112787379308295052.jpg
+    photo_source: https://dsachar.net/
+    photo_credit: Universite libre de Bruxelles
+    verification_note: Homepage heading says Professor; biography says Assistant Professor.
+      Faculty affiliation is confirmed; rank is shown conservatively.
+- advisor: Dimitris Papadias
+  doctoral_source: https://www.cse.ust.hk/faculty/dimitris/
+  alumni:
+  - id: nikos-mamoulis
+    name: Nikos Mamoulis
+    position: Professor
+    university: University of Ioannina
+    profile: https://www.cs.uoi.gr/~nikos/indexb.html
+    faculty_source: https://www.cs.uoi.gr/~nikos/indexb.html
+    photo: "/images/genealogy/nikos-mamoulis.jpg"
+    photo_original: https://www.cse.uoi.gr/wp-content/uploads/2016/04/SG0_0328-e1541766288528.jpg
+    photo_source: https://www.cse.uoi.gr/teams/nikos-mamoulis/?lang=en
+    photo_credit: University of Ioannina
+  - id: panos-kalnis
+    name: Panos Kalnis
+    position: Professor
+    university: KAUST
+    profile: https://www.kaust.edu.sa/en/study/faculty/panagiotis-kalnis
+    faculty_source: https://www.kaust.edu.sa/en/study/faculty/panagiotis-kalnis
+    photo: "/images/genealogy/panos-kalnis.jpg"
+    photo_original: https://www.kaust.edu.sa/images/kaustlibraries/publishingimages/study/faculty-images/cemse/panagiotis-kalnis.jpg?sfvrsn=2d8c8b9_1
+    photo_source: https://www.kaust.edu.sa/en/study/faculty/panagiotis-kalnis
+    photo_credit: KAUST
+  - id: kyriakos-mouratidis
+    name: Kyriakos Mouratidis
+    position: Professor
+    university: Singapore Management University
+    profile: https://computing.smu.edu.sg/faculty/profile/606/kyriakos-mouratidis
+    faculty_source: https://computing.smu.edu.sg/faculty/profile/606/kyriakos-mouratidis
+    photo: "/images/genealogy/kyriakos-mouratidis.jpg"
+    photo_original: http://www.mysmu.edu/faculty/kyriakos/default_files/image002.jpg
+    photo_source: http://www.mysmu.edu/faculty/kyriakos/
+    photo_credit: Singapore Management University
+  - id: yin-yang
+    name: Yin (David) Yang
+    position: Professor
+    university: Hamad Bin Khalifa University
+    profile: https://www.hbku.edu.qa/en/staff/david-yin-yang
+    faculty_source: https://www.hbku.edu.qa/en/staff/david-yin-yang
+    photo: "/images/genealogy/yin-yang.webp"
+    photo_original: https://www.hbku.edu.qa/sites/default/files/staff/3-_david_yin_yang_1.jpg
+    photo_source: https://www.hbku.edu.qa/en/staff/david-yin-yang
+    photo_credit: Hamad Bin Khalifa University
+    verification_note: Current profile heading says Professor; older biography still
+      says Associate Professor.
+  - id: alexander-markowetz
+    name: Alexander Markowetz
+    position: Former Assistant Professor
+    university: University of Bonn
+    profile: https://www.markowetz.de/
+    faculty_source: https://www.cse.ust.hk/faculty/dimitris/
+    photo: "/images/genealogy/alexander-markowetz.webp"
+    photo_original: https://www.markowetz.de/_next/image?url=%2Fportrait.jpg&w=3840&q=75
+    photo_source: https://www.markowetz.de/
+    photo_credit: Alexander Markowetz
+    status: former
+- advisor: Yufei Tao
+  doctoral_source: https://www.cse.cuhk.edu.hk/~taoyf/
+  alumni:
+  - id: shangqi-lu
+    name: Shangqi Lu
+    position: Assistant Professor
+    university: HKUST (Guangzhou)
+    profile: https://shangqilu.github.io/
+    faculty_source: https://shangqilu.github.io/
+    photo: "/images/genealogy/shangqi-lu.jpg"
+    photo_original: https://hrapi.hkust-gz.edu.cn/photo/img?key=00011A1000000001ROFP
+    photo_source: https://facultyprofiles.hkust-gz.edu.cn/faculty-personal-page?id=451
+    photo_credit: HKUST (Guangzhou)
+  - id: junhao-gan
+    name: Junhao Gan
+    position: Senior Lecturer
+    university: University of Melbourne
+    profile: https://sites.google.com/site/junhogan/
+    faculty_source: https://sites.google.com/site/junhogan/
+    photo: "/images/genealogy/junhao-gan.jpg"
+    photo_original: https://pictures.staff.unimelb.edu.au/fae/index_eis.php?cid=86cElUCUXh1eqzxTfFOKtKpSvwaZHw5vAUEDXLW1gfM%3D&h=zm79rwhp43Yq%2BZui%2FP5Q8DVXZWZs2WjpZtkZhK5nh6w%3D
+    photo_source: https://findanexpert.unimelb.edu.au/profile/831627-junhao-gan
+    photo_credit: University of Melbourne
+- advisor: Xiaokui Xiao
+  doctoral_source: https://www.comp.nus.edu.sg/~xiaoxk/group.html
+  alumni:
+  - id: tianyuan-jin
+    name: Tianyuan Jin
+    position: Assistant Professor
+    university: HKUST (Guangzhou)
+    profile: https://tianyuanjin.github.io/
+    faculty_source: https://tianyuanjin.github.io/
+    photo: "/images/genealogy/tianyuan-jin.jpg"
+    photo_original: https://tianyuanjin.github.io/tianyuan_photo.jpg
+    photo_source: https://tianyuanjin.github.io/
+    photo_credit: HKUST (Guangzhou)
+  - id: xinjian-luo
+    name: Xinjian Luo
+    position: Associate Professor
+    university: Shanghai Jiao Tong University
+    profile: https://xinjianluo.github.io/
+    faculty_source: https://xinjianluo.github.io/
+    photo: "/images/genealogy/xinjian-luo.jpg"
+    photo_original: https://xinjianluo.github.io/xjphoto_small.jpg
+    photo_source: https://xinjianluo.github.io/
+    photo_credit: Shanghai Jiao Tong University
+  - id: keke-huang
+    name: Keke Huang
+    position: Professor
+    university: Huazhong University of Science and Technology
+    profile: https://kkhuang81.github.io/
+    faculty_source: https://kkhuang81.github.io/
+    photo: "/images/genealogy/keke-huang.jpg"
+    photo_original: https://kkhuang81.github.io/assets/profile.jpg
+    photo_source: https://kkhuang81.github.io/
+    photo_credit: Huazhong University of Science and Technology
+    note: Co-advised by Aixin Sun.
+  - id: sibo-wang
+    name: Sibo Wang
+    position: Associate Professor
+    university: Chinese University of Hong Kong
+    profile: https://www1.se.cuhk.edu.hk/~swang/
+    faculty_source: https://www1.se.cuhk.edu.hk/~swang/
+    photo: "/images/genealogy/sibo-wang.jpg"
+    photo_original: https://www1.se.cuhk.edu.hk/~swang/image.jpg
+    photo_source: https://www1.se.cuhk.edu.hk/~swang/
+    photo_credit: Chinese University of Hong Kong
+exclusions:
+- name: Marti Hearst
+  reason: Stonebraker supervised her MS; her PhD advisor was Robert Wilensky.
+  source: https://people.ischool.berkeley.edu/~hearst/vitae.pdf
+- name: Daniel Abadi
+  reason: A collaborator in the MIT database group; no primary evidence of a Stonebraker
+    doctoral-advisor relationship was established, so no edge is added.
+  source: https://www.cs.umd.edu/~abadi/
+- name: Xiaokui Xiao postdoctoral alumni
+  reason: Postdoctoral supervision is not doctoral supervision. Only entries explicitly
+    listed as PhD graduates are included.
+  source: https://www.comp.nus.edu.sg/~xiaoxk/group.html
