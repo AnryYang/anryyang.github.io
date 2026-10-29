@@ -1,0 +1,23 @@
+institutions:
+  Hong Kong Baptist University:
+    image: /images/logos/hkbu.svg
+    website: https://www.hkbu.edu.hk/
+    source: https://www.hkbu.edu.hk/content/dam/hongkongbaptistuniversity/logo/hkbu/20210106_newLogo.svg
+
+venues:
+  SIGMOD:
+    image: /images/logos/sigmod.png
+    website: https://sigmod.org/
+    source: https://sigmod.org/wp-content/uploads/2016/09/image_preview5.png
+  KDD:
+    image: /images/logos/sigkdd.png
+    website: https://www.kdd.org/
+    source: https://sigmod.org/wp-content/uploads/2023/06/kdd.png
+  PVLDB:
+    image: /images/logos/vldb.gif
+    website: https://vldb.org/
+    source: https://www.vldb.org/images/logo.gif
+  VLDBJ:
+    image: /images/logos/vldb.gif
+    website: https://vldb.org/
+    source: https://www.vldb.org/images/logo.gif

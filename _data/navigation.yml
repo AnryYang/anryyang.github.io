@@ -4,6 +4,7 @@ main:
   #  url: /experiences/
   - title: "Publications"
     url: /publications/ 
+    icon: fa-newspaper
 
   # - title: "Teaching"
   #   url: /teaching/    
@@ -13,9 +14,11 @@ main:
 
   - title: "Team"
     url: /team/
+    icon: fa-users
 
   - title: "Datasets"
     url: /datasets/
+    icon: fa-database
   
 #   - title: "Talks"
 #     url: /talks/   
@@ -28,6 +31,7 @@ main:
 
   - title: "Miscellaneous"
     url: /misc/
+    icon: fa-book-open
 
   # - title: "Visitors"
   #  url: /visitors/

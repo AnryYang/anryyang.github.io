@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: ""
+title: "Renchi Yang"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,22 +8,34 @@ redirect_from:
   - /about.html
 ---
 
-I am currently an Assistant Professor in the Department of Computer Science at Hong Kong Baptist University, and leading the [LAGAS](https://github.com/HKBU-LAGAS) group. I earned a Ph.D.👨🏻‍🎓 in computer science from Nanyang Technological University, followed by a postdoctoral stint at the National University of Singapore. I am a recipient of the 2021 VLDB Best Research Paper Award🏆 and the 2022 SIGMOD Research Highlight Award🏆. My research focuses on developing big data algorithms and AI systems. I am also affiliated with [Database Research Group](https://www.comp.hkbu.edu.hk/~db/) at HKBU.
+<p class="page-kicker">Data algorithms · AI systems</p>
+
+I am currently an Assistant Professor in the Department of Computer Science at Hong Kong Baptist University, and leading the [LAGAS](https://github.com/HKBU-LAGAS) group. I earned a Ph.D. in computer science from Nanyang Technological University, followed by a postdoctoral stint at the National University of Singapore. I am a recipient of the 2021 VLDB Best Research Paper Award and the 2022 SIGMOD Research Highlight Award. My research focuses on developing big data algorithms and AI systems. I am also affiliated with [Database Research Group](https://www.comp.hkbu.edu.hk/~db/) at HKBU.
 
 
 <!-- > I have two Ph.D. openings starting from 2026 Spring/Fall. See details [here](https://renchi.ac.cn/recruit/). Please send [me](mailto:renchi@hkbu.edu.hk) your CV and transcripts, if you are interested. -->
 
 
-### Research Interests
-📊Large-scale data algorithms for
-- social networks, web data, relational data, biomedical data, textual data, tabular data, multimodal data, etc.
-- data integration, data management, information retrieval, data analytics and mining, etc.
-
-🤖Large-scale AI systems:
-- Personalized AI systems: LLM-based/generative recommendation, conversational recommendation, persoanlized assistant, etc.
-- Agent systems: data agents, search agents, etc.
-- Foundation models: relational foundation models, graph foundation models, model merging, etc.
-- Efficient LLMs: inference speedup, on-device LLMs, etc.
+## Research Interests
+<div class="research-interests">
+  <section class="research-interest">
+    <h3><i class="fas fa-project-diagram" aria-hidden="true"></i> Large-scale data algorithms</h3>
+    <ul>
+      <li>social networks, web data, relational data, biomedical data, textual data, tabular data, multimodal data, etc.</li>
+      <li>data integration, data management, information retrieval, data analytics and mining, etc.</li>
+      <li>search and ranking, clustering, anomaly detection, link prediction, visualization, etc.</li>
+    </ul>
+  </section>
+  <section class="research-interest">
+    <h3><i class="fas fa-brain" aria-hidden="true"></i> Large-scale AI systems</h3>
+    <ul>
+      <li><strong>Personalized AI systems:</strong> LLM-based/generative recommendation, conversational recommendation, personalized assistant, etc.</li>
+      <li><strong>Agent systems:</strong> data agents, search agents, etc.</li>
+      <li><strong>Foundation models:</strong> relational foundation models, graph foundation models, model merging, etc.</li>
+      <li><strong>Efficient LLMs:</strong> inference speedup, on-device LLMs, etc.</li>
+    </ul>
+  </section>
+</div>
 
 <!--
 - 🗃️Databases and data management: graph databases, vector databases
@@ -38,12 +50,14 @@ I am currently an Assistant Professor in the Department of Computer Science at H
 
 <!-- I welcome inquiries on potential collaborations on interesting topics. Note that, in the papers, every coauthor needs to make substantial contributions to qualify him/her for authorship, and the order of authors in the byline reflects the magnitude of contribution. -->
 
+<!--
 News
-======
-- May 16, 2026: 2 papers were accepted to KDD 2026🎉🎉
-- Apr 2, 2026: 1 paper was accepted to SIGIR 2026🎉
-- Nov 23, 2025: 3 papers were accepted to KDD 2026🎉🎉🎉
-- Aug 23, 2025: 1 paper was accepted to SIGMOD 2026🎉
+------
+- May 16, 2026: 2 papers were accepted to KDD 2026
+- Apr 2, 2026: 1 paper was accepted to SIGIR 2026
+- Nov 23, 2025: 3 papers were accepted to KDD 2026
+- Aug 23, 2025: 1 paper was accepted to SIGMOD 2026
+-->
 
 <!-- 
 - Aug 5, 2025: 3 papers were accepted to CIKM 2025🎉🎉🎉
@@ -62,24 +76,24 @@ News
 - Aug 09, 2021: Our paper titled "Scaling Attributed Network Embedding to Massive Graphs" was selected as the best research paper in VLDB 2021 -->
 
 Selected Honors
-======
-- 🏆[Honorable mention as one of the best PC members in WWW 2022](https://www2022.thewebconf.org/awards/)
-- 🏆[Best Paper Award Nominee in WWW 2022](https://www2022.thewebconf.org/accepted-papers/)
-- 🏆[2022 ACM SIGMOD Research Highlight Award](https://sigmodrecord.org/issues/sigmod-record-march-2022/)
-- 🏆[Best Research Paper Award in VLDB 2021](https://vldb.org/2021/?conference-awards)
+------
+- [Honorable mention as one of the best PC members in WWW 2022](https://www2022.thewebconf.org/awards/)
+- [Best Paper Award Nominee in WWW 2022](https://www2022.thewebconf.org/accepted-papers/)
+- [2022 ACM SIGMOD Research Highlight Award](https://sigmodrecord.org/issues/sigmod-record-march-2022/)
+- [Best Research Paper Award in VLDB 2021](https://vldb.org/2021/?conference-awards)
 <!-- - [ACM SIGMOD 2019 Travel Award](https://sigmod2019.org/grants) -->
 <!-- - [10th Prize of KDD Cup 2020 AutoGraph](https://www.4paradigm.com/competition/kddcup2020) -->
 
 Academic Services
-======
-- 👨🏻‍⚖️Proceedings co-chair: MDM 2024-2025
-- 👨🏻‍⚖️Session chair: ICDE 2025, PAKDD 2026, KDD 2026
-- 👨🏻‍💻Program committee member for the following conferences/workshops:
+------
+- Proceedings co-chair: MDM 2024-2025
+- Session chair: ICDE 2025, PAKDD 2026, KDD 2026
+- Program committee member for the following conferences/workshops:
   - Area Chair/Senior PC: KDD 2026-2027, NeurIPS 2026, CIKM 2026 (short) 
   - DB: SIGMOD 2027-2028, VLDB 2026-2027, ICDE 2024-2027
   - DM&IR: KDD 2022-2025, WWW 2022-2026, SIGIR 2025-2026, WSDM 2023-2027, CIKM 2024-2026, ECML-PKDD 2022
   - ML: NeurIPS 2025, IJCAI 2024-2026, AAAI 2026-2027, ECAI 2025 
-- 👨🏻‍💻Invited reviewer for the following journals: VLDBJ, TKDE, TOIS, TKDD.
+- Invited reviewer for the following journals: VLDBJ, TKDE, TOIS, TKDD.
 <!-- - Subreviewer or External reviewer for VLDB 2023, CIKM 2022, TheWebConf 2021, ICDM 2021, ICDE 2020, VLDB 2020, KDD 2019, IJCAI 2019, CIKM 2019. -->
 
 <!-- Invited Talks -->
@@ -90,12 +104,12 @@ Academic Services
 <!-- - [Scaling Attributed Network Embedding to Massive Graphs](). Renmin University of China, August 30, 2021. -->
 
 Teaching
-======
-- 👨🏻‍🏫HKBU COMP4135: [Personalized AI and Recommender Systems](https://www.comp.hkbu.edu.hk/v1/file/course/COMP4135.pdf), Spring 2027
-- 👨🏻‍🏫HKBU COMP7240: [Personalized AI and Recommender Systems](https://www.comp.hkbu.edu.hk/v1/file/course/COMP7240.pdf), Spring 2027
-- 👨🏻‍🏫HKBU COMP4035: [Database Systems Implementation](https://www.comp.hkbu.edu.hk/v1/file/course/COMP4035.pdf), Fall 2023, 2024, 2025, 2026
-- 👨🏻‍🏫HKBU COMP7640: [Database Systems & Administration](https://www.comp.hkbu.edu.hk/v1/file/course/COMP7640.pdf), Spring 2023, 2024, 2025, 2026
-- 👨🏻‍🏫HKBU COMP7930: [Big Data Analytics](https://www.comp.hkbu.edu.hk/v1/file/course/COMP7930.pdf), Spring 2023, 2024, 2025, 2026
+------
+- HKBU COMP4135: [Personalized AI and Recommender Systems](https://www.comp.hkbu.edu.hk/v1/file/course/COMP4135.pdf), Spring 2027
+- HKBU COMP7240: [Personalized AI and Recommender Systems](https://www.comp.hkbu.edu.hk/v1/file/course/COMP7240.pdf), Spring 2027
+- HKBU COMP4035: [Database Systems Implementation](https://www.comp.hkbu.edu.hk/v1/file/course/COMP4035.pdf), Fall 2023, 2024, 2025, 2026
+- HKBU COMP7640: [Database Systems & Administration](https://www.comp.hkbu.edu.hk/v1/file/course/COMP7640.pdf), Spring 2023, 2024, 2025, 2026
+- HKBU COMP7930: [Big Data Analytics](https://www.comp.hkbu.edu.hk/v1/file/course/COMP7930.pdf), Spring 2023, 2024, 2025, 2026
 
 
 <!-- Doctoral Thesis

@@ -26,7 +26,12 @@
         <li><i class="fa fa-fw fa-map-marker-alt" aria-hidden="true"></i> {{ author.location }}</li>
       {% endif %}
       {% if author.employer %}
+        {% assign institution_brand = site.data.branding.institutions[author.employer] %}
+        {% if institution_brand %}
+        <li class="author-institution"><a href="{{ institution_brand.website | escape }}"><img src="{{ base_path }}{{ institution_brand.image }}" alt="{{ author.employer | escape }}" width="176" height="32"></a></li>
+        {% else %}
         <li><i class="fa fa-fw fa-map-marker-alt" aria-hidden="true"></i> {{ author.employer }}</li>
+        {% endif %}
       {% endif %}
       {% if author.uri %}
         <li><a href="{{ author.uri }}"><i class="fas fa-fw fa-link" aria-hidden="true"></i> {{ site.data.ui-text[site.locale].website_label | default: "Website" }}</a></li>
@@ -42,6 +47,12 @@
       {% endif %}
       {% if author.twitter %}
         <li><a href="https://twitter.com/{{ author.twitter }}"><i class="fab fa-fw fa-twitter" aria-hidden="true"></i> Twitter</a></li>
+      {% endif %}
+      {% if author.rednote %}
+        <li><a class="rednote-link" href="{{ author.rednote | escape }}"><i class="fas fa-fw fa-book-open" aria-hidden="true"></i> RedNote</a></li>
+      {% endif %}
+      {% if author.github %}
+        <li><a href="https://github.com/{{ author.github }}"><i class="fab fa-fw fa-github" aria-hidden="true"></i> GitHub</a></li>
       {% endif %}
       {% if author.facebook %}
         <li><a href="https://www.facebook.com/{{ author.facebook }}"><i class="fab fa-fw fa-facebook-square" aria-hidden="true"></i> Facebook</a></li>
@@ -63,9 +74,6 @@
       {% endif %}
       {% if author.bitbucket %}
         <li><a href="https://bitbucket.org/{{ author.bitbucket }}"><i class="fab fa-fw fa-bitbucket" aria-hidden="true"></i> Bitbucket</a></li>
-      {% endif %}
-      {% if author.github %}
-        <li><a href="https://github.com/{{ author.github }}"><i class="fab fa-fw fa-github" aria-hidden="true"></i> GitHub</a></li>
       {% endif %}
       {% if author.gitlab %}
         <li><a href="https://gitlab.com/{{ author.github }}"><i class="fab fa-fw fa-gitlab" aria-hidden="true"></i> GitLab</a></li>

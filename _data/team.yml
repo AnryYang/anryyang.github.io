@@ -1,0 +1,85 @@
+current:
+  - name: Mr WANG Hongtao
+    url: https://scholar.google.com/citations?user=fFtLwrAAAAAJ
+    background: B.Sc. NKU
+    role: RPg student (2024 Spring)
+    research: Text Analytics
+    publications: SIGIR'25, CIKM'25, WSDM'26, KDD'26
+    achievement: Department RPg Research Performance Award 25🏆
+  - name: Mr LAI Yurui
+    url: https://scholar.google.com/citations?user=LKGkoLcAAAAJ
+    background: B.Sc., M.Sc. ShanghaiTech Univ.
+    role: RPg student (2024 Fall)
+    research: Graph Analytics
+    publications: KDD'24, KDD'25, KDD'26
+    achievement: Department RPg Research Performance Award 25🏆
+  - name: Ms LIN Xiaoyang
+    url: https://scholar.google.com/citations?user=2FoMqMwAAAAJ
+    background: B.Sc. HUNNU & Xidian Univ.
+    role: RPg student (2024 Fall)
+    research: Graph Analytics
+    publications: KDD'25, SIGMOD'26
+    achievement: Department RPg Research Performance Award 25🏆
+  - name: Mr JIANG Runhao
+    url: https://jrunh.github.io
+    background: B.Sc. ZJNU
+    role: RPg student (2024 Fall)
+    research: Recommender Systems
+    publications: CIKM'25, SIGIR'26, SIGMOD'27
+  - name: Mr ZHANG Taiyan
+    url: https://scholar.google.com/citations?user=d6-KlDEAAAAJ
+    background: B.Eng. BUPT, M.Sc. ShanghaiTech Univ.
+    role: RPg student (2025 Fall)
+    research: Recommender Systems
+    publications: SIGIR'25
+  - name: Mr ZHOU Yixi
+    url: https://xanderzhou2022.github.io
+    background: B.Sc. ShanghaiTech Univ.
+    role: RPg student (2026 Fall)
+    research: Data Agents
+  - name: Mr WU Donghao
+    url: https://scholar.google.com/citations?user=WGzwx5UAAAAJ
+    background: B.Sc., M.Sc. CUHK-SZ
+    role: RPg student (2026 Fall)
+    research: LLMs
+  - name: Mr LIANG Rongguang
+    background: B.Sc. DLUT
+    role: RPg student (2026 Fall)
+    research: LLMs
+  - name: Mr MENG Jiaxing
+    background: HKBU
+    role: UG student (Intern)
+    research: Biomedical Data Analytics
+  - name: Ms LI Weiye
+    background: SCU
+    role: UG student (Intern)
+    research: Recommender Systems
+
+former:
+  - name: Mr ZHOU Yubo
+    role: Intern (Jun, 2023 - Jul 2023)
+    placement: M.Sc. student at UMich
+    publications: KDD'26
+  - name: Mr LAI Yurui
+    role: RA (Sep, 2023 - Jun 2024)
+    placement: PhD student at HKBU
+    publications: KDD'24
+  - name: Ms LIN Xiaoyang
+    role: RA (Nov, 2023 - Jul 2024)
+    placement: PhD student at HKBU
+    publications: KDD'24x2, KDD'25
+  - name: Mr JIANG Runhao
+    role: Intern (Feb, 2024 - May, 2024)
+    placement: PhD student at HKBU
+  - name: Mr ZHANG Taiyan
+    role: Intern (Apr, 2024 - Oct, 2024)
+    placement: PhD student at HKBU
+    publications: SIGIR'25
+  - name: Mr WANG Songbo
+    role: Intern (Dec, 2024 - Dec, 2025)
+    placement: PhD student at NJU
+  - name: Mr ZHENG Haoran
+    url: https://scholar.google.com/citations?user=W6rD3JAAAAAJ
+    role: MPhil student (2024-2026)
+    placement: PhD student at NUS
+    publications: AAAI'25, ICDE'25, KDD'26×2

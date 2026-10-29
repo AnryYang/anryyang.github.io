@@ -12,7 +12,7 @@
   {% assign title = post.title %}
 {% endif %}
 
-<div class="{{ include.type | default: "list" }}__item">
+<div class="{{ include.type | default: "list" }}__item{% if post.collection == 'publications' %} publication-entry{% endif %}">
   <article class="archive__item" itemscope itemtype="http://schema.org/CreativeWork">
 <!--     {% if include.type == "grid" and teaser %}
       <div class="archive__item-teaser">
@@ -46,37 +46,24 @@
     {% if post.collection == 'teaching' %}
       <p> {{ post.type }}, <i>{{ post.venue }}</i>, {{ post.date | default: "1900-01-01" | date: "%Y" }} </p>
     {% elsif post.collection == 'publications' %}
-      <p style="font-size: 16px"> <b> {{ include.idx }}. {{ title }} </b> <font color="#a51417">{{ post.flag | default: "" }}</font> <br> {{ post.authors }} <br> <i>{{ post.venue }}</i> (<b>{{ post.venueabbr }}</b>), {{ post.date | default: "1900-01-01" | date: "%Y" }} 
-      <!-- citation and icon code -->
-      <br>
-      {% if post.link %}
-        <a href="{{ post.link }}"><i class="fas fa-fw fa-link zoom" aria-hidden="true"></i></a>
-      {% endif %}
-      {% if post.pdf %}
-        <a href="{{ post.pdf }}"><i class="fas fa-fw fa-file-pdf zoom" aria-hidden="true"></i></a>
-      {% endif %}
-      {% if post.acm %}
-        <a href="{{ post.acm }}"><i class="ai fa-fw ai-acm zoom" aria-hidden="true"></i></a>
-      {% endif %}
-      {% if post.arxiv %}
-        <a href="{{ post.arxiv }}"><i class="ai fa-fw ai-arxiv zoom" aria-hidden="true"></i></a>
-      {% endif %}
-      {% if post.code %}
-        <a href="{{ post.code }}"><i class="fas fa-fw fa-code zoom" aria-hidden="true"></i></a>
-      {% endif %}
-      {% if post.github %}
-        <a href="{{ post.github }}"><i class="fab fa-fw fa-github zoom" aria-hidden="true"></i></a>
-      {% endif %}
-      {% if post.slides %}
-        <a href="{{ post.slides }}"><i class="fas fa-fw fa-file-powerpoint zoom" aria-hidden="true"></i></a>
-      {% endif %}
-      {% if post.video %}
-        <a href="{{ post.video }}"><i class="fas fa-fw fa-video zoom" aria-hidden="true"></i></a>
-      {% endif %}
-      {% if post.poster %}
-        <a href="{{ post.poster }}"><i class="fas fa-fw fa-file-image zoom" aria-hidden="true"></i></a>
-      {% endif %}
+      <h3 class="publication-title" itemprop="headline">{% if include.idx %}<span class="publication-number">{{ include.idx }}.</span>{% endif %}<span class="publication-title-text">{{ title }}</span></h3>
+      <p class="publication-authors">{{ post.authors }}</p>
+      <p class="publication-venue">
+        {% assign venue_brand = site.data.branding.venues[post.venueabbr] %}
+        {% if post.venueabbr and post.venueabbr != '' %}<span class="publication-venue-badge">{% if venue_brand %}<img class="venue-logo" src="{{ base_path }}{{ venue_brand.image }}" alt="" aria-hidden="true">{% endif %}{{ post.venueabbr | escape }}</span>{% endif %}
+        <span>{{ post.venue | escape }} · <time datetime="{{ post.date | date: '%Y-%m-%d' }}">{{ post.date | date: '%Y' }}</time></span>
       </p>
+      {% if post.flag and post.flag != '' %}<p class="publication-note">{{ post.flag | escape }}</p>{% endif %}
+      <div class="publication-actions" role="group" aria-label="Resources for {{ title | strip_html | escape }}">
+        {% assign resource_buttons = 'link:Paper,pdf:PDF,acm:Publisher,arxiv:arXiv,code:Code,github:Code,slides:Slides,video:Video,poster:Poster' | split: ',' %}
+        {% for resource_button in resource_buttons %}
+          {% assign resource_parts = resource_button | split: ':' %}
+          {% assign resource_key = resource_parts | first %}
+          {% assign resource_label = resource_parts | last %}
+          {% assign resource_url = post[resource_key] | default: '' | strip %}
+          {% if resource_url != '' and resource_url != '#' %}<a class="publication-action" href="{{ resource_url | escape }}">{{ resource_label }}</a>{% endif %}
+        {% endfor %}
+      </div>
     {% elsif post.collection == 'posts' and post.date %}
       <p class="page__date"><strong><i class="fa fa-fw fa-calendar" aria-hidden="true"></i> {{ site.data.ui-text[site.locale].date_label | default: "Published:" }}</strong> <time datetime="{{ post.date | default: "1900-01-01" | date_to_xmlschema }}">{{ post.date | default: "1900-01-01" | date: "%B %d, %Y" }}</time></p>
     {% endif %}

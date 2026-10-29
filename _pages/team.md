@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: ""
+title: "Team"
 permalink: /team/
 author_profile: true
 redirect_from:
@@ -9,26 +9,32 @@ redirect_from:
 
 {% include base_path %}
 
-LAGAS (<ins>L</ins>arge-scale d<ins>A</ins>ta al<ins>G</ins>orithms and <ins>A</ins>I <ins>S</ins>ystems) group seeks to develop efficient algorithms, models, and systems for managing, analysing, and accessing large-scale, heterogeneous data. We are looking for highly self-motivated PhD/RA/Visiting students.
+<p class="page-kicker">LAGAS · Large-scale Data Algorithms and AI Systems</p>
 
-Follow us on: 🐹[Github](https://github.com/HKBU-LAGAS)    📕[RedNote](https://www.xiaohongshu.com/user/profile/5d837d2100000000010018e1)    🕊️[X](https://x.com/renchiyang)
+Our group seeks to develop efficient algorithms, models, and systems for managing, analysing, and accessing large-scale, heterogeneous data.
 
-## Team Members
+<p class="team-links"><a href="https://github.com/HKBU-LAGAS">GitHub ↗</a><a href="https://www.xiaohongshu.com/user/profile/5d837d2100000000010018e1">RedNote ↗</a><a href="https://x.com/renchiyang">X ↗</a></p>
 
-### Current Members
+<p class="team-opportunities">We are looking for highly self-motivated PhD, research assistant, and visiting students. <a href="mailto:renchi@hkbu.edu.hk">Get in touch →</a></p>
 
-| Name         | Background       |  Category    |   Research Direction  |   1<sup>st</sup> Authored Publications  | Achievements |
-|:--------------|:-------------------------------:|:--------------:|:-----------------------|:-----------------------|:-----------------------|
-| [Mr WANG Hongtao](https://scholar.google.com/citations?user=fFtLwrAAAAAJ) | B.Sc. NKU | RPg student (2024 Spring) |  Text Analytics |          SIGIR'25, CIKM'25, WSDM'26, KDD'26            |  Department RPg Research Performance Award 25🏆                    |
-| [Mr LAI Yurui](https://scholar.google.com/citations?user=LKGkoLcAAAAJ) | B.Sc., M.Sc. ShanghaiTech Univ.| RPg student (2024 Fall) |  Graph Analytics  |        KDD'24, KDD'25, KDD'26               |    Department RPg Research Performance Award 25🏆                  |
-| [Ms LIN Xiaoyang](https://scholar.google.com/citations?user=2FoMqMwAAAAJ) | B.Sc. HUNNU & Xidian Univ.| RPg student (2024 Fall) |  Graph Analytics |        KDD'25, SIGMOD'26        |   Department RPg Research Performance Award 25🏆                   |
-| [Mr JIANG Runhao](https://jrunh.github.io) | B.Sc. ZJNU| RPg student (2024 Fall) |  Recommender Systems  |       CIKM'25, SIGIR'26, SIGMOD'27            |                      |
-| [Mr ZHANG Taiyan](https://scholar.google.com/citations?user=d6-KlDEAAAAJ) | B.Eng. BUPT, M.Sc. ShanghaiTech Univ.| RPg student (2025 Fall) |  Recommender Systems  |         SIGIR'25             |                      |
-| [Mr ZHOU Yixi](https://xanderzhou2022.github.io) | B.Sc. ShanghaiTech Univ. | RPg student (2026 Fall) |  Data Agents  |                       |                      |
-| [Mr WU Donghao](https://scholar.google.com/citations?user=WGzwx5UAAAAJ) | B.Sc., M.Sc. CUHK-SZ | RPg student (2026 Fall) | LLMs  |                       |                      |
-| Mr LIANG Rongguang | B.Sc. DLUT | RPg student (2026 Fall) | LLMs |                       |                      |
-| Mr MENG Jiaxing | HKBU | UG student (Intern) |  Biomedical Data Analytics  |                       |                      |
-| Ms LI Weiye | SCU | UG student (Intern) |  Recommender Systems  |    |                      |
+<h2 class="team-section-title">Current Members <span class="section-count">{{ site.data.team.current.size }}</span></h2>
+
+<ul class="team-members" role="list">
+{% for member in site.data.team.current %}
+  <li class="team-member">
+    <div class="member-heading">
+      <h3>{% if member.url %}<a href="{{ member.url | escape }}">{{ member.name | escape }}</a>{% else %}{{ member.name | escape }}{% endif %}</h3>
+      <span class="member-background">{{ member.background | escape }}</span>
+    </div>
+    <p class="member-role">{{ member.role | escape }}</p>
+    <div class="member-focus">
+      <p class="member-research">{{ member.research | escape }}</p>
+      {% if member.publications %}<p class="member-publications"><span>First-author publications</span>{{ member.publications | escape }}</p>{% endif %}
+    </div>
+    {% if member.achievement %}<p class="member-achievement">{{ member.achievement | remove: '🏆' | escape }}</p>{% endif %}
+  </li>
+{% endfor %}
+</ul>
 
 <!--
 | [Mr ZHENG Haoran](https://scholar.google.com/citations?user=W6rD3JAAAAAJ) | B.Sc. BIT, M.Sc. PolyU| RPg student (2024 Spring) | Graph Analytics |         AAAI'25, ICDE'25, KDD'26×2          |  Department RPg Research Performance Award 24🏆 |
@@ -36,17 +42,22 @@ Follow us on: 🐹[Github](https://github.com/HKBU-LAGAS)    📕[RedNote](https
 | Mr CHAN Chi Hin | B.Sc. HKBU | Intern |    |                       |                      |
 -->
 
-### Former Members:
+<h2 class="team-section-title">Former Members <span class="section-count">{{ site.data.team.former.size }}</span></h2>
 
-| Name            | Former Position | Current Placement    | Research Output    |
-|:----------------|:--------:|:--------------------:|:--------------------:|
-|Mr ZHOU Yubo     | Intern (Jun, 2023 - Jul 2023)    | M.Sc. student at UMich | KDD'26 |
-|Mr LAI Yurui     | RA (Sep, 2023 - Jun 2024)    | PhD student at HKBU  | KDD'24 |
-|Ms LIN Xiaoyang  | RA (Nov, 2023 - Jul 2024)    | PhD student at HKBU  | KDD'24x2, KDD'25 |
-|Mr JIANG Runhao  | Intern (Feb, 2024 - May, 2024)    | PhD student at HKBU |  |
-|Mr ZHANG Taiyan  | Intern (Apr, 2024 - Oct, 2024)    | PhD student at HKBU | SIGIR'25 |
-|Mr WANG Songbo  | Intern (Dec, 2024 - Dec, 2025)    | PhD student at NJU |  |
-|[Mr ZHENG Haoran](https://scholar.google.com/citations?user=W6rD3JAAAAAJ) | MPhil student (2024-2026) | PhD student at NUS |  AAAI'25, ICDE'25, KDD'26×2 | 
+<ul class="team-alumni" role="list">
+{% for member in site.data.team.former %}
+  <li class="team-alumnus">
+    <div>
+      <h3>{% if member.url %}<a href="{{ member.url | escape }}">{{ member.name | escape }}</a>{% else %}{{ member.name | escape }}{% endif %}</h3>
+      <p class="member-role">{{ member.role | escape }}</p>
+    </div>
+    <div>
+      <p class="member-placement">{{ member.placement | escape }}</p>
+      {% if member.publications %}<p class="member-publications">{{ member.publications | escape }}</p>{% endif %}
+    </div>
+  </li>
+{% endfor %}
+</ul>
 
 <!--
 ## Research Grants

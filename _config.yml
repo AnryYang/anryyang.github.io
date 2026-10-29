@@ -99,7 +99,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-#   github           : "AnryYang"
+  github           : "AnryYang"
   gitlab           : 
   google_plus      :
   keybase          :
@@ -113,6 +113,7 @@ author:
   steam            :
   tumblr           :
   twitter          : "renchiyang"
+  rednote          : "https://www.xiaohongshu.com/user/profile/5d837d2100000000010018e1"
   vine             :
   weibo            :
   xing             :
@@ -150,6 +151,7 @@ exclude:
   - log
   - node_modules
   - package.json
+  - serve.cmd
   - tmp
   - vendor
 keep_files:
