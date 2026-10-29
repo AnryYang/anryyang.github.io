@@ -10,6 +10,8 @@ author_profile: true
   {% if site.author.googlescholar %}<a class="publication-action scholar-link" href="{{ site.author.googlescholar | escape }}">Google Scholar ↗</a>{% endif %}
 </div>
 
+<p class="publication-ranking-note">Venue rankings: <a href="{{ site.data.venue_rankings.ccf_url }}">CCF 2026</a> / <a href="{{ site.data.venue_rankings.core_url }}">CORE (ICORE2026)</a>, checked {{ site.data.venue_rankings.verified_on }}. <span>— = not listed or not applicable; CORE covers conferences. PVLDB uses the VLDB conference ranking.</span></p>
+
 {% include base_path %}
 
 {% assign counter = 0 %}

@@ -52,6 +52,14 @@
         {% assign venue_brand = site.data.branding.venues[post.venueabbr] %}
         {% if post.venueabbr and post.venueabbr != '' %}<span class="publication-venue-badge">{% if venue_brand %}<img class="venue-logo" src="{{ base_path }}{{ venue_brand.image }}" alt="" aria-hidden="true">{% endif %}{{ post.venueabbr | escape }}</span>{% endif %}
         <span>{{ post.venue | escape }} · <time datetime="{{ post.date | date: '%Y-%m-%d' }}">{{ post.date | date: '%Y' }}</time></span>
+        {% assign ranking_key = post.venueabbr | default: post.venue %}
+        {% assign ranking = site.data.venue_rankings.venues[ranking_key] %}
+        {% if ranking %}
+        <span class="publication-rankings" aria-label="Venue rankings">
+          {% if ranking.ccf %}<a class="ranking-badge rank-{{ ranking.ccf | downcase }}" href="{{ site.data.venue_rankings.ccf_sources[ranking.ccf_source] }}" title="{{ site.data.venue_rankings.ccf_edition }} · {{ ranking.note | default: ranking_key | escape }}">CCF <b>{{ ranking.ccf }}</b></a>{% else %}<span class="ranking-badge rank-na" title="{{ ranking.ccf_note | escape }}">CCF <b>—</b></span>{% endif %}
+          {% if ranking.core %}<a class="ranking-badge rank-{{ ranking.core | downcase | replace: '*', '-star' }}" href="https://portal.core.edu.au/conf-ranks/?search={{ ranking.core_acronym | url_encode }}&amp;by=acronym&amp;source=ICORE2026" title="{{ site.data.venue_rankings.core_edition }} · {{ ranking.note | default: ranking_key | escape }}">CORE <b>{{ ranking.core }}</b></a>{% else %}<span class="ranking-badge rank-na" title="{{ ranking.core_note | escape }}">CORE <b>—</b></span>{% endif %}
+        </span>
+        {% endif %}
       </p>
       {% if post.flag and post.flag != '' %}<p class="publication-note">{{ post.flag | escape }}</p>{% endif %}
       <div class="publication-actions" role="group" aria-label="Resources for {{ title | strip_html | escape }}">

@@ -47,6 +47,7 @@ winget install --id RubyInstallerTeam.RubyWithDevKit.3.3 --exact --scope user --
 | 团队成员资料 | `_data/team.yml`（现任及离组成员；页面模板为 `_pages/team.md`） |
 | 学术师承树 | `_data/genealogy.yml`（主干）、`_data/genealogy_branches.yml`（高校任职的博士校友分支；页面为 `_pages/academic-roots.md`；头像为 `images/genealogy/`） |
 | 论文资料与资源链接 | `_publications/`（页面为 `_pages/publications.md`，条目模板为 `_includes/archive-single.html`） |
+| 会议、期刊等级 | `_data/venue_rankings.yml`（CCF 2026 / ICORE2026，含官方来源及核查日期） |
 | 数据集表格与下载链接 | `_pages/datasets.md` |
 | 大学、学会标识 | `images/logos/`；原图来源记录在 `_data/branding.yml` |
 | 顶部导航 | `_data/navigation.yml` |
@@ -62,6 +63,8 @@ winget install --id RubyInstallerTeam.RubyWithDevKit.3.3 --exact --scope user --
 论文页按年份展示条目，资源链接显示为文字按钮，空链接和 `#` 占位链接不显示。
 修改论文模板或元数据后，构建完成时运行 `bundle exec ruby _tests/publications_test.rb`，
 检查论文信息与原始资源链接是否完整保留。
+等级标签表示当前榜单的会议或期刊等级，不追溯论文发表年份的历史等级；点击标签可查官方目录。
+PVLDB 按 VLDB 会议标注，TODS、VLDBJ 不套用会议 CORE 等级；SIGMOD Record 和预印本不虚构等级。
 
 数据集表格支持表内滚动、固定表头和名称列，并提供分类跳转；获得键盘焦点后可用方向键滚动。
 引用说明可展开查看。3 个没有原始 URL 的预处理占位显示为不可用标签，所有已有下载地址保持原样。

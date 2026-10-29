@@ -1,0 +1,77 @@
+# Current venue rankings, not the historical rank in each paper's publication year.
+verified_on: '2026-10-29'
+ccf_edition: CCF 2026 (7th edition)
+core_edition: ICORE2026
+ccf_url: https://www.ccf.org.cn/Academic_Evaluation/By_category/
+core_url: https://portal.core.edu.au/conf-ranks/?source=ICORE2026
+ccf_sources:
+  database: https://www.ccf.org.cn/Academic_Evaluation/DM_CS/
+  ai: https://www.ccf.org.cn/Academic_Evaluation/AI/
+  cross: https://www.ccf.org.cn/Academic_Evaluation/Cross_Compre_Emerging/
+
+venues:
+  SIGMOD:
+    ccf: A
+    ccf_source: database
+    core: A*
+    core_acronym: SIGMOD
+  KDD:
+    ccf: A
+    ccf_source: database
+    core: A*
+    core_acronym: KDD
+  PVLDB:
+    ccf: A
+    ccf_source: database
+    core: A*
+    core_acronym: VLDB
+    note: Rankings refer to the VLDB conference, whose research proceedings are published in PVLDB.
+  TODS:
+    ccf: A
+    ccf_source: database
+    core_note: CORE / ICORE ranks conferences; this is a journal.
+  VLDBJ:
+    ccf: A
+    ccf_source: database
+    core_note: CORE / ICORE ranks conferences; The VLDB Journal is distinct from the VLDB conference.
+  WWW:
+    ccf: A
+    ccf_source: cross
+    core: A*
+    core_acronym: WWW
+  ICML:
+    ccf: A
+    ccf_source: ai
+    core: A*
+    core_acronym: ICML
+  AAAI:
+    ccf: A
+    ccf_source: ai
+    core: A*
+    core_acronym: AAAI
+  CIKM:
+    ccf: B
+    ccf_source: database
+    core: A
+    core_acronym: CIKM
+  ICDE:
+    ccf: A
+    ccf_source: database
+    core: A*
+    core_acronym: ICDE
+  SIGIR:
+    ccf: A
+    ccf_source: database
+    core: A*
+    core_acronym: SIGIR
+  WSDM:
+    ccf: B
+    ccf_source: database
+    core: A
+    core_acronym: WSDM
+  SIGMOD Record:
+    ccf_note: Not listed in the CCF 2026 catalogue; distinct from the SIGMOD conference.
+    core_note: CORE / ICORE ranks conferences; this is a magazine.
+  Preprint:
+    ccf_note: A preprint has no ranked conference or journal venue.
+    core_note: A preprint has no ranked conference venue.
